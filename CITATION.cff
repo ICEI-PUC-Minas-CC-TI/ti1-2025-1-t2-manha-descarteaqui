@@ -1,31 +1,39 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+title: Descarte Aqui 
 keywords:
-  - 
-  - 
-repository-code: 
+  - software
+  - web application
+  - waste management
+  - recycling
+  - sustainability
+authors:
+  - family-names: Sousa Santos
+    given-names: Mateus 
+  - family-names: Pereira Costa
+    given-names: Guilherme
+  - family-names: Lima Emerique Caldeira
+    given-names: Gabriel
+  - family-names: Miguel Alkmin
+    given-names: João
+  - family-names: Vieira
+    given-names: Samuel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Mara Freitas Diniz
+    given-names: Luciana
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Nepomuceno Curto
+    given-names: Hayala
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Dias Maciel
+    given-names: Wesley
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-t2-manha-descarteaqui.git
 license: CC-BY-4.0
-version: 1.0.0
-date-released: 2022-07-14
+version: 0.0.1
+date-released: 2025-06-01
+doi: 10.5281/descarte-aqui.2025
+url: https://descarteaqui.org
+contact: contact@descarteaqui.org
