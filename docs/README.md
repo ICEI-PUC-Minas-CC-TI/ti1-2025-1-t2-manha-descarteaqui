@@ -123,8 +123,16 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 | EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
 | --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
+| Dona de casa   | Saber como separar o lixo e onde jogar cada tipo em seu devido lugar | Contribuir para a preservação do meio
+ambiente             |
+| Ativista do meio ambiente        | Encontrar locais de coleta      | Contribuir na preservação do meio ambientes |
+| Dono de um local de coleta          | Formas de promover meu negócio      |Ter mais pessoas descartando no meu local de coleta |
+| Proprietário de um restaurante          | Local para descartar as sobras e os resíduos da cozinha       | Trazer uma boa reputação ao restaurante  |
+| Vereador         | Descartar o lixo gerado pela cidade      | Melhorar  a cidade |
+| Cidadão         | Mais locais de descarte      | Deixar a cidade mais limpa |
+| Indústria Química        | Encontrar locais certos para descarte de lixo químico      | Evitar acidentes ambientais |
+| Empresário        | Uma empresa sustentável que auxilie o meio ambiente      | Ajudar minha cidade  |
+
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -141,7 +149,8 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ##### Proposta para Persona XPTO ⚠️ EXEMPLO ⚠️
 
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
+![Proposta de Valor: Ines Mota Fernandes](images/propostaInes.png)
+![Proposta de Valor: Joao Guimaraes](images/propostaJoao.png)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
