@@ -77,7 +77,7 @@ Nosso projeto tem como objetivo alcançar diferentes perfis de público que dese
 
 ### Personas
 
-![Persona: Ines](images/persoaInes.png)
+![Persona: Ines](images/personaInes.png)
 
 ![Persona: Joao](images/persoaJoao.png)
 
