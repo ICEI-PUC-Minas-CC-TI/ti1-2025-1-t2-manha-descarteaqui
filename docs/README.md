@@ -36,6 +36,7 @@ Muitas pessoas ainda têm dúvidas sobre onde e como descartar corretamente cert
 
 Muitas pessoas não sabem onde ou como descartar certos tipos de lixo. O descarte incorreto causa poluição e desperdício de materiais.
 Falta de uma ferramenta simples para achar os locais de coleta.
+
 ## Objetivos
 
 Desenvolver um software que ofereça uma solução prática e eficiente para o problema do descarte incorreto de resíduos, facilitando o acesso a informações sobre os locais adequados para a coleta de diferentes tipos de lixo. A proposta visa contribuir para a redução da poluição e promover a conscientização ambiental por meio da tecnologia.
