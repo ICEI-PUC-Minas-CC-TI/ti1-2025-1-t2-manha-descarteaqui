@@ -1,0 +1,11 @@
+{
+    "tipos_lixo": [
+        "Plástico",
+        "Papel",
+        "Metal",
+        "Vidro",
+        "Orgânico",
+        "Eletrônico",
+        "Perigoso"
+    ]
+}
