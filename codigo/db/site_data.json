@@ -1,11 +1,44 @@
 {
-    "tipos_lixo": [
-        "Plástico",
-        "Papel",
-        "Metal",
-        "Vidro",
-        "Orgânico",
-        "Eletrônico",
-        "Perigoso"
-    ]
+    "tiposDeLixo": [
+    {
+      "id": 1,
+      "nome": "Papel",
+      "cor": "#0064CF"
+    },
+    {
+      "id": 2,
+      "nome": "Plástico",
+      "cor": "#FF4A4A"
+    },
+    {
+      "id": 3,
+      "nome": "Vidro",
+      "cor": "#79E82A"
+    },
+    {
+      "id": 4,
+      "nome": "Metal",
+      "cor": "#FFD829"
+    },
+    {
+      "id": 5,
+      "nome": "Eletrônico",
+      "cor": "#3674C5"
+    },
+    {
+      "id": 6,
+      "nome": "Orgânico",
+      "cor": "#594000"
+    },
+    {
+      "id": 7,
+      "nome": "Baterias/Pilhas",
+      "cor": "#FAFF61"
+    },
+    {
+      "id": 8,
+      "nome": "Entulho",
+      "cor": "#585200"
+    }
+  ]
 }
