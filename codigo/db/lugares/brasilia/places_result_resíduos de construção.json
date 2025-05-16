@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628"
+  },
+  {
+    "name": "Novo Rio Ambiental",
+    "address": "ST SCIA QUADRA 12 CONJUNTO 1 LOTE 18 - ZONA INDUSTRIAL, Brasília - DF, 71250-410, Brazil",
+    "latitude": -15.7087442,
+    "longitude": -47.914304099999995,
+    "googleMapsUri": "https://maps.google.com/?cid=5366480815814845888"
+  },
+  {
+    "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
+    "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
+    "latitude": -15.834466999999998,
+    "longitude": -48.043344999999995,
+    "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481"
+  },
+  {
+    "name": "Unidade de Recebimento de Entulho de Estrutural",
+    "address": "Guará, Brasília - Federal District, 70297-400, Brazil",
+    "latitude": -15.7732291,
+    "longitude": -47.9938596,
+    "googleMapsUri": "https://maps.google.com/?cid=17547177424107284537"
+  },
+  {
+    "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
+    "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
+    "latitude": -15.8128383,
+    "longitude": -48.013962799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641"
+  },
+  {
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996"
+  },
+  {
+    "name": "Papa entulho SLU",
+    "address": "535Q+5H - Brasília, Federal District, 70200-001, Brazil",
+    "latitude": -15.842069999999998,
+    "longitude": -47.9110583,
+    "googleMapsUri": "https://maps.google.com/?cid=1869216275169348963"
+  },
+  {
+    "name": "SLU",
+    "address": "SCS - 8 50/60 601/644 - Asa Sul, Brasília - DF, 70333-900, Brazil",
+    "latitude": -15.795614299999999,
+    "longitude": -47.892755,
+    "googleMapsUri": "https://maps.google.com/?cid=9008171826586468667"
+  },
+  {
+    "name": "Papa Entulho",
+    "address": "47 - St. G Norte - Taguatinga, Brasília - DF, 70297-400, Brazil",
+    "latitude": -15.7992821,
+    "longitude": -48.073582599999995,
+    "googleMapsUri": "https://maps.google.com/?cid=3740427676101724340"
+  }
+]

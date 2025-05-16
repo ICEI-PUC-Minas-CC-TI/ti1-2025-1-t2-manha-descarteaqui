@@ -1,0 +1,142 @@
+[
+  {
+    "name": "DISK DESCARTE",
+    "address": "R. Bueno do Prado, 72 - João Pinheiro, Belo Horizonte - MG, 30530-430, Brazil",
+    "latitude": -19.9299167,
+    "longitude": -43.99340110000001,
+    "googleMapsUri": "https://maps.google.com/?cid=15917665412402946017"
+  },
+  {
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+  },
+  {
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+  },
+  {
+    "name": "COLETABH",
+    "address": "R. Afluentes, 100 - Serrano, Belo Horizonte - MG, 30882-110, Brazil",
+    "latitude": -19.887330199999997,
+    "longitude": -44.008953899999995,
+    "googleMapsUri": "https://maps.google.com/?cid=7675315384447747249"
+  },
+  {
+    "name": "Ponto de Coleta Seletiva - LEV'S - Vidro",
+    "address": "R. dos Aimorés, 1106 - Centro, Belo Horizonte - MG, 30130-170, Brazil",
+    "latitude": -19.9292102,
+    "longitude": -43.9345631,
+    "googleMapsUri": "https://maps.google.com/?cid=13705043781512486686"
+  },
+  {
+    "name": "Ponto de Coleta Seletiva - LEV'S - Vidro",
+    "address": "Castelo, Belo Horizonte - State of Minas Gerais, 31330-450, Brazil",
+    "latitude": -19.8720846,
+    "longitude": -43.998447399999996,
+    "googleMapsUri": "https://maps.google.com/?cid=4113346169028376241"
+  },
+  {
+    "name": "Centro de Reciclagem - SLU GERLU NORDESTE",
+    "address": "R. Princesa Leopoldina, 485 - Ipiranga, Belo Horizonte - MG, 31160-120, Brazil",
+    "latitude": -19.885171,
+    "longitude": -43.9326114,
+    "googleMapsUri": "https://maps.google.com/?cid=13091864278075519155"
+  },
+  {
+    "name": "Ponto Verde - Nova Suissa",
+    "address": "Nova Suíça, Belo Horizonte - State of Minas Gerais, 30450-250, Brazil",
+    "latitude": -19.9368695,
+    "longitude": -43.972516399999996,
+    "googleMapsUri": "https://maps.google.com/?cid=2735813648822248833"
+  },
+  {
+    "name": "Central de Recebimento de Vidro - Redesol MG",
+    "address": "R. Lume, 268 - São Salvador, Belo Horizonte - MG, 30881-680, Brazil",
+    "latitude": -19.8894301,
+    "longitude": -44.0138016,
+    "googleMapsUri": "https://maps.google.com/?cid=3648659499092278493"
+  },
+  {
+    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
+    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
+    "latitude": -19.876649699999998,
+    "longitude": -43.9940334,
+    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062"
+  },
+  {
+    "name": "LEV coleta Seletiva PBH - VIDROS",
+    "address": "R. Granito, 50 - Aparecida, Belo Horizonte - MG, 31250-090, Brazil",
+    "latitude": -19.8901748,
+    "longitude": -43.9664626,
+    "googleMapsUri": "https://maps.google.com/?cid=6602370591945639405"
+  },
+  {
+    "name": "URPV - Unidade de Recebimento de Pequenos Volumes - Liberdade",
+    "address": "R. Flôr de Índio, 105 - Liberdade, Belo Horizonte - MG, 31270-215, Brazil",
+    "latitude": -19.8656786,
+    "longitude": -43.9556073,
+    "googleMapsUri": "https://maps.google.com/?cid=8873409580448511062"
+  },
+  {
+    "name": "AMBIENTAL MATERIAIS RECICLÁVEIS",
+    "address": "R. Alfa, 455 - Vila Paris, Contagem - MG, 32372-080, Brazil",
+    "latitude": -19.922455700000004,
+    "longitude": -44.0237963,
+    "googleMapsUri": "https://maps.google.com/?cid=14563460722844919714"
+  },
+  {
+    "name": "Reciclando BH",
+    "address": "Av. Álvaro da Silveira, 170 - Barreiro, Belo Horizonte - MG, 30662-537, Brazil",
+    "latitude": -19.9719886,
+    "longitude": -44.018167,
+    "googleMapsUri": "https://maps.google.com/?cid=1613440270579423004"
+  },
+  {
+    "name": "Reciclar",
+    "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
+    "latitude": -19.900590599999997,
+    "longitude": -43.9621804,
+    "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626"
+  },
+  {
+    "name": "Recicla.Club",
+    "address": "Av. Bias Fortes, 382 - 14º andar - Lourdes, Belo Horizonte - MG, 30170-011, Brazil",
+    "latitude": -19.9294138,
+    "longitude": -43.940629,
+    "googleMapsUri": "https://maps.google.com/?cid=9105221791416273387"
+  },
+  {
+    "name": "Ponto de Coleta Seletiva - LEV'S - Vidro",
+    "address": "Funcionários, Belo Horizonte - MG, 30110-021, Brazil",
+    "latitude": -19.9312287,
+    "longitude": -43.9243801,
+    "googleMapsUri": "https://maps.google.com/?cid=15186521632666907818"
+  },
+  {
+    "name": "Reciclagem BH",
+    "address": "R. Frei Gáspar, 10 - Me. Gertrudes, Belo Horizonte - MG, 30512-100, Brazil",
+    "latitude": -19.946286,
+    "longitude": -44.0054553,
+    "googleMapsUri": "https://maps.google.com/?cid=12831369268436959945"
+  },
+  {
+    "name": "Núcleo Lixo Zero - Bom Despacho",
+    "address": "R. Bom Despacho, 205 - Santa Tereza, Belo Horizonte - MG, 31010-390, Brazil",
+    "latitude": -19.9145765,
+    "longitude": -43.9120579,
+    "googleMapsUri": "https://maps.google.com/?cid=583377001198719479"
+  },
+  {
+    "name": "Ponto de Coleta Seletiva - LEV'S - Vidro",
+    "address": "R. Joaquim Murtinho, 298-300 - Santo Antônio, Belo Horizonte - MG, 30350-050, Brazil",
+    "latitude": -19.938157699999998,
+    "longitude": -43.9472518,
+    "googleMapsUri": "https://maps.google.com/?cid=13542729265842295258"
+  }
+]

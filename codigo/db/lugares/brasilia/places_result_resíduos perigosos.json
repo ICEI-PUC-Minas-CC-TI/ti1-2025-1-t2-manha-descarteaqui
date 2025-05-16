@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Zero Impacto - Logística Reversa",
+    "address": "SETOR DE ABASTECIMENTO E ARMAZENAMENTO NORTE - QUADRA 02 LOTE 805 - SAAN, Brasília - DF, 70632-250, Brazil",
+    "latitude": -15.762633699999999,
+    "longitude": -47.935500399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=14783728902387559217"
+  },
+  {
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628"
+  },
+  {
+    "name": "Novo Rio Ambiental",
+    "address": "ST SCIA QUADRA 12 CONJUNTO 1 LOTE 18 - ZONA INDUSTRIAL, Brasília - DF, 71250-410, Brazil",
+    "latitude": -15.7087442,
+    "longitude": -47.914304099999995,
+    "googleMapsUri": "https://maps.google.com/?cid=5366480815814845888"
+  },
+  {
+    "name": "Green Ambiental - Ponto de Coleta",
+    "address": "SPVP, 024 - Brasília, DF, 70297-400, Brazil",
+    "latitude": -15.794808000000002,
+    "longitude": -47.844107,
+    "googleMapsUri": "https://maps.google.com/?cid=16362987236346440376"
+  },
+  {
+    "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
+    "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
+    "latitude": -15.8128383,
+    "longitude": -48.013962799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641"
+  }
+]
