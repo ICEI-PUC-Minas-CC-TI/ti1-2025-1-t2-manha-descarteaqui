@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     icon: customIcon,
   }).addTo(map);*/
 
-  /*
+  
   const filterBar = document.getElementById("filter-bar");
 
   const response = await fetch("/tipos-lixo");
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     div.appendChild(colorCircle);
     filterBar.appendChild(div);
   });
-  */
+  
   const responseCity = await fetch("/tipos-cidade");
   const dataCity = await responseCity.json();
   const select = document.getElementById("city-select");
