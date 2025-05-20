@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628"
+  },
+  {
+    "name": "Green Ambiental - Ponto de Coleta",
+    "address": "SPVP, 024 - Brasília, DF, 70297-400, Brazil",
+    "latitude": -15.794808000000002,
+    "longitude": -47.844107,
+    "googleMapsUri": "https://maps.google.com/?cid=16362987236346440376"
+  },
+  {
+    "name": "Lixo eletrônico Brasília e descarte de informática",
+    "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
+    "latitude": -15.8021241,
+    "longitude": -48.1405691,
+    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791"
+  },
+  {
+    "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
+    "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
+    "latitude": -15.8128383,
+    "longitude": -48.013962799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641"
+  }
+]

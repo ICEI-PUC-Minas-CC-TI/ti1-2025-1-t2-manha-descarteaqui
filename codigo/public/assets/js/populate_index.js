@@ -18,7 +18,6 @@ document.addEventListener("DOMContentLoaded", async function () {
     icon: customIcon,
   }).addTo(map);*/
 
-  
   const filterBar = document.getElementById("filter-bar");
 
   const response = await fetch("/tipos-lixo");
@@ -37,7 +36,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     checkbox.type = "checkbox";
     checkbox.value = element.id;
     checkbox.id = `checkbox-${element.nome}`;
-    checkbox.onclick = () => onCheckboxChange();
+    checkbox.onclick = () => onCheckboxChange(map);
 
     const label = document.createElement("label");
     label.className = "checkbox-label";
@@ -53,20 +52,23 @@ document.addEventListener("DOMContentLoaded", async function () {
     div.appendChild(colorCircle);
     filterBar.appendChild(div);
   });
-  
+
   const responseCity = await fetch("/tipos-cidade");
   const dataCity = await responseCity.json();
   const select = document.getElementById("city-select");
   dataCity.forEach((element) => {
-      const option = document.createElement("option");
-      option.value = element.id;
-      option.textContent = element.nome
-      select.appendChild(option);
-    });
+    const option = document.createElement("option");
+    option.value = element.id;
+    option.textContent = element.nome;
+    select.appendChild(option);
+  });
   select.addEventListener("change", (event) => onCitySelect(event, map));
 });
 
-onCheckboxChange = () => {
+let currentMarkers = [];
+
+onCheckboxChange = (map) => {
+  
   const checkboxes = document.querySelectorAll('input[type="checkbox"]');
   const selectedValues = Array.from(checkboxes)
     .filter((checkbox) => checkbox.checked)
@@ -75,6 +77,9 @@ onCheckboxChange = () => {
   const detailsDiv = document.getElementById("details-div");
   detailsDiv.innerHTML = "";
 
+  currentMarkers.forEach(marker => map.removeLayer(marker));
+  currentMarkers = [];
+
   if (selectedValues.length > 0) {
     for (let i = 0; i < selectedValues.length; i++) {
       const selectedValue = selectedValues[i];
@@ -82,7 +87,7 @@ onCheckboxChange = () => {
       response
         .then((res) => res.json())
         .then((data) => {
-          console.log(selectedValue);
+          
           const div = document.createElement("div");
           div.className = "lixo-details";
           const h2 = document.createElement("h2");
@@ -96,7 +101,23 @@ onCheckboxChange = () => {
         });
     }
     const selectedCity = document.getElementById("city-select").value;
-    for (let i = 0; i < selectedValues.length; i++) {}
+        // Remove old markers
+    
+    
+    for (let i = 0; i < selectedValues.length; i++) {
+      const response = fetch(
+        `/lugares/${selectedCity}?tipos=${selectedValues[i]}`
+      );
+      response
+        .then((res) => res.json())
+        .then((data) => {
+          //adicionar div personalizadas aqui
+          data[0].lugares.forEach((element) => {
+            const marker = L.marker([element.latitude, element.longitude]).addTo(map);
+            currentMarkers.push(marker);
+          });
+        });
+    }
   }
 };
 

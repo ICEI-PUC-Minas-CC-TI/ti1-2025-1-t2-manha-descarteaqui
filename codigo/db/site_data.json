@@ -1,81 +1,81 @@
 {
   "tiposDeLixo": [
     {
-      "id": 1,
+      "id": "papel",
       "nome": "Papel",
       "cor": "#0064CF",
       "descricao": "Papéis em geral como jornais, cadernos, folhas e embalagens de papel."
     },
     {
-      "id": 2,
+      "id": "plastico",
       "nome": "Plástico",
       "cor": "#FF4A4A",
       "descricao": "Garrafas PET, sacolas plásticas, potes, embalagens e tampas plásticas."
     },
     {
-      "id": 3,
+      "id": "vidro",
       "nome": "Vidro",
       "cor": "#79E82A",
       "descricao": "Garrafas, potes e frascos de vidro limpos e sem tampa."
     },
     {
-      "id": 4,
+      "id": "metal",
       "nome": "Metal",
       "cor": "#FFD829",
       "descricao": "Latas de alumínio, ferragens, arames, pregos e objetos metálicos."
     },
     {
-      "id": 5,
+      "id": "eletronicos",
       "nome": "Eletrônico",
       "cor": "#3674C5",
       "descricao": "Celulares, carregadores, computadores, placas e aparelhos eletrônicos."
     },
     {
-      "id": 6,
+      "id": "organico",
       "nome": "Orgânico",
       "cor": "#594000",
       "descricao": "Restos de alimentos, cascas de frutas e legumes, borra de café e resíduos biodegradáveis."
     },
     {
-      "id": 7,
-      "nome": "Baterias/Pilhas",
+      "id": "hospitalares",
+      "nome": "Hospitalares",
       "cor": "#FAFF61",
       "descricao": "Pilhas, baterias de celular, controles e dispositivos similares."
     },
     {
-      "id": 8,
-      "nome": "Entulho",
+      "id": "construcao",
+      "nome": "Contrução",
       "cor": "#585200",
       "descricao": "Resíduos de construção como tijolos, concreto, telhas e restos de obras."
     }
   ],
   "cidades": [
     {
-      "id": 1,
+      "id": "sao_paulo",
       "nome": "São Paulo",
       "latidude": -23.5500,
       "longitude": -46.6333
     },
     {
-      "id": 2,
+      "id": "rio_de_janeiro",
       "nome": "Rio de Janeiro",
       "latidude": -22.9111,
       "longitude": -43.2056
     },
     {
-      "id": 3,
+      "id": "belo_horizonte",
       "nome": "Belo Horizonte",
       "latidude": -19.9167,
       "longitude": -43.9333
     },
     {
-      "id": 4,
+      "id": "curitiba",
       "nome": "Curitiba",
       "latidude": -25.4297,
       "longitude": -49.2711
     },
     {
-      "id": 5,
+      "id": "brasilia",
       "nome": "Brasilia",
       "latidude": -15.7939,
       "longitude": -47.8828

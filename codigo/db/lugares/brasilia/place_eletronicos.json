@@ -1,0 +1,142 @@
+[
+  {
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+  },
+  {
+    "name": "Lixos Eletrônicos DF",
+    "address": "Rua 3C - St. Hab. Vicente Pires Lote 22 loja 03 DF - DF, Brasília - DF, 72005-505, Brazil",
+    "latitude": -15.7867965,
+    "longitude": -48.0039296,
+    "googleMapsUri": "https://maps.google.com/?cid=4810330112497023075"
+  },
+  {
+    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
+    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
+    "latitude": -19.876649699999998,
+    "longitude": -43.9940334,
+    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062"
+  },
+  {
+    "name": "Zero Impacto - Logística Reversa",
+    "address": "SETOR DE ABASTECIMENTO E ARMAZENAMENTO NORTE - QUADRA 02 LOTE 805 - SAAN, Brasília - DF, 70632-250, Brazil",
+    "latitude": -15.762633699999999,
+    "longitude": -47.935500399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=14783728902387559217"
+  },
+  {
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+  },
+  {
+    "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
+    "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
+    "latitude": -15.834466999999998,
+    "longitude": -48.043344999999995,
+    "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481"
+  },
+  {
+    "name": "Lixo eletrônico Brasília e descarte de informática",
+    "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
+    "latitude": -15.8021241,
+    "longitude": -48.1405691,
+    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791"
+  },
+  {
+    "name": "Descarte Lixo Eletrônico",
+    "address": "Qnp 15 - Ceilândia Norte QNP 15 Conj. A casa 02 - Ceilândia, Brasília - DF, 72241-601, Brazil",
+    "latitude": -15.810525600000002,
+    "longitude": -48.132047899999996,
+    "googleMapsUri": "https://maps.google.com/?cid=7859143001892081480"
+  },
+  {
+    "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
+    "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
+    "latitude": -15.8128383,
+    "longitude": -48.013962799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641"
+  },
+  {
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996"
+  },
+  {
+    "name": "Lixo eletrônico Brasília e descarte de informática",
+    "address": "SHCN CLN 207 bloco b loja 32 - Asa Norte, Brasília - DF, 70852-000, Brazil",
+    "latitude": -15.7639604,
+    "longitude": -47.881272900000006,
+    "googleMapsUri": "https://maps.google.com/?cid=7666707312792371708"
+  },
+  {
+    "name": "EMILE Reciclagem de Eletroeletrônicos",
+    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
+    "latitude": -19.9453905,
+    "longitude": -43.9224724,
+    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265"
+  },
+  {
+    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
+    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
+    "latitude": -19.925871,
+    "longitude": -43.9527431,
+    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210"
+  },
+  {
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628"
+  },
+  {
+    "name": "SOS GREEN Gestão de Descarte Eletrônico",
+    "address": "R. Contagem, 868 - loja c - Santa Ines, Belo Horizonte - MG, 31080-255, Brazil",
+    "latitude": -19.8894554,
+    "longitude": -43.905776800000005,
+    "googleMapsUri": "https://maps.google.com/?cid=13568047759688273150"
+  },
+  {
+    "name": "Projeto Pro Verde - Lixo Eletrônico",
+    "address": "R. Itajubá, 170 A - Floresta, Belo Horizonte - MG, 30150-380, Brazil",
+    "latitude": -19.9151839,
+    "longitude": -43.9305077,
+    "googleMapsUri": "https://maps.google.com/?cid=5310481154771040767"
+  },
+  {
+    "name": "Coletor de vidro",
+    "address": "53FJ+J9 - Brasília, Federal District, 70360-510, Brazil",
+    "latitude": -15.825997199999998,
+    "longitude": -47.9191138,
+    "googleMapsUri": "https://maps.google.com/?cid=9919026875937194920"
+  },
+  {
+    "name": "Ponto de Entrega Voluntária",
+    "address": "Águas Claras, Federal District, Brasília - Federal District, 71928-720, Brazil",
+    "latitude": -15.847560399999999,
+    "longitude": -48.032627600000005,
+    "googleMapsUri": "https://maps.google.com/?cid=2964422138082878152"
+  },
+  {
+    "name": "Reciclar",
+    "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
+    "latitude": -19.900590599999997,
+    "longitude": -43.9621804,
+    "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626"
+  },
+  {
+    "name": "Instituto Nacional Pela Reciclagem",
+    "address": "SHCN CLN 308 BL D - Asa Norte, Brasília - DF, 70747-540, Brazil",
+    "latitude": -15.762928299999999,
+    "longitude": -47.889289399999996,
+    "googleMapsUri": "https://maps.google.com/?cid=3441000056070384948"
+  }
+]

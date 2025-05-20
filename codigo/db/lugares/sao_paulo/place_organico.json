@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Projeto Reciclar 100% do Lixo Domestico",
+    "address": "R. Vaud, 205 - Lauzane Paulista, São Paulo - SP, 02443-060, Brazil",
+    "latitude": -23.470904500000003,
+    "longitude": -46.649077999999996,
+    "googleMapsUri": "https://maps.google.com/?cid=17978794037496851930"
+  },
+  {
+    "name": "Ecoponto Vila Mariana",
+    "address": "R. Afonso Celso, 147 - Vila Mariana, São Paulo - SP, 04119-002, Brazil",
+    "latitude": -23.592918299999997,
+    "longitude": -46.6349124,
+    "googleMapsUri": "https://maps.google.com/?cid=10341652553425469752"
+  },
+  {
+    "name": "Planta Feliz Adubo Orgânico",
+    "address": "Avenida Professor Herman Von Ihering, 6000 6000 - Jardim Casa Grande, São Paulo - SP, 04870-423, Brazil",
+    "latitude": -23.75454,
+    "longitude": -46.7525753,
+    "googleMapsUri": "https://maps.google.com/?cid=15066904630593382977"
+  },
+  {
+    "name": "Ecolimpar remoções e descartes de moveis velhos e entulho",
+    "address": "Rua André de Leão, 285 - Brás, São Paulo - SP, 03101-010, Brazil",
+    "latitude": -23.5535987,
+    "longitude": -46.613347399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=12707543998133628857"
+  },
+  {
+    "name": "Cooperativa de Reciclagem Crescer",
+    "address": "R. Marina Ciufuli Zanfelice, 289 - Lapa, São Paulo - SP, 05040-000, Brazil",
+    "latitude": -23.513469399999998,
+    "longitude": -46.7072862,
+    "googleMapsUri": "https://maps.google.com/?cid=8647176198509166680"
+  },
+  {
+    "name": "Dma & Reciclagem sou um prestador de serviços referente à retirada e limpezas em geral,sou um profissional da reciclagem",
+    "address": "R. Butantã - Pinheiros, São Paulo - SP, 05427-001, Brazil",
+    "latitude": -23.5676149,
+    "longitude": -46.6956795,
+    "googleMapsUri": "https://maps.google.com/?cid=14540435194987058965"
+  },
+  {
+    "name": "Ecoponto Astarte",
+    "address": "R. Astarte, 500 - Vila Carrão, São Paulo - SP, 03447-140, Brazil",
+    "latitude": -23.550034699999998,
+    "longitude": -46.5250699,
+    "googleMapsUri": "https://maps.google.com/?cid=3181209456317503098"
+  },
+  {
+    "name": "Ecoponto Alvarenga",
+    "address": "Estr. do Alvarenga, 2475 - Jardim Itapura, São Paulo - SP, 04467-000, Brazil",
+    "latitude": -23.6954356,
+    "longitude": -46.651575,
+    "googleMapsUri": "https://maps.google.com/?cid=12016572563829788092"
+  },
+  {
+    "name": "Ecoponto São Lucas",
+    "address": "R. Florêncio Sanches, 307 - Vila Prudente, São Paulo - SP, 03266-200, Brazil",
+    "latitude": -23.599094299999997,
+    "longitude": -46.5344651,
+    "googleMapsUri": "https://maps.google.com/?cid=14866593024281027801"
+  },
+  {
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+  },
+  {
+    "name": "Coleta de Lixo Eletrônico SP | Sucata Digital ® descarte correto São Paulo",
+    "address": "R. Templários, 192 - Vila Formosa, São Paulo - SP, 03357-000, Brazil",
+    "latitude": -23.5654215,
+    "longitude": -46.557198799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=4825879670813915327"
+  },
+  {
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+  },
+  {
+    "name": "Ecoponto Montalvania",
+    "address": "R. Montalvânia, 195 - Jardim Sao Cristovao, São Paulo - SP, 03930-095, Brazil",
+    "latitude": -23.579215100000003,
+    "longitude": -46.4954681,
+    "googleMapsUri": "https://maps.google.com/?cid=3309552380861466562"
+  },
+  {
+    "name": "I Ecoponto Peña",
+    "address": "R. Dr. Heládio, 104 - Penha de França, São Paulo - SP, 03650-020, Brazil",
+    "latitude": -23.531341299999998,
+    "longitude": -46.5254127,
+    "googleMapsUri": "https://maps.google.com/?cid=7231951726491823877"
+  },
+  {
+    "name": "Coopermiti - Lixo Eletrônico",
+    "address": "R. João Rudge, 366 - Casa Verde Baixa, São Paulo - SP, 02513-020, Brazil",
+    "latitude": -23.513118,
+    "longitude": -46.656126799999996,
+    "googleMapsUri": "https://maps.google.com/?cid=12515958640505142581"
+  },
+  {
+    "name": "VALORA: Valorização dos Resíduos Recicláveis",
+    "address": "R. Albion, 327 - Lapa, São Paulo - SP, 05077-130, Brazil",
+    "latitude": -23.5237266,
+    "longitude": -46.7077022,
+    "googleMapsUri": "https://maps.google.com/?cid=4487417422126150489"
+  },
+  {
+    "name": "GRUPO RECICLO",
+    "address": "R. Dr. Luís Carlos, 78 - Chácara Califórnia, São Paulo - SP, 03405-100, Brazil",
+    "latitude": -23.5363416,
+    "longitude": -46.5504578,
+    "googleMapsUri": "https://maps.google.com/?cid=15508445379503336274"
+  },
+  {
+    "name": "Instituto Muda",
+    "address": "R. João Antônio de Oliveira, 445 - Mooca, São Paulo - SP, 03111-010, Brazil",
+    "latitude": -23.5568255,
+    "longitude": -46.605976899999995,
+    "googleMapsUri": "https://maps.google.com/?cid=15382488824364419020"
+  },
+  {
+    "name": "lixo eletronico reciclo info sales nv",
+    "address": "R. Otávio de Moura, 63 - Vila Carolina, São Paulo - SP, 02724-000, Brazil",
+    "latitude": -23.4994049,
+    "longitude": -46.6817333,
+    "googleMapsUri": "https://maps.google.com/?cid=15674275630880120652"
+  },
+  {
+    "name": "Ambilixo Coleta De Resíduos Industriais",
+    "address": "R. Dr. Jorge Veiga, 559 - Vila Carrão, São Paulo - SP, 03424-000, Brazil",
+    "latitude": -23.5524231,
+    "longitude": -46.5414855,
+    "googleMapsUri": "https://maps.google.com/?cid=12072760259235550876"
+  }
+]
