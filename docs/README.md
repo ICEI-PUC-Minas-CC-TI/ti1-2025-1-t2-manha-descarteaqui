@@ -120,7 +120,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-002 | Filtrar pontos de coleta por tipo de material reciclável | ALTA    |
 | RF-003 | Exibir detalhes de um ponto de coleta (endereço, materiais aceitos, etc) | ALTA    |
 | RF-004 | Permitir que o usuário acesse conteúdos educativos sobre reciclagem | MÉDIA    |
-| RF-005 | Permitir que o usuário cadastre pontos de coleta | MÉDIA    |
+| RF-005 | Permitir que o usuário(adm) cadastre pontos de coleta | MÉDIA    |
 
 
 ### Requisitos não Funcionais
@@ -130,7 +130,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel  | MÉDIA     |
 | RNF-002 | Deve processar requisições do usuário em no máximo 3 segundos      | MÉDIA     |
 | RNF-003 | Em caso de falha, o sistema deve se recuperar automaticamente ou exibir mensagem clara de erro.| MÉDIA      |
-| RNF-004 | Os dados dos usuários (como localização ou email, se coletados) devem ser protegidos por criptografia (HTTPS).| ALTA    |
+| RNF-004 | A interface deve ser intuitiva para usuários sem conhecimento técnico.| MÉDIA|
 | RNF-005 | O site deve seguir as diretrizes de acessibilidade WCAG 2.1 (por exemplo, contraste adequado, navegação por teclado).| ALTA    |
 | RNF-005 | O código deve ser modular e documentado, permitindo fácil manutenção por outros desenvolvedores.| ALTA    |
 
