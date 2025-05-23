@@ -3,12 +3,15 @@ const server = jsonServer.create();
 const data_router = require("./public/assets/js/routers/routes.js");
 const user_router = require("./public/assets/js/routers/user-router.js");
 
-const middlewares = jsonServer.defaults({ noCors: true, readOnly: false });
+const middlewares = jsonServer.defaults({
+  noCors: true,
+  readOnly: false,
+});
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 server.use(data_router);
 
-server.use(user_router);  
+server.use(user_router);
 
 server.get("/", (req, res) => {
   res.sendFile(__dirname + "/public/index.html");

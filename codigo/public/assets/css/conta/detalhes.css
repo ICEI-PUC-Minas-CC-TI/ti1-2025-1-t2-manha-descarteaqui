@@ -1,0 +1,292 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --primary-green: #00833e;
+  --secondary-green: #005a2b;
+  --tertiary-green: #003017;
+  --lime-green: #56ffa7;
+  --lime-green-light: #ccffe4;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Kanit, sans-serif;
+}
+
+.kanit-thin {
+  font-family: "Kanit", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #afafaf;
+  height: 100%;
+}
+
+#side-bar {
+  width: 50vh;
+  height: 90vh;
+  background-color: #ffffff;
+  overflow-y: auto;
+  z-index: 10;
+  padding: 20px;
+}
+
+section {
+  width: 50vh;
+  height: 100%;
+  background-color: #ffffff;
+  overflow-y: auto;
+  padding: 20px;
+  z-index: 5;
+  box-shadow: 12px 0 24px -12px rgba(0, 0, 0, 0.18);
+}
+
+main #trash {
+  width: 30px;
+  height: auto;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0;
+  color: black;
+  font-family: Kanit, sans-serif;
+}
+
+h1 strong {
+  color: var(--primary-green);
+}
+
+h1 #small {
+  color: var(--secondary-green);
+}
+
+a:hover {
+  color: var(--primary-green);
+  font-size: 1.5rem;
+  font-family: Kanit, sans-serif;
+}
+
+a:active {
+  color: var(--primary-green);
+  font-size: 1.5rem;
+  font-family: Kanit, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-family: Kanit, sans-serif;
+}
+
+label {
+  font-size: 1.5rem;
+  color: black;
+  font-family: Kanit, sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 10px   ;
+}
+
+#links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+#quiz {
+    width: 40px;
+    height: auto;
+}
+
+footer {
+  height: 20vh;
+  background-color: var(--primary-green);
+  position: relative;
+  z-index: 11;
+}
+
+main {
+  width: auto;
+  height: 90vh;
+  background-color: #ffffff;
+  display: flex;
+  background-image: url(../../images/quiet-street_v45k.svg);
+  background-repeat: no-repeat;
+  background-size: 150vh;
+  background-position: left bottom;
+}
+
+#container {
+  display: flex;
+  width: 35%;
+  flex-direction: column;
+  height: 80vh;
+  gap: 5px;
+  padding: 2vh 5vh 2vh 5vh;
+  background-color: var(--primary-green);
+}
+
+
+
+@media screen and (max-width: 768px) {
+  #container {
+    width: 95%;
+    min-width: 0;
+    height: auto;
+    padding: 2vh 2vw;
+    background-color: var(--primary-green);
+  }
+  main {
+    background-size: cover;
+    background-position: center bottom;
+    height: auto;
+    min-height: 100vh;
+    align-items: flex-start;
+    padding-top: 2vh;
+    background-image: none;
+  }
+  h1,
+  #container h2 {
+    font-size: 2.2rem;
+  }
+  #container label {
+    font-size: 1.5rem;
+  }
+  #container p {
+    font-size: 1rem;
+  }
+  button {
+    font-size: 2rem;
+    height: 6vh;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    font-size: 1.2rem;
+    height: 4vh;
+  }
+  #side-bar {
+    width: 100vw;
+    height: auto;
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #container {
+    width: 100vw;
+    padding: 2vh 1vw;
+    border-radius: 0;
+  }
+  h1,
+  #container h2 {
+    font-size: 1.5rem;
+  }
+  #container label {
+    font-size: 1.1rem;
+  }
+  #container p {
+    font-size: 0.9rem;
+  }
+  button {
+    font-size: 1.2rem;
+    height: 5vh;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    font-size: 1rem;
+    height: 3.5vh;
+  }
+  #side-bar {
+    width: 100vw;
+    padding: 5px;
+  }
+}
+
+.verde {
+  color: var(--tertiary-green);
+}
+
+.preto {
+  color: black;
+}
+
+#container h2 {
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1;
+  font-family: Kanit, sans-serif;
+}
+
+#container p {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+#container label {
+  font-size: 2.5rem;
+  color: white;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  height: 5vh;
+  padding: 1vh;
+  border-radius: 5px;
+  border: none;
+  background-color: white;
+  font-size: 2rem;
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+  outline: none;
+  box-shadow: 0 0 5px var(--primary-green);
+}
+
+#entrar-conta {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  height: 8vh;
+  background-color: var(--tertiary-green);
+  color: white;
+  font-size: 3rem;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--secondary-green);
+}
+
+button:active {
+  background-color: white;
+  color: var(--tertiary-green);
+}

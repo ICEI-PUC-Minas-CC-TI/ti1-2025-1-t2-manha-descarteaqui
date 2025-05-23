@@ -37,13 +37,13 @@
       "descricao": "Restos de alimentos, cascas de frutas e legumes, borra de café e resíduos biodegradáveis."
     },
     {
-      "id": "hospitalares",
+      "id": "residuos_hospitalares",
       "nome": "Hospitalares",
       "cor": "#FAFF61",
       "descricao": "Pilhas, baterias de celular, controles e dispositivos similares."
     },
     {
-      "id": "construcao",
+      "id": "residuos_construcao",
       "nome": "Contrução",
       "cor": "#585200",
       "descricao": "Resíduos de construção como tijolos, concreto, telhas e restos de obras."

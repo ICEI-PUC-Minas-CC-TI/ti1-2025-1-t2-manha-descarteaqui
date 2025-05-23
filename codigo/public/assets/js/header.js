@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.head.appendChild(link);
 
   const header = document.querySelector("header");
+  header.style.zIndex = 10;
   const header_links_container = document.querySelector(".header-links");
 
   window.addEventListener("scroll", () => {
