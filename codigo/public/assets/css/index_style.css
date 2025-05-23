@@ -44,17 +44,6 @@ body {
   height: auto;
 }
 
-header {
-  background-color: #ffffff;
-  border-bottom: 1px solid #ccc;
-  color: white;
-  width: 100%;
-  padding: 10px 20px 10px 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 h1 {
   font-size: 3rem;
   margin: 0;

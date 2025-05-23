@@ -1,25 +1,10 @@
 {
   "usuarios": [
     {
-      "id": 1,
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
-    },
-    {
-      "id": 2,
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
-    },
-    {
-      "login": "rommel",
-      "senha": "123",
-      "nome": "Rommel",
-      "email": "rommel@gmail.com",
-      "id": 3
+      "nome": "Mateus de Sousa Santos",
+      "email": "mateus.sousa.santos191@gmail.com",
+      "senha": "PFSpcs0820!",
+      "user_img": "/assets/images/female-avatar.svg"
     }
   ]
 }
