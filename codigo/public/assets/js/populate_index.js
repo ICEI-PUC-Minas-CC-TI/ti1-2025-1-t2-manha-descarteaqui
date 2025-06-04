@@ -1,175 +1,246 @@
-let currentMarkers = [];
+import { criarElemento } from "../js/dom-utils.js";
 
+// Array para armazenar os marcadores atualmente exibidos no mapa
+let marcadoresAtuais = [];
+
+// Inicializa o mapa e popula os filtros e cidades ao carregar a página
 document.addEventListener("DOMContentLoaded", async function () {
-  
-
-  const map = initializeMap();
-  await populateTrashTypes(map);
-  await populateCities(map);
+  const mapa = inicializarMapa();
+  await carregarTiposDeLixo(mapa);
+  await carregarCidades(mapa);
 });
 
-function initializeMap() {
-  const map = L.map("map").setView([-23.5505, -46.6333], 12);
+// Função para inicializar o mapa com uma visão padrão
+function inicializarMapa() {
+  const mapa = L.map("map").setView([-23.5505, -46.6333], 12);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution:
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  }).addTo(map);
-  return map;
+  }).addTo(mapa);
+  return mapa;
 }
 
-async function populateTrashTypes(map) {
-  const filterBar = document.getElementById("filter-bar");
-  const response = await fetch("/tipos-lixo");
-  const data = await response.json();
-  data.forEach((element) => {
-    const div = createTrashTypeCheckbox(element, map);
-    filterBar.appendChild(div);
+// Carrega os tipos de lixo e cria os checkboxes para filtragem
+async function carregarTiposDeLixo(mapa) {
+  const barraDeFiltros = document.getElementById("filter-bar");
+  const resposta = await fetch("/tipos-lixo");
+  const tiposDeLixo = await resposta.json();
+
+  tiposDeLixo.forEach((tipo) => {
+    const checkboxContainer = criarCheckboxTipoDeLixo(tipo, mapa);
+    barraDeFiltros.appendChild(checkboxContainer);
   });
 }
 
-function createTrashTypeCheckbox(element, map) {
-  const div = document.createElement("div");
-  div.className = "checkbox-container";
-  const smallDiv = document.createElement("div");
-  smallDiv.style.display = "flex";
-  smallDiv.style.alignItems = "center";
-  smallDiv.style.justifyContent = "center";
-  smallDiv.style.gap = "5px";
+// Cria um checkbox para cada tipo de lixo
+function criarCheckboxTipoDeLixo(tipo, mapa) {
+  const container = criarElemento(
+    "div",
+    { className: "checkbox-container" },
+    null
+  );
 
-  const checkbox = document.createElement("input");
-  checkbox.type = "checkbox";
-  checkbox.value = element.id;
-  checkbox.id = `checkbox-${element.nome}`;
-  checkbox.onclick = () => onCheckboxChange(map);
+  const divInterna = criarElemento(
+    "div",
+    {
+      style:
+        "display: flex; align-items: center; justify-content: center; gap: 5px;",
+    },
+    container
+  );
 
-  const label = document.createElement("label");
-  label.className = "checkbox-label";
-  label.htmlFor = `checkbox-${element.nome}`;
-  label.textContent = element.nome;
+  const checkbox = criarElemento(
+    "input",
+    {
+      type: "checkbox",
+      value: tipo.id,
+      id: `checkbox-${tipo.nome}`,
+      onclick: () => aoAlterarCheckbox(mapa),
+    },
+    divInterna
+  );
 
-  smallDiv.appendChild(checkbox);
-  smallDiv.appendChild(label);
+  criarElemento(
+    "label",
+    {
+      className: "checkbox-label",
+      htmlFor: `checkbox-${tipo.nome}`,
+    },
+    divInterna,
+    tipo.nome
+  );
 
-  const colorCircle = document.createElement("div");
-  colorCircle.style.backgroundColor = element.cor;
-  colorCircle.className = "color-circle";
+  criarElemento(
+    "div",
+    {
+      style: `background-color: ${tipo.cor};`,
+      className: "color-circle",
+    },
+    container
+  );
 
-  div.appendChild(smallDiv);
-  div.appendChild(colorCircle);
-  return div;
+  return container;
 }
 
-async function populateCities(map) {
-  const responseCity = await fetch("/tipos-cidade");
-  const dataCity = await responseCity.json();
-  const select = document.getElementById("city-select");
-  dataCity.forEach((element) => {
-    const option = document.createElement("option");
-    option.value = element.id;
-    option.textContent = element.nome;
-    select.appendChild(option);
+// Carrega as cidades e popula o dropdown de seleção
+async function carregarCidades(mapa) {
+  const resposta = await fetch("/tipos-cidade");
+  const cidades = await resposta.json();
+  const seletorDeCidades = document.getElementById("city-select");
+
+  cidades.forEach((cidade) => {
+    criarElemento(
+      "option",
+      { value: cidade.id },
+      seletorDeCidades,
+      cidade.nome
+    );
   });
-  select.addEventListener("change", (event) => onCitySelect(event, map));
+
+  seletorDeCidades.addEventListener("change", (evento) =>
+    aoSelecionarCidade(evento, mapa)
+  );
 }
 
-async function onCheckboxChange(map) {
+// Função chamada ao alterar os checkboxes de tipos de lixo
+async function aoAlterarCheckbox(mapa) {
   const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-  const selectedValues = Array.from(checkboxes)
+  const valoresSelecionados = Array.from(checkboxes)
     .filter((checkbox) => checkbox.checked)
     .map((checkbox) => checkbox.value);
+  const valoresQuery = valoresSelecionados.join(",");
+  const divDetalhes = document.getElementById("details-div");
+  divDetalhes.innerHTML = "";
 
-  const detailsDiv = document.getElementById("details-div");
-  detailsDiv.innerHTML = "";
+  limparMarcadores(mapa);
 
-  clearMarkers(map);
-
-  if (selectedValues.length > 0) {
+  if (valoresSelecionados.length > 0) {
     await Promise.all(
-      selectedValues.map(async (selectedValue) => {
-        await showTrashDetails(selectedValue, detailsDiv);
+      valoresSelecionados.map(async (valor) => {
+        await exibirDetalhesDoLixo(valor, divDetalhes);
       })
     );
 
-    const selectedCity = document.getElementById("city-select").value;
-    //will change. the function will optimized to not make a new request for each selected value and only make one request for all selected values
-    // const response = await fetch(`/lugares/${selectedCity}?tipos=${selectedValues}`);
-    await Promise.all(
-      selectedValues.map(async (selectedValue) => {
-        await addMarkersForTrashType(selectedCity, selectedValue, map);
-      })
-    );
+    const cidadeSelecionada = document.getElementById("city-select").value;
+    adicionarMarcadoresPorTipoDeLixo(cidadeSelecionada, valoresQuery, mapa);
   }
 }
 
-async function showTrashDetails(selectedValue, detailsDiv) {
-  const response = await fetch(`/lixo-detalhes/${selectedValue}`);
-  const data = await response.json();
-  const div = document.createElement("div");
-  div.className = "lixo-details";
-  const h2 = document.createElement("h2");
-  h2.textContent = data.nome;
-  h2.style.color = data.cor;
-  const p = document.createElement("p");
-  p.textContent = data.descricao;
-  div.appendChild(h2);
-  div.appendChild(p);
-  detailsDiv.appendChild(div);
+// Cache para armazenar os detalhes de cada tipo de lixo individual
+let cacheDetalhesLixoIndividual = {};
+
+// Exibe os detalhes de um tipo de lixo selecionado
+async function exibirDetalhesDoLixo(valorSelecionado, divDetalhes) {
+  let detalhesDoLixo;
+
+  // Verifica se os detalhes já estão no cache
+  if (cacheDetalhesLixoIndividual[valorSelecionado]) {
+    detalhesDoLixo = cacheDetalhesLixoIndividual[valorSelecionado];
+  } else {
+    // Caso contrário, faz a requisição e armazena no cache
+    const resposta = await fetch(`/lixo-detalhes/${valorSelecionado}`);
+    detalhesDoLixo = await resposta.json();
+    cacheDetalhesLixoIndividual[valorSelecionado] = detalhesDoLixo;
+  }
+
+  // Cria os elementos para exibir os detalhes
+  const div = criarElemento("div", { className: "lixo-details" }, divDetalhes);
+  criarElemento(
+    "h2",
+    { style: `color: ${detalhesDoLixo.cor};` },
+    div,
+    detalhesDoLixo.nome
+  );
+  criarElemento("p", {}, div, detalhesDoLixo.descricao);
 }
 
-//optmize search | at the moment is making a new request for each selected value even if past values are the same
-async function addMarkersForTrashType(selectedCity, selectedValue, map) {
-  const response = await fetch(
-    `/lugares/${selectedCity}?tipos=${selectedValue}`
-  );
-  const data = await response.json();
-  if (data[0] && data[0].lugares) {
-    // Fetch the color and details for this trash type
-    const trashTypeResponse = await fetch(`/lixo-detalhes/${selectedValue}`);
-    const trashTypeData = await trashTypeResponse.json();
-    const markerColor = trashTypeData.cor || "#3388ff"; // fallback color
+// Cache para armazenar os detalhes de todos os tipos de lixo
+let cacheDetalhesTiposDeLixo = null;
 
-    // Create a custom icon
-    const customIcon = L.divIcon({
+// Carrega os detalhes de todos os tipos de lixo
+async function carregarDetalhesTiposDeLixo() {
+  if (!cacheDetalhesTiposDeLixo) {
+    const resposta = await fetch("/tipos-lixo");
+    cacheDetalhesTiposDeLixo = await resposta.json();
+  }
+  return cacheDetalhesTiposDeLixo;
+}
+
+// Adiciona marcadores ao mapa com base nos tipos de lixo selecionados e na cidade
+async function adicionarMarcadoresPorTipoDeLixo(
+  cidadeSelecionada,
+  valoresQuery,
+  mapa
+) {
+  const detalhesTiposDeLixo = await carregarDetalhesTiposDeLixo();
+
+  const resposta = await fetch(
+    `/lugares/${cidadeSelecionada}?tipos=${valoresQuery}`
+  );
+  const lugares = await resposta.json();
+
+  if (lugares.length === 0) {
+    alert("Nenhum lugar encontrado para os tipos de lixo selecionados.");
+    return;
+  }
+
+  lugares.forEach((lugar) => {
+    const detalhesTipoLixo = detalhesTiposDeLixo.find(
+      (tipo) => tipo.id === lugar.tipo
+    );
+    const corDoMarcador = detalhesTipoLixo ? detalhesTipoLixo.cor : "#3388ff";
+
+    const iconePersonalizado = L.divIcon({
       className: "custom-marker",
-      html: `<div style="background:${markerColor};width:20px;height:20px;border-radius:50%;border:2px solid #fff;"></div>`,
+      html: `<div style="background:${corDoMarcador};width:20px;height:20px;border-radius:50%;border:2px solid #fff;"></div>`,
       iconSize: [24, 24],
       iconAnchor: [12, 12],
     });
 
-    data[0].lugares.forEach((element) => {
-      const marker = L.marker([element.latitude, element.longitude], {
-        icon: customIcon,
-      }).addTo(map);
-      // Add popup with more info
-      marker.bindPopup(`
+    lugar.lugares.forEach((local) => {
+      const marcador = L.marker([local.latitude, local.longitude], {
+        icon: iconePersonalizado,
+      }).addTo(mapa);
+
+      marcador.bindPopup(`
         <div style="min-width:250px;gap:15px;">
-          <h3 style="margin:0;color:${markerColor};font-size:1.5rem">${
-        element.name
-      }</h3>
-          <p style="margin:0;font-size:0.9rem">${element.address}</p>
-          <a style="margin:0;font-size:1rem" href="${
-            element.googleMapsUri
-          }" target="_blank" >${"link para o google maps"}</a>
+          <h3 style="margin:0;color:${corDoMarcador};font-size:1.5rem">${local.name}</h3>
+          <p style="margin:0;font-size:0.9rem">${local.address}</p>
+          <a style="margin:0;font-size:1rem" href="${local.googleMapsUri}" target="_blank">Link para o Google Maps</a>
           <p id="detalhes-local-p" style="margin:0;font-size:1.2rem;color:blue;text-decoration: underline;cursor: pointer;">Reviews sobre o lugar</p>
         </div>
       `);
-      currentMarkers.push(marker);
+
+      marcadoresAtuais.push(marcador);
     });
+  });
+}
+
+// Remove todos os marcadores do mapa
+function limparMarcadores(mapa) {
+  marcadoresAtuais.forEach((marcador) => mapa.removeLayer(marcador));
+  marcadoresAtuais = [];
+}
+
+// Função chamada ao selecionar uma cidade no dropdown
+async function aoSelecionarCidade(evento, mapa) {
+  const cidadeSelecionada = evento.target.value;
+  limparMarcadores(mapa);
+
+  const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+  const valoresSelecionados = Array.from(checkboxes)
+    .filter((checkbox) => checkbox.checked)
+    .map((checkbox) => checkbox.value);
+  const valoresQuery = valoresSelecionados.join(",");
+  if(valoresQuery != "") {
+    adicionarMarcadoresPorTipoDeLixo(cidadeSelecionada, valoresQuery, mapa);
   }
-}
 
-function clearMarkers(map) {
-  currentMarkers.forEach((marker) => map.removeLayer(marker));
-  currentMarkers = [];
-}
+  const resposta = await fetch(`/tipos-cidade`);
+  const cidades = await resposta.json();
+  const dadosCidade = cidades.find((cidade) => cidade.id == cidadeSelecionada);
 
-async function onCitySelect(event, map) {
-  const selectedCity = event.target.value;
-  clearMarkers(map);
-  const response = await fetch(`/tipos-cidade`);
-  const data = await response.json();
-  const cityData = data.find((city) => city.id == selectedCity);
-  if (cityData) {
-    map.setView([cityData.latidude, cityData.longitude], 12);
+  if (dadosCidade) {
+    mapa.setView([dadosCidade.latidude, dadosCidade.longitude], 12);
   }
 }

@@ -9,26 +9,21 @@ const {
 
 router.post("/criar-conta", (req, res) => {
   const { nome, email, senha } = req.body;
-  criarConta(nome, email, senha, (err, data) => {
+  criarConta(nome, email, senha, (err, result) => {
     if (err) {
-      if (err.status === 401) {
-        res.status(401).send(err.message);
-        return;
-      }
-      res.status(err.status).send(err.message);
-      return;
+      return res.status(err.status || 500).json({ error: err.message });
     }
-    res.status(201).json(data);
+    res.status(201).json(result);
   });
 });
+
 router.post("/entrar-conta", (req, res) => {
   const { email, senha } = req.body;
-  entrarConta(email, senha, (err, data) => {
+  entrarConta(email, senha, (err, result) => {
     if (err) {
-      res.status(err).send(err.message);
-      return;
+      return res.status(err.status || 500).json({ error: err.message });
     }
-    res.status(200).json(data);
+    res.status(200).json(result);
   });
 });
 

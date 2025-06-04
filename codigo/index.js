@@ -7,8 +7,18 @@ const middlewares = jsonServer.defaults({
   noCors: true,
   readOnly: false,
 });
+
+
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
+
+server.use((req,res,next) => {
+  if(req.url.startsWith("/tipos-lixo") || req.url.startsWith("/tipos-cidade")) {
+    res.set("Cache-Control", "public, max-age=3600");
+  } 
+  next();
+})
+
 server.use(data_router);
 
 server.use(user_router);
@@ -31,4 +41,8 @@ server.get("/contas/detalhes", (req, res) => {
 
 server.listen(3000, () => {
   console.log(`JSON Server is running em http://localhost:3000`);
+});
+
+server.use((req, res) => {
+  res.status(404).json({ error: "Rota não encontrada" });
 });

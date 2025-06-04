@@ -8,16 +8,11 @@ async function entrarConta(email, senha){
             body: JSON.stringify({ email, senha })
         });
 
-        if (!response.ok) {
-            if (response.status === 404) {
-                alert('Email ou senha inválidos');
-                throw new Error('Email ou senha inválidos');
-            }
-            alert('Erro ao criar conta. Verifique os dados e tente novamente.');
-            return;
+        const data = await response.json();
+        if (data.error) {
+            throw new Error(data.error || 'Erro desconhecido ao entrar na conta');
         }
 
-        const data = await response.json();
         console.log(data);
         localStorage.setItem('account_token', data.account_token);
         localStorage.setItem('user_data', JSON.stringify(data.user));
@@ -25,13 +20,7 @@ async function entrarConta(email, senha){
 
 
     } catch (error) {
-        console.error('Erro ao criar conta:', error);
-        console.log(error.message);
-        if(error.message.includes("Usuário já existe")) {
-            alert('Usuário já existe. Tente novamente com outro e-mail.');
-            return;
-        }
-        alert('Erro ao criar conta. Tente novamente mais tarde.');     
+        alert(error.message || 'Ocorreu um erro ao entrar na conta. Por favor, tente novamente.');     
     }
 }
 

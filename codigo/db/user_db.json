@@ -17,6 +17,12 @@
       "email": "mateus.sousa.santos191@gmail.com",
       "senha": "123",
       "user_img": "/assets/images/male-avatar.svg"
+    },
+    {
+      "nome": "teste",
+      "email": "teste@teste.com",
+      "senha": "123",
+      "user_img": "/assets/images/female-avatar.svg"
     }
   ]
 }
