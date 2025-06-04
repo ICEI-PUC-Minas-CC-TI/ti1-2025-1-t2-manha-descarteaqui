@@ -1,0 +1,61 @@
+{
+  "quizes": [
+    {
+      "id": 1,
+      "nome": "O que é Lixo?",
+      "descricao": "Lixo é tudo aquilo que não tem mais utilidade para o ser humano, mas que pode ser reaproveitado por outros seres vivos ou pela natureza.",
+      "perguntas": [
+        {
+          "id": 1,
+          "texto": "O que é lixo?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Tudo que não tem mais utilidade para o ser humano"
+            },
+            { "id": 2, "texto": "Tudo que é produzido pelo ser humano" },
+            { "id": 3, "texto": "Tudo que é orgânico" },
+            { "id": 4, "texto": "Tudo que é reciclável" }
+          ],
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 2,
+          "texto": "Qual a importância da reciclagem?",
+          "respostas": [
+            { "id": 1, "texto": "Reduz o volume de lixo" },
+            { "id": 2, "texto": "Gera empregos" },
+            { "id": 3, "texto": "Conserva recursos naturais" },
+            { "id": 4, "texto": "Todas as anteriores" }
+          ],
+          "resposta_correta_id": 4
+        },
+        {
+          "id": 3,
+          "texto": "O que é compostagem?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Processo de decomposição de matéria orgânica"
+            },
+            { "id": 2, "texto": "Processo de reciclagem de papel" },
+            { "id": 3, "texto": "Processo de incineração de lixo" },
+            { "id": 4, "texto": "Processo de separação de lixo" }
+          ],
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 4,
+          "texto": "Qual é o principal objetivo da coleta seletiva?",
+          "respostas": [
+            { "id": 1, "texto": "Reduzir a quantidade de lixo" },
+            { "id": 2, "texto": "Facilitar a reciclagem" },
+            { "id": 3, "texto": "Conservar recursos naturais" },
+            { "id": 4, "texto": "Todas as anteriores" }
+          ],
+          "resposta_correta_id": 4
+        }
+      ]
+    }
+  ]
+}

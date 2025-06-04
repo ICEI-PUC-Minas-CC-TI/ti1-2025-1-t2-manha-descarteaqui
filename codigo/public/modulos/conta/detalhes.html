@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="../../assets/images/svg-icone.svg"
+      type="image/svg+xml"
+    />
+    <title>Descarte Aqui</title>
+    <link rel="stylesheet" href="../../assets/css/conta/detalhes.css" />
+    <script src="../../assets/js/header.js" defer></script>
+    <script src="../../assets/js/conta/detalhes.js" defer></script>
+  </head>
+  <body>
+    <header></header>
+    <main>
+      <div id="side-bar">
+        <h2>
+          <img id="trash" src="../../assets/icons/trash.svg" alt="" />Tipos de
+          Lixo
+        </h2>
+        <div id="lixos-list"></div>
+        <hr />
+        <h2>
+          <img id="quiz" src="../../assets/icons/quiz.svg" alt="" />Quizzes
+        </h2>
+        <div id="quizes-list"></div>
+      </div>
+
+      <div id="container">
+        <div id="user-details">
+          <img
+            src="../../assets/images/female-avatar.svg"
+            alt="User Avatar"
+            id="user-image"
+          />
+          <div>
+            <h2 id="user-name" class="forms-text"></h2>
+            <h2 id="user-email" class="forms-text"></h2>
+          </div>
+        </div>
+
+        <div id="user-edit">
+          <form id="forms">
+            <h2 class="forms-text">Informações do Usuário</h2>
+            <div class="form-group">
+              <label for="novo-nome" class="forms-text">Novo Nome</label>
+              <div>
+                <input type="text" id="novo-nome" placeholder="Nome" />
+                <button
+                  type="button"
+                  id="atualizar-nome"
+                  onclick="updateUserData()"
+                >
+                  Atualizar
+                </button>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="novo-senha" class="forms-text">Nova Senha</label>
+              <div>
+                <input type="password" id="novo-senha" placeholder="Senha" />
+                <button
+                  type="button"
+                  id="update-senha"
+                  onclick="updateUserData()"
+                >
+                  Atualizar
+                </button>
+              </div>
+            </div>
+            <p id="info"></p>
+          </form>
+          <button id="delete-button" onclick="deleteUserData()">
+            Deletar Conta
+          </button>
+        </div>
+      </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>

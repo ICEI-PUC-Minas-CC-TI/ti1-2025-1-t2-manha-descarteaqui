@@ -1,6 +1,8 @@
 let currentMarkers = [];
 
 document.addEventListener("DOMContentLoaded", async function () {
+  
+
   const map = initializeMap();
   await populateTrashTypes(map);
   await populateCities(map);
@@ -9,7 +11,8 @@ document.addEventListener("DOMContentLoaded", async function () {
 function initializeMap() {
   const map = L.map("map").setView([-23.5505, -46.6333], 12);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
   return map;
 }
@@ -81,16 +84,20 @@ async function onCheckboxChange(map) {
   clearMarkers(map);
 
   if (selectedValues.length > 0) {
-    await Promise.all(selectedValues.map(async (selectedValue) => {
-      await showTrashDetails(selectedValue, detailsDiv);
-    }));
+    await Promise.all(
+      selectedValues.map(async (selectedValue) => {
+        await showTrashDetails(selectedValue, detailsDiv);
+      })
+    );
 
     const selectedCity = document.getElementById("city-select").value;
     //will change. the function will optimized to not make a new request for each selected value and only make one request for all selected values
     // const response = await fetch(`/lugares/${selectedCity}?tipos=${selectedValues}`);
-    await Promise.all(selectedValues.map(async (selectedValue) => {
-      await addMarkersForTrashType(selectedCity, selectedValue, map);
-    }));
+    await Promise.all(
+      selectedValues.map(async (selectedValue) => {
+        await addMarkersForTrashType(selectedCity, selectedValue, map);
+      })
+    );
   }
 }
 
@@ -111,18 +118,48 @@ async function showTrashDetails(selectedValue, detailsDiv) {
 
 //optmize search | at the moment is making a new request for each selected value even if past values are the same
 async function addMarkersForTrashType(selectedCity, selectedValue, map) {
-  const response = await fetch(`/lugares/${selectedCity}?tipos=${selectedValue}`);
+  const response = await fetch(
+    `/lugares/${selectedCity}?tipos=${selectedValue}`
+  );
   const data = await response.json();
   if (data[0] && data[0].lugares) {
+    // Fetch the color and details for this trash type
+    const trashTypeResponse = await fetch(`/lixo-detalhes/${selectedValue}`);
+    const trashTypeData = await trashTypeResponse.json();
+    const markerColor = trashTypeData.cor || "#3388ff"; // fallback color
+
+    // Create a custom icon
+    const customIcon = L.divIcon({
+      className: "custom-marker",
+      html: `<div style="background:${markerColor};width:20px;height:20px;border-radius:50%;border:2px solid #fff;"></div>`,
+      iconSize: [24, 24],
+      iconAnchor: [12, 12],
+    });
+
     data[0].lugares.forEach((element) => {
-      const marker = L.marker([element.latitude, element.longitude]).addTo(map);
+      const marker = L.marker([element.latitude, element.longitude], {
+        icon: customIcon,
+      }).addTo(map);
+      // Add popup with more info
+      marker.bindPopup(`
+        <div style="min-width:250px;gap:15px;">
+          <h3 style="margin:0;color:${markerColor};font-size:1.5rem">${
+        element.name
+      }</h3>
+          <p style="margin:0;font-size:0.9rem">${element.address}</p>
+          <a style="margin:0;font-size:1rem" href="${
+            element.googleMapsUri
+          }" target="_blank" >${"link para o google maps"}</a>
+          <p id="detalhes-local-p" style="margin:0;font-size:1.2rem;color:blue;text-decoration: underline;cursor: pointer;">Reviews sobre o lugar</p>
+        </div>
+      `);
       currentMarkers.push(marker);
     });
   }
 }
 
 function clearMarkers(map) {
-  currentMarkers.forEach(marker => map.removeLayer(marker));
+  currentMarkers.forEach((marker) => map.removeLayer(marker));
   currentMarkers = [];
 }
 

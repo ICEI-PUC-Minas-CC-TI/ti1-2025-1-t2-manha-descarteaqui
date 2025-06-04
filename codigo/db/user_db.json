@@ -1,25 +1,22 @@
 {
   "usuarios": [
     {
-      "id": 1,
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "nome": "beatriz",
+      "email": "bealves@gmail.com",
+      "senha": "sexo",
+      "user_img": "/assets/images/male-avatar.svg"
     },
     {
-      "id": 2,
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "nome": "Guilherme",
+      "email": "bilaublau@gmail.com",
+      "senha": "!234567",
+      "user_img": "/assets/images/female-avatar.svg"
     },
     {
-      "login": "rommel",
+      "nome": "mateus",
+      "email": "mateus.sousa.santos191@gmail.com",
       "senha": "123",
-      "nome": "Rommel",
-      "email": "rommel@gmail.com",
-      "id": 3
+      "user_img": "/assets/images/male-avatar.svg"
     }
   ]
 }
