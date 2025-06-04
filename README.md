@@ -21,7 +21,7 @@ Um site .org onde as pessoas poderam verificar os locais de coleta e descarte do
 
 ```bash
     cd codigo
-    node index.js
+    npm run start
 ```
 
 ![Capa do projeto](./docs/images/capa.png)
