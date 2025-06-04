@@ -1,0 +1,11 @@
+services:
+  descarte-aqui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./codigo:/app
+    environment:
+      - NODE_ENV=production
