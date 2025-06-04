@@ -4,7 +4,16 @@
     "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
     "latitude": -19.9408104,
     "longitude": -44.0015892,
-    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "comentarios":[
+      {
+        "email":"",
+        "texto":"",
+        "data":"2024-01-15T00:00:00Z",
+        "avaliacao":5,
+        "nome":"João Silva"
+      }
+    ]
   },
   {
     "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
