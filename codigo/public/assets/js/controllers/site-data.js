@@ -105,4 +105,28 @@ function lugaresDeColeta(tiposLixo, cidade, callback) {
   });
 }
 
-module.exports = { tiposLixo, lixoDetalhes, tiposCidade, lugaresDeColeta };
+function quizes(callback) {
+  const filePath = path.join(__dirname, "../../../../db/quizes.json");
+
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading site_data.json:", err);
+      callback(err, null);
+      return;
+    }
+    try {
+      const jsonData = JSON.parse(data);
+      const quizzes = jsonData.quizes.map((quiz) => ({
+        id: quiz.id,
+        nome: quiz.nome,
+        descricao: quiz.descricao,
+        perguntas: quiz.perguntas,
+      }));
+      callback(null, quizzes);
+    } catch (parseError) {
+      console.error("Error parsing site_data.json:", parseError);
+      callback(parseError, null);
+    }
+  });
+}
+module.exports = { tiposLixo, lixoDetalhes, tiposCidade, lugaresDeColeta, quizes };

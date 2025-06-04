@@ -1,6 +1,8 @@
 let currentMarkers = [];
 
 document.addEventListener("DOMContentLoaded", async function () {
+  
+
   const map = initializeMap();
   await populateTrashTypes(map);
   await populateCities(map);
@@ -140,10 +142,15 @@ async function addMarkersForTrashType(selectedCity, selectedValue, map) {
       }).addTo(map);
       // Add popup with more info
       marker.bindPopup(`
-        <div style="min-width:250px">
-          <h3 style="margin:0;color:${markerColor};font-size:1.5rem">${element.name}</h3>
+        <div style="min-width:250px;gap:15px;">
+          <h3 style="margin:0;color:${markerColor};font-size:1.5rem">${
+        element.name
+      }</h3>
           <p style="margin:0;font-size:0.9rem">${element.address}</p>
-          <a style="margin:0;font-size:1.2rem" href="${element.googleMapsUri}" target="_blank" >${element.googleMapsUri}</p>
+          <a style="margin:0;font-size:1rem" href="${
+            element.googleMapsUri
+          }" target="_blank" >${"link para o google maps"}</a>
+          <p id="detalhes-local-p" style="margin:0;font-size:1.2rem;color:blue;text-decoration: underline;cursor: pointer;">Reviews sobre o lugar</p>
         </div>
       `);
       currentMarkers.push(marker);

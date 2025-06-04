@@ -33,8 +33,8 @@ router.post("/entrar-conta", (req, res) => {
 });
 
 router.put("/editar-conta", (req, res) => {
-  const { email, senha, novoNome, novaSenha } = req.body;
-  editarConta(email, senha, novoNome, novaSenha, (err, data) => {
+  const { email, senha, nome } = req.body;
+  editarConta(email, senha, nome, (err, data) => {
     if (err) {
       res.status(500).send(err.message);
       return;
@@ -44,8 +44,8 @@ router.put("/editar-conta", (req, res) => {
 });
 
 router.delete("/deletar-conta", (req, res) => {
-  const { email, senha } = req.body;
-  deletarConta(email, senha, (err, data) => {
+  const { email } = req.body;
+  deletarConta(email, (err, data) => {
     if (err) {
       res.status(500).send(err.message);
       return;

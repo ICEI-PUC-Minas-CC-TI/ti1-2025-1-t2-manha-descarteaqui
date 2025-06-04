@@ -2,7 +2,8 @@ const {
   tiposCidade,
   lixoDetalhes,
   tiposLixo,
-  lugaresDeColeta
+  lugaresDeColeta,
+  quizes
 } = require("../controllers/site-data");
 const router = require("express").Router();
 
@@ -50,5 +51,15 @@ router.get("/lugares/:cidade",(req, res) => {
     res.json(data);
   });
 });
+
+router.get("/quizzes",(req, res)=> {
+  quizes((err, data) => {
+    if (err) {
+      res.status(500).send("Internal Server Error");
+      return;
+    }
+    res.json(data);
+  });
+})
 
 module.exports = router;

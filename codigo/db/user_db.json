@@ -1,12 +1,6 @@
 {
   "usuarios": [
     {
-      "nome": "Mateus de Sousa Santos",
-      "email": "mateus.sousa.santos191@gmail.com",
-      "senha": "PFSpcs0820!",
-      "user_img": "/assets/images/female-avatar.svg"
-    },
-    {
       "nome": "beatriz",
       "email": "bealves@gmail.com",
       "senha": "sexo",
@@ -17,6 +11,12 @@
       "email": "bilaublau@gmail.com",
       "senha": "!234567",
       "user_img": "/assets/images/female-avatar.svg"
+    },
+    {
+      "nome": "mateus",
+      "email": "mateus.sousa.santos191@gmail.com",
+      "senha": "123",
+      "user_img": "/assets/images/male-avatar.svg"
     }
   ]
 }

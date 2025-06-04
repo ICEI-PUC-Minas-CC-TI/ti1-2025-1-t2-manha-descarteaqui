@@ -228,10 +228,7 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  #side-bar {
-    display: none;
-  }
-
+ 
   #logo h1 {
     font-size: 2rem;
   }
@@ -239,11 +236,6 @@ footer {
   #map-container {
     width: 100%;
     height: 75vh;
-  }
-
-  header {
-    flex-direction: column;
-    align-items: center;
   }
 
   article {

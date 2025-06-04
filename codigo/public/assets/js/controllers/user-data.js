@@ -70,9 +70,7 @@ function entrarConta(email, senha, callback) {
       (user) => user.email === email && user.senha === senha
     );
     if (!user) {
-      const err = new Error("Usuário ou senha inválidos");
-      err.status = 401;
-      callback(err, null);
+      callback(null,"usuario ou senha invalidos");
       return;
     }
 
@@ -81,7 +79,7 @@ function entrarConta(email, senha, callback) {
   });
 }
 
-function editarConta(callback, email, senha, nome) {
+function editarConta( email, senha, nome, callback)  {
   const filePath = path.join(__dirname, "../../../../db/user_db.json");
 
   fs.readFile(filePath, "utf8", (err, data) => {
@@ -90,25 +88,34 @@ function editarConta(callback, email, senha, nome) {
       return;
     }
     let users = [];
+    let usersData = [];
     if (data) {
       try {
-        users = JSON.parse(data);
+        usersData = JSON.parse(data);
       } catch (e) {
         users = [];
       }
     }
 
+    users = usersData.usuarios || [];
+    console.log(email);
     const userIndex = users.findIndex(
-      (user) => user.email === email && user.senha === senha
+      (user) => user.email === email 
     );
     if (userIndex === -1) {
       callback(new Error("Usuário não encontrado"), null);
       return;
     }
+    if (nome) {
+      users[userIndex].nome = nome;
+    }
+    if (senha) {
+      users[userIndex].senha = senha;
+    }
+    
+    usersData.usuarios = users;
 
-    users[userIndex].nome = nome;
-
-    fs.writeFile(filePath, JSON.stringify(users, null, 2), (err) => {
+    fs.writeFile(filePath, JSON.stringify(usersData, null, 2), (err) => {
       if (err) {
         callback(err, null);
         return;
@@ -118,7 +125,7 @@ function editarConta(callback, email, senha, nome) {
   });
 }
 
-function deletarConta(callback, email, senha) {
+function deletarConta( email, callback) {
   const filePath = path.join(__dirname, "../../../../db/user_db.json");
 
   fs.readFile(filePath, "utf8", (err, data) => {
@@ -126,31 +133,34 @@ function deletarConta(callback, email, senha) {
       callback(err, null);
       return;
     }
+    let usersData = [];
     let users = [];
     if (data) {
       try {
-        users = JSON.parse(data);
+        usersData = JSON.parse(data);
       } catch (e) {
         users = [];
       }
     }
 
+    users = usersData.usuarios || [];
+
     const userIndex = users.findIndex(
-      (user) => user.email === email && user.senha === senha
+      (user) => user.email === email 
     );
     if (userIndex === -1) {
       callback(new Error("Usuário não encontrado"), null);
       return;
     }
+    const newUsers = users.filter((user) => user.email !== email);
+    usersData.usuarios = newUsers;
 
-    users.splice(userIndex, 1);
-
-    fs.writeFile(filePath, JSON.stringify(users, null, 2), (err) => {
+    fs.writeFile(filePath, JSON.stringify(usersData, null, 2), (err) => {
       if (err) {
         callback(err, null);
         return;
       }
-      callback(null, { message: "Conta deletada com sucesso" });
+      callback(null,"Usuário deletado com sucesso");
     });
   });
 }
