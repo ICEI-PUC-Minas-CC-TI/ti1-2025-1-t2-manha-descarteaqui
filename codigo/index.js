@@ -7,8 +7,18 @@ const middlewares = jsonServer.defaults({
   noCors: true,
   readOnly: false,
 });
+
+
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
+
+server.use((req,res,next) => {
+  if(req.url.startsWith("/tipos-lixo") || req.url.startsWith("/tipos-cidade")) {
+    res.set("Cache-Control", "public, max-age=3600");
+  } 
+  next();
+})
+
 server.use(data_router);
 
 server.use(user_router);
@@ -27,6 +37,14 @@ server.get("/contas/entrar", (req, res) => {
 
 server.get("/contas/detalhes", (req, res) => {
   res.sendFile(__dirname + "/public/modulos/conta/detalhes.html");
+});
+
+server.get("/lixos", (req, res) => {
+  res.sendFile(__dirname + "/public/modulos/lixos/detalhes.html");
+});
+
+server.use((req, res) => {
+  res.status(404).json({ error: "Rota não encontrada" });
 });
 
 server.listen(3000, () => {

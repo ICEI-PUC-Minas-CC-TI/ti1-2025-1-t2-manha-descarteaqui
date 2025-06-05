@@ -91,7 +91,6 @@ async function updateUserData() {
 
   } catch (error) {
     alert("Erro ao atualizar os dados do usuário. Tente novamente mais tarde.");
-    console.error("Erro ao atualizar os dados do usuário:", error);
     return;
   }
   
