@@ -8,4 +8,16 @@ services:
     volumes:
       - ./codigo:/app
     environment:
-      - NODE_ENV=production
+      - NODE_ENV=production     
+  
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/www:/var/www/certbot
+    depends_on:
+      - descarte-aqui
