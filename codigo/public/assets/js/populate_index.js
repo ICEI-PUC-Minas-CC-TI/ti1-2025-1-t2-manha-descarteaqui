@@ -147,7 +147,12 @@ async function exibirDetalhesDoLixo(valorSelecionado, divDetalhes) {
   const div = criarElemento("div", { className: "lixo-details" }, divDetalhes);
   criarElemento(
     "h2",
-    { style: `color: ${detalhesDoLixo.cor};` },
+    {
+      style: `color: ${detalhesDoLixo.cor};cursor: pointer;`,
+      onclick: () => {
+        window.location.href = `/lixos?tipo=${detalhesDoLixo.id}`;
+      },
+    },
     div,
     detalhesDoLixo.nome
   );
@@ -232,7 +237,7 @@ async function aoSelecionarCidade(evento, mapa) {
     .filter((checkbox) => checkbox.checked)
     .map((checkbox) => checkbox.value);
   const valoresQuery = valoresSelecionados.join(",");
-  if(valoresQuery != "") {
+  if (valoresQuery != "") {
     adicionarMarcadoresPorTipoDeLixo(cidadeSelecionada, valoresQuery, mapa);
   }
 

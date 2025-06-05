@@ -39,10 +39,14 @@ server.get("/contas/detalhes", (req, res) => {
   res.sendFile(__dirname + "/public/modulos/conta/detalhes.html");
 });
 
-server.listen(3000, () => {
-  console.log(`JSON Server is running em http://localhost:3000`);
+server.get("/lixos", (req, res) => {
+  res.sendFile(__dirname + "/public/modulos/lixos/detalhes.html");
 });
 
 server.use((req, res) => {
   res.status(404).json({ error: "Rota não encontrada" });
+});
+
+server.listen(3000, () => {
+  console.log(`JSON Server is running em http://localhost:3000`);
 });

@@ -188,7 +188,6 @@ main {
   width: 30px;
   border-radius: 50%;
   cursor: pointer;
-
 }
 
 #user-image-container {
@@ -214,7 +213,7 @@ main {
 
 #forms {
   display: flex;
-  justify-content:flex-start;
+  justify-content: flex-start;
   flex-direction: column;
   gap: 10px;
 }
@@ -272,6 +271,7 @@ main {
   max-height: 40vh;
   overflow: scroll;
   padding: 15px 0px 15px 0px;
+  overflow-x: hidden;
 }
 
 #lixos-list li {
@@ -298,6 +298,7 @@ main {
   max-height: 40vh;
   overflow: scroll;
   padding: 15px 0px 15px 0px;
+  overflow-x: hidden;
 }
 
 #quizes-list li {
@@ -312,7 +313,8 @@ main {
   font-size: 1.5rem;
 }
 
-#quiz,#person{
+#quiz,
+#person {
   width: 50px;
   height: auto;
 }
