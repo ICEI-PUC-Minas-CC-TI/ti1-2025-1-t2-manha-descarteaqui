@@ -1,15 +1,11 @@
 services:
-  descarte-aqui:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    ports:
-      - "3000:3000"
+  certbot:
+    image: certbot/certbot
     volumes:
-      - ./codigo:/app
-    environment:
-      - NODE_ENV=production     
-  
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/www:/var/www/certbot
+    command: certonly --webroot --webroot-path=/var/www/certbot --email mateus.sousa.santos191@gmail.com --agree-tos --no-eff-email -d descarte-aqui.mateussousa.dev
+
   nginx:
     image: nginx:latest
     ports:
@@ -20,4 +16,15 @@ services:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
     depends_on:
-      - descarte-aqui
+      - certbot
+
+  descarte-aqui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./codigo:/app
+    environment:
+      - NODE_ENV=production
