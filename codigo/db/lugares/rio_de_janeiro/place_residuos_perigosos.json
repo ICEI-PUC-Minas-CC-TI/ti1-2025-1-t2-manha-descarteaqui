@@ -1,121 +1,460 @@
 [
   {
+    "id": "ChIJ7wUhSbndmwARKhpmfxo2rE4",
     "name": "Ecológica Coleta e Destinação de Resíduos Químicos Ltda.",
     "address": "Rua Octávio de Faria, 81 - sala 210 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22795-415, Brazil",
     "latitude": -23.017250999999998,
     "longitude": -43.4577489,
-    "googleMapsUri": "https://maps.google.com/?cid=5668965518387059242"
+    "googleMapsUri": "https://maps.google.com/?cid=5668965518387059242",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW_qKEK9igodFdeCp6zRFtLVERaVKnh0jHMKLD8glpsJnCh5Qs=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW_qKEK9igodFdeCp6zRFtLVERaVKnh0jHMKLD8glpsJnCh5Qs=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 99721-7458",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJPcCp1Kx-mQAR7gTDy_YCHOE",
     "name": "Environmental Clean Serv Collection and Transport",
     "address": "R. Paraopeba, 330 - Vila Sarapui, Duque de Caxias - RJ, 25051-290, Brazil",
     "latitude": -22.864494000000004,
     "longitude": -43.245043,
-    "googleMapsUri": "https://maps.google.com/?cid=16220843216885449966"
+    "googleMapsUri": "https://maps.google.com/?cid=16220843216885449966",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXtS9Lq-O1d6WO5W8QCWydD7rIHbScFJxayo85U-iwqUOPQRo9I=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "3104-2992",
+    "comentarios": [],
+    "rating": 3.1
   },
   {
-    "name": "RESIDUO ALL",
-    "address": "R. Felizardo Fortes, 324 - Ramos, Rio de Janeiro - RJ, 21031-160, Brazil",
-    "latitude": -22.841875599999998,
-    "longitude": -43.2548373,
-    "googleMapsUri": "https://maps.google.com/?cid=14428754150487002385"
-  },
-  {
+    "id": "ChIJ7RmBT3dhmQARsdGAA32WLrA",
     "name": "Coleta de Lixo Eletrônico sem custo",
     "address": "R. Sen. Dantas, 23 - Centro, Rio de Janeiro - RJ, 20031-202, Brazil",
     "latitude": -22.911495799999997,
     "longitude": -43.176810499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249"
+    "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 98381-0591",
+    "comentarios": [],
+    "rating": 4.5
   },
   {
+    "id": "ChIJKzfx5eB7mQAREY04-3M7Pcg",
+    "name": "RESIDUO ALL",
+    "address": "R. Felizardo Fortes, 324 - Ramos, Rio de Janeiro - RJ, 21031-160, Brazil",
+    "latitude": -22.841875599999998,
+    "longitude": -43.2548373,
+    "googleMapsUri": "https://maps.google.com/?cid=14428754150487002385",
+    "phone": "(21) 2260-5345",
+    "comentarios": [],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJGZqfeSh9mQARR7f_GDEbmHU",
     "name": "Solução Gerenciamento de Resíduos Sólidos Industriais",
     "address": "R. Ferreira Câmara, 41 - Maria da Graça, Rio de Janeiro - RJ, 20785-470, Brazil",
     "latitude": -22.8838807,
     "longitude": -43.261330199999996,
-    "googleMapsUri": "https://maps.google.com/?cid=8473552596584347463"
+    "googleMapsUri": "https://maps.google.com/?cid=8473552596584347463",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUNZW46RvS0M7_rL2WFiA7A7gl3wTv5C2ciH5El1My4MIr8MrLe=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 2595-1661",
+    "comentarios": [],
+    "rating": 4.6
   },
   {
+    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
     "name": "ColetAmbiental coletamos sem custos",
     "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
     "latitude": -22.9108488,
     "longitude": -43.177166299999996,
-    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452"
+    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 96930-9009",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJt7AQDS19mQARuWxwqQvij68",
     "name": "Recicla-RJ",
     "address": "R. Silva Braga, 43 - Piedade, Rio de Janeiro - RJ, 20740-500, Brazil",
     "latitude": -22.900550799999998,
     "longitude": -43.3151406,
-    "googleMapsUri": "https://maps.google.com/?cid=12650578418022247609"
+    "googleMapsUri": "https://maps.google.com/?cid=12650578418022247609",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWGpCnm5kkGBcKh55_KMNuosWbLHRo7jJzK3Ae41WL8mCkpwj0=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 99297-3547",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJA82PWbmDmQAR4LIsiOjgUTM",
+    "name": "Ilha Ambiental | Limpezas Técnicas, Gerenciamento, Transporte e Descarte de Resíduos no Rio de Janeiro",
+    "address": "R. Santa Clara, 114 - Ponta D'areia, Niterói - RJ, 24040-050, Brazil",
+    "latitude": -22.8266183,
+    "longitude": -43.0919643,
+    "googleMapsUri": "https://maps.google.com/?cid=3697984058369553120",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW4jqE86oqvUhd9avEZhCKIUqdSnGNSY_NbvYbU2tORpzEL32o=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWsDGWeaVbLGRXaW3YWjBh8i_yv9Y1IJf6P_Olrcac5NMm1isvj=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWsDGWeaVbLGRXaW3YWjBh8i_yv9Y1IJf6P_Olrcac5NMm1isvj=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWsDGWeaVbLGRXaW3YWjBh8i_yv9Y1IJf6P_Olrcac5NMm1isvj=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWsDGWeaVbLGRXaW3YWjBh8i_yv9Y1IJf6P_Olrcac5NMm1isvj=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWsDGWeaVbLGRXaW3YWjBh8i_yv9Y1IJf6P_Olrcac5NMm1isvj=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 2622-3521",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "id": "ChIJOSk6SiF7mQARSJiCgOc7vns",
     "name": "Coop Ceu Azul",
     "address": "R. Isidro Rocha, 70 - Vigário Geral, Rio de Janeiro - RJ, 21241-180, Brazil",
     "latitude": -22.806673099999998,
     "longitude": -43.3149118,
-    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240"
+    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3474-2901",
+    "comentarios": [],
+    "rating": 3.8
   },
   {
+    "id": "ChIJMVHUFJLZmwARX88pG4tHaFo",
     "name": "COLETA DE LIXO ELETRÔNICO",
     "address": "Rua Vale dos Ipês - Jacarepaguá, Rio de Janeiro - RJ, 22710-675, Brazil",
     "latitude": -22.9476359,
     "longitude": -43.383663,
-    "googleMapsUri": "https://maps.google.com/?cid=6514535523773173599"
+    "googleMapsUri": "https://maps.google.com/?cid=6514535523773173599",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWBwlDpN1MBK9SprlBUXjmO9yQoHpyTPZx4mII1XEH3pE6WFJk=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 4
   },
   {
+    "id": "ChIJAyYYf6FzmQARjhgwazuriIc",
     "name": "Branco Ambiental | Transportes, Gerenciamento e Tratamento de Resíduos",
     "address": "R. Franco de Almeida, 13 - Vila Maria Helena, Duque de Caxias - RJ, 25251-470, Brazil",
     "latitude": -22.6682329,
     "longitude": -43.2659247,
-    "googleMapsUri": "https://maps.google.com/?cid=9766244063642654862"
+    "googleMapsUri": "https://maps.google.com/?cid=9766244063642654862",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJP914tXvsmBoliGZWiZl8CMS9V_uMxxzoguoahjDOAfITA1A=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3654-0066",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJbZ3QFc1zmQARYii3ssU5GL4",
     "name": "Rodocon Resíduos",
     "address": "Estr. da Figueira, 623C - Chácaras Rio-Petrópolis, Duque de Caxias - RJ, 25243-151, Brazil",
     "latitude": -22.661870399999998,
     "longitude": -43.3025775,
-    "googleMapsUri": "https://maps.google.com/?cid=13697761787917052002"
+    "googleMapsUri": "https://maps.google.com/?cid=13697761787917052002",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyZWgb-wiZUxhG540Hl1ENo2lMg0c9vnDCs0ytefMUxamMbic=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocI2ax53KLDklR54ZBSy0s_faK6LV-0pVO3btaVIDeuMLFUQQSi9=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocI2ax53KLDklR54ZBSy0s_faK6LV-0pVO3btaVIDeuMLFUQQSi9=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWBq-0q2xZExPo7VmLvlWEMskrHiwtK5eLKKYMd3PO0fn5LS--wZw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocI2ax53KLDklR54ZBSy0s_faK6LV-0pVO3btaVIDeuMLFUQQSi9=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXGlcpKjrFKURu5N9-i62GHaX3BoNkfvO21OzSVqERWkFV6r4OBUA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocI2ax53KLDklR54ZBSy0s_faK6LV-0pVO3btaVIDeuMLFUQQSi9=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyZWgb-wiZUxhG540Hl1ENo2lMg0c9vnDCs0ytefMUxamMbic=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFIVuIdZGKYghnX6U5b--rtBz7Sblf4edtxCPtTjPgmqREqg_axw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyZWgb-wiZUxhG540Hl1ENo2lMg0c9vnDCs0ytefMUxamMbic=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3867-6625",
+    "comentarios": [],
+    "rating": 4.8
   },
   {
+    "id": "ChIJF27wAJ3hmwARjSWaEhHfpYg",
     "name": "Empresa De Reciclagem",
     "address": "Estr. João Melo, 229-319 - Campo Grande, Rio de Janeiro - RJ, 23092-080, Brazil",
     "latitude": -22.873812299999997,
     "longitude": -43.548788200000004,
-    "googleMapsUri": "https://maps.google.com/?cid=9846521424734987661"
+    "googleMapsUri": "https://maps.google.com/?cid=9846521424734987661",
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJYV8ewKqImQARUj-uxvOIrm0",
     "name": "ABREID - RECICLAGEM DE LIXO ELETRÔNICO",
     "address": "R. Max Albin, S/Nº, Quadra B, Lote 18 - Itaipu, Niterói - RJ, 24346-056, Brazil",
     "latitude": -22.968517100000003,
     "longitude": -43.0443699,
-    "googleMapsUri": "https://maps.google.com/?cid=7903404976673537874"
+    "googleMapsUri": "https://maps.google.com/?cid=7903404976673537874",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIE_keNbSrvA9v2LsegZvTICSVCqw9w1tgOGVywndGeqbDg7Q=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXj8LzKZwvt_JWqZWnDRsyzpj6PmPH_PJTIKDSJSV1EustSKmuo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIE_keNbSrvA9v2LsegZvTICSVCqw9w1tgOGVywndGeqbDg7Q=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLNnxeIQ_-KJoUKiMt9-EpWEe_ysXJc4P7m-GZ3i2ywB-Itkg=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3741-1890",
+    "comentarios": [],
+    "rating": 4.2
   },
   {
+    "id": "ChIJ47VoPJeDmQARnwaRAuqinyQ",
     "name": "Resgate Ambiental",
     "address": "Av. Washington Luís, 10 - Centro, Niterói - RJ, 24030-250, Brazil",
     "latitude": -22.8861067,
     "longitude": -43.1167868,
-    "googleMapsUri": "https://maps.google.com/?cid=2639007032611505823"
+    "googleMapsUri": "https://maps.google.com/?cid=2639007032611505823",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrfheu9M_t4mVqTRiea8Ef745p0HPHcTI4-cOFmUWvGdFb-rhB=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrfheu9M_t4mVqTRiea8Ef745p0HPHcTI4-cOFmUWvGdFb-rhB=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUc9yXrBsOXUgG9D70dy0oAlxDzaIUnajmrBmAQ2V8D931BkY-g=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3604-2000",
+    "comentarios": [],
+    "rating": 3.2
   },
   {
+    "id": "ChIJh997zaV7mQARwIqHn5TEWQc",
     "name": "ARO Coleta de Lixo Eletronico",
     "address": "R. da Batata, 112 - Penha Circular, Rio de Janeiro - RJ, 21011-020, Brazil",
     "latitude": -22.820231099999997,
     "longitude": -43.2782729,
-    "googleMapsUri": "https://maps.google.com/?cid=529670573803408064"
+    "googleMapsUri": "https://maps.google.com/?cid=529670573803408064",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyj-oM80Y8IlsfBATTtZchGcYxBOSHmy1SENfymyqXlT_pnw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyj-oM80Y8IlsfBATTtZchGcYxBOSHmy1SENfymyqXlT_pnw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 97592-8174",
+    "comentarios": [],
+    "rating": "N/A"
   },
   {
+    "id": "ChIJT9zbG55wzpQRr1RQPcvbE9g",
     "name": "Cetes Ambiental - Gestão de Resíduos com Coleta, Transporte e Tratamento de Resíduos - Destinação e Descarte Correto",
     "address": "R. Cássia Francisco, 224 - Sítio São José, Suzano - SP, 08675-250, Brazil",
     "latitude": -23.549455599999998,
     "longitude": -46.3088343,
-    "googleMapsUri": "https://maps.google.com/?cid=15570030002703455407"
+    "googleMapsUri": "https://maps.google.com/?cid=15570030002703455407",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qFQP9F019A3Vok6Fi-MoLvG-5cBtRT0jJkRau5tR0wiRFUuc=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(11) 4747-5523",
+    "comentarios": [],
+    "rating": 4.9
   },
   {
+    "id": "ChIJ_35MP0namwARjU_d8fEiKUM",
     "name": "Saniplan Engenharia e Serviços Ambientais",
     "address": "Av. Glaucio Gil, 1246 - Sala 303 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-177, Brazil",
     "latitude": -23.013785,
     "longitude": -43.461127,
-    "googleMapsUri": "https://maps.google.com/?cid=4839437697126584205"
+    "googleMapsUri": "https://maps.google.com/?cid=4839437697126584205",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVgptmCAjYmhzvI1etTg8NPNSK1xteQIjCmyHG7guikOWtUvZw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVgptmCAjYmhzvI1etTg8NPNSK1xteQIjCmyHG7guikOWtUvZw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3326-4454",
+    "comentarios": [],
+    "rating": "N/A"
   }
 ]

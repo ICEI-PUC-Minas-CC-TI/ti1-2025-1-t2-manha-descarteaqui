@@ -3,7 +3,8 @@ const {
   lixoDetalhes,
   tiposLixo,
   lugaresDeColeta,
-  quizes
+  quizes,
+  DetalhesLugaresDeColeta
 } = require("../controllers/site-data");
 const router = require("express").Router();
 
@@ -61,5 +62,16 @@ router.get("/quizzes",(req, res)=> {
     res.json(data);
   });
 })
+
+router.get("/lugares/:cidade/:tipo/:id", (req, res) => {
+  const { cidade, id , tipo} = req.params;
+  DetalhesLugaresDeColeta(tipo, cidade, id, (err, data) => {
+    if (err) {
+      res.status(404).send("Place not found");
+      return;
+    }
+    res.json(data);
+  });
+}); 
 
 module.exports = router;

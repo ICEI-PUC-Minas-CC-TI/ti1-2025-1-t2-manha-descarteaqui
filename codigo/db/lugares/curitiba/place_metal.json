@@ -4,139 +4,567 @@
     "address": "R. José Hauer, 1228 - Boqueirão, Curitiba - PR, 81730-400, Brazil",
     "latitude": -25.5031666,
     "longitude": -49.2266031,
-    "googleMapsUri": "https://maps.google.com/?cid=9821351342521389985"
-  },
-  {
-    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
-    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
-    "latitude": -19.9570892,
-    "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+    "googleMapsUri": "https://maps.google.com/?cid=9821351342521389985",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99763-1822",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Ecologitec-Descarte de eletrônicos-Descarte de uniformes-Descarte de móveis-Descarte de sofás - entulhos- em Curitiba.",
     "address": "R. Raul de Azevedo Macedo, 179 - sala 02 - Xaxim, Curitiba - PR, 81830-180, Brazil",
     "latitude": -25.5053767,
     "longitude": -49.267768399999994,
-    "googleMapsUri": "https://maps.google.com/?cid=14876761711548334231"
+    "googleMapsUri": "https://maps.google.com/?cid=14876761711548334231",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhyg2ossvM5mqI7mF4qoXPxcA2lVX3duKbfbml57qosa2CVnZ1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhyg2ossvM5mqI7mF4qoXPxcA2lVX3duKbfbml57qosa2CVnZ1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVbriVBD8Q9l3UDQRgWDpNizdK_HoBxjvCDumDGJ6XfTVyiqmdc9g=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99858-6592",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3063-0688",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Reciclatron Reciclagem de Eletrônicos",
     "address": "Rua Anne Frank, 109 - Portão 2 - Hauer, Curitiba - PR, 81610-020, Brazil",
     "latitude": -25.4691014,
     "longitude": -49.2517177,
-    "googleMapsUri": "https://maps.google.com/?cid=13832450277811397182"
+    "googleMapsUri": "https://maps.google.com/?cid=13832450277811397182",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3377-5071",
+    "comentarios": [],
+    "rating": 4.5
   },
   {
     "name": "MG Recicla Reciclagem de Lixo Eletrônico",
     "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
     "latitude": -19.9408104,
     "longitude": -44.0015892,
-    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
-  },
-  {
-    "name": "Reciclar Reciclagem LTDA.",
-    "address": "Rua Engenheiro Ariel Villar Tacla, 61 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-230, Brazil",
-    "latitude": -25.502221,
-    "longitude": -49.3263341,
-    "googleMapsUri": "https://maps.google.com/?cid=10493507680250232497"
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3565-5294",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Ecoponto Caiuá",
     "address": "Av. Juscelino Kubitschek De Oliveira - Ld, 6800 - Cidade Industrial de Curitiba, Curitiba - PR, 81250-460, Brazil",
     "latitude": -25.4909911,
     "longitude": -49.3454449,
-    "googleMapsUri": "https://maps.google.com/?cid=17576506916598557064"
-  },
-  {
-    "name": "Eco Recicla Ambiental",
-    "address": "R. Lamenha Lins, 3491 - Centro, Curitiba - PR, 80220-081, Brazil",
-    "latitude": -25.4655968,
-    "longitude": -49.263001599999996,
-    "googleMapsUri": "https://maps.google.com/?cid=11096119075349083879"
-  },
-  {
-    "name": "Reciclagem Capital",
-    "address": "R. Dr. Simão Kossobudski, 410 - Uberaba, Curitiba - PR, 81580-250, Brazil",
-    "latitude": -25.498380599999997,
-    "longitude": -49.2208767,
-    "googleMapsUri": "https://maps.google.com/?cid=3419951072410979977"
-  },
-  {
-    "name": "Eco Ponto cajuru",
-    "address": "R. Neusa Vieira Bet, 255 - Cajuru, Curitiba - PR, 82990-090, Brazil",
-    "latitude": -25.4629405,
-    "longitude": -49.1952716,
-    "googleMapsUri": "https://maps.google.com/?cid=3764893077603064431"
+    "googleMapsUri": "https://maps.google.com/?cid=17576506916598557064",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIq9T9UayI7oZ0lFAJXrbJCxTcnpgEAKcxhFCCSElTBvFOQcQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIq9T9UayI7oZ0lFAJXrbJCxTcnpgEAKcxhFCCSElTBvFOQcQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXGfQTaYIbB01LpxHQs4Smfh8QFyUPAL2l238glxvSqTTz41Pk0=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXGfQTaYIbB01LpxHQs4Smfh8QFyUPAL2l238glxvSqTTz41Pk0=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIq9T9UayI7oZ0lFAJXrbJCxTcnpgEAKcxhFCCSElTBvFOQcQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99876-2903",
+    "comentarios": [],
+    "rating": 4.7
   },
   {
     "name": "Seven Environmental - Coletagem and Electronic Waste Recycling.",
     "address": "R. Sebastiana Santana Fraga, 512 - Guatupê, São José dos Pinhais - PR, 83060-500, Brazil",
     "latitude": -25.497837,
     "longitude": -49.133082599999994,
-    "googleMapsUri": "https://maps.google.com/?cid=7458288693217825061"
+    "googleMapsUri": "https://maps.google.com/?cid=7458288693217825061",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUyD2nBSs0oUUJSi2ws4pH-LpMDJG_NdgZPDwD7oqHnRybd4XKo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLKw20Jit4ujYS-Fx6VpnjFvw3gcrYMZw8C4HXiFi91ejkbmA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKnS8-h59PREEHx3rcyRGJc0H3TMrRLJn7m1311HJIO5ad3DsLB=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99143-6876",
+    "comentarios": [],
+    "rating": 4.8
   },
   {
-    "name": "Alô Metais centro de reciclagem",
-    "address": "Rua Rutildo Pulido, 535 - Cajuru, Curitiba - PR, 82990-524, Brazil",
-    "latitude": -25.465583,
-    "longitude": -49.192675699999995,
-    "googleMapsUri": "https://maps.google.com/?cid=10062381439952194833"
+    "name": "Reciclagem Capital",
+    "address": "R. Dr. Simão Kossobudski, 410 - Uberaba, Curitiba - PR, 81580-250, Brazil",
+    "latitude": -25.498380599999997,
+    "longitude": -49.2208767,
+    "googleMapsUri": "https://maps.google.com/?cid=3419951072410979977",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWTZNPKEmtZHFr0uCDp2dxl-d0NyIoRr6s_I-k-bI9rJl2QHlxcMA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWTZNPKEmtZHFr0uCDp2dxl-d0NyIoRr6s_I-k-bI9rJl2QHlxcMA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWTZNPKEmtZHFr0uCDp2dxl-d0NyIoRr6s_I-k-bI9rJl2QHlxcMA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ_YZ1k6bFJq2Vx8Vf-G6m4hNeZH1wKeZlSe7_DdGhwHdidxfa=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWTZNPKEmtZHFr0uCDp2dxl-d0NyIoRr6s_I-k-bI9rJl2QHlxcMA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ_YZ1k6bFJq2Vx8Vf-G6m4hNeZH1wKeZlSe7_DdGhwHdidxfa=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3564-1770",
+    "comentarios": [],
+    "rating": 4.4
+  },
+  {
+    "name": "Reciclar Reciclagem LTDA.",
+    "address": "Rua Engenheiro Ariel Villar Tacla, 61 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-230, Brazil",
+    "latitude": -25.502221,
+    "longitude": -49.3263341,
+    "googleMapsUri": "https://maps.google.com/?cid=10493507680250232497",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKgKZiBAhv55msh2ff4s4sKomopO--5y_TQ3-zvGeEGbHd9=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKgKZiBAhv55msh2ff4s4sKomopO--5y_TQ3-zvGeEGbHd9=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99931-4684",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Eco Recicla Ambiental",
+    "address": "R. Lamenha Lins, 3491 - Centro, Curitiba - PR, 80220-081, Brazil",
+    "latitude": -25.4655968,
+    "longitude": -49.263001599999996,
+    "googleMapsUri": "https://maps.google.com/?cid=11096119075349083879",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99680-8037",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Grupo Éco Reciclagem",
+    "address": "R. Alceu Ferreira, 432 - Guabirotuba, Curitiba - PR, 81510-240, Brazil",
+    "latitude": -25.4650344,
+    "longitude": -49.249904799999996,
+    "googleMapsUri": "https://maps.google.com/?cid=13333576578739949823",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWvBlEAPp7pYVNqI7zekYmGStkTk5-SIx2QPtRpDGzM2wfNOLt2Ag=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJ4lv3ivTBauM9Fj7Ql6WuwS02Z-JnFIesOv5BZsa7alhpn_yorg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUJ4lv3ivTBauM9Fj7Ql6WuwS02Z-JnFIesOv5BZsa7alhpn_yorg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWzNxOhsiSXu4r_yswewgqmLUImhT4-AID-BA8kaZd8xkZ0A_YZiA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKc_tvaExR1KcIt0MzD0GvUcF0vCGU_h_VOVso1isUVRKtKedH9A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWvBlEAPp7pYVNqI7zekYmGStkTk5-SIx2QPtRpDGzM2wfNOLt2Ag=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 98762-4094",
+    "comentarios": [],
+    "rating": 4.7
   },
   {
     "name": "Ecoponto Érico Veríssimo",
     "address": "R. Cap. Amin Mosse, 557 - Alto Boqueirão, Curitiba - PR, 81850-150, Brazil",
     "latitude": -25.5320178,
     "longitude": -49.25133520000001,
-    "googleMapsUri": "https://maps.google.com/?cid=2351043893724447956"
+    "googleMapsUri": "https://maps.google.com/?cid=2351043893724447956",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUHIsu7l0-s_ZN2QMZ9gj_t_Lz7xFoME0tlaKheZm33XEKf3YLH=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ9AFYaIHaFurQWFtFc24YSR_8yFoj2DPSR3BknYfywU-DAKg=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3350-8484",
+    "comentarios": [],
+    "rating": 4.7
   },
   {
-    "name": "Associação de Catadores de Materiais Recicláveis Futuro Ecológico",
-    "address": "R. Piauí, 580 - Parolin, Curitiba - PR, 80220-240, Brazil",
-    "latitude": -25.4554454,
-    "longitude": -49.266130700000005,
-    "googleMapsUri": "https://maps.google.com/?cid=14677669739187253205"
-  },
-  {
-    "name": "Cooperativa de Catadores de Materiais Recicláveis - CATAMARE",
-    "address": "R. Salvador Ferrante, 256 - Boqueirão, Curitiba - PR, 81670-450, Brazil",
-    "latitude": -25.4937941,
-    "longitude": -49.230618899999996,
-    "googleMapsUri": "https://maps.google.com/?cid=5394843110572100196"
-  },
-  {
-    "name": "Ecoponto Guaçuí",
-    "address": "Estr. Eng. Blei - Bairro Novo, Curitiba - PR, 81935-080, Brazil",
-    "latitude": -25.550331099999998,
-    "longitude": -49.2548282,
-    "googleMapsUri": "https://maps.google.com/?cid=12485695858050963517"
-  },
-  {
-    "name": "Mega Reciclagem",
-    "address": "Rua Ilnah Pacheco Secundino de Oliveira, 261 - Cidade Industrial de Curitiba, Curitiba - PR, 81460-032, Brazil",
-    "latitude": -25.542716799999997,
-    "longitude": -49.3257589,
-    "googleMapsUri": "https://maps.google.com/?cid=4585284395983064417"
-  },
-  {
-    "name": "Viletrônico Coleta de Resíduos Eletrônicos",
-    "address": "Jlm auto center e auto eletrica - R. Antônio Lago, 292 - Boa Vista, Curitiba - PR, 82560-470, Brazil",
-    "latitude": -25.388226,
-    "longitude": -49.239325699999995,
-    "googleMapsUri": "https://maps.google.com/?cid=6978878777579024704"
-  },
-  {
-    "name": "Carvalho Metais",
-    "address": "R. Eduardo Sprada, 6506 - CIC, Curitiba - PR, 81270-010, Brazil",
-    "latitude": -25.4524519,
-    "longitude": -49.3667989,
-    "googleMapsUri": "https://maps.google.com/?cid=17837369514007924062"
+    "name": "Eco Ponto cajuru",
+    "address": "R. Neusa Vieira Bet, 255 - Cajuru, Curitiba - PR, 82990-090, Brazil",
+    "latitude": -25.4629405,
+    "longitude": -49.1952716,
+    "googleMapsUri": "https://maps.google.com/?cid=3764893077603064431",
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 4.9
   },
   {
     "name": "Reciclagem Garcia",
     "address": "Rod. do Contorno Norte de Curitiba, 7733 - Jardim Monterrey, Alm. Tamandaré - PR, 83507-090, Brazil",
     "latitude": -25.338256599999998,
     "longitude": -49.260478299999995,
-    "googleMapsUri": "https://maps.google.com/?cid=10267381035116319061"
+    "googleMapsUri": "https://maps.google.com/?cid=10267381035116319061",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVBXvYkwU2X-sgQjYZ9agksCMOeSDLntlE7pVar-shQZrA2v5tZ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3698-2446",
+    "comentarios": [],
+    "rating": 4.4
+  },
+  {
+    "name": "Metais Sabara",
+    "address": "R. Maria de França Belém, 280 - Cidade Industrial de Curitiba, Curitiba - PR, 81020-490, Brazil",
+    "latitude": -25.505370199999998,
+    "longitude": -49.3511038,
+    "googleMapsUri": "https://maps.google.com/?cid=5629975060403006040",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVm3nFWcWYDoEAP4tIsGsADo77bkcWXIG5w4fulwb_2oadOH-I=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99689-3073",
+    "comentarios": [],
+    "rating": 4.6
+  },
+  {
+    "name": "Coleta de lixo tóxico",
+    "address": "R. João Havro - Boa Vista, Curitiba - PR, 82560-020, Brazil",
+    "latitude": -25.3928333,
+    "longitude": -49.2422173,
+    "googleMapsUri": "https://maps.google.com/?cid=6955672830564928256",
+    "phone": "(41) 98489-6782",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Viletrônico Coleta de Resíduos Eletrônicos",
+    "address": "Jlm auto center e auto eletrica - R. Antônio Lago, 292 - Boa Vista, Curitiba - PR, 82560-470, Brazil",
+    "latitude": -25.388226,
+    "longitude": -49.239325699999995,
+    "googleMapsUri": "https://maps.google.com/?cid=6978878777579024704",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLx3Bp3igkMCRNKFc4-CTQktznGN98jEnl5nM0LPd9aEvfm-NMK=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99517-9093",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Cooperativa de Catadores de Materiais Recicláveis - CATAMARE",
+    "address": "R. Salvador Ferrante, 256 - Boqueirão, Curitiba - PR, 81670-450, Brazil",
+    "latitude": -25.4937941,
+    "longitude": -49.230618899999996,
+    "googleMapsUri": "https://maps.google.com/?cid=5394843110572100196",
+    "phone": "(41) 3275-2583",
+    "comentarios": [],
+    "rating": 4.7
+  },
+  {
+    "name": "Associação de Catadores de Materiais Recicláveis Futuro Ecológico",
+    "address": "R. Piauí, 580 - Parolin, Curitiba - PR, 80220-240, Brazil",
+    "latitude": -25.4554454,
+    "longitude": -49.266130700000005,
+    "googleMapsUri": "https://maps.google.com/?cid=14677669739187253205",
+    "phone": "(41) 3332-4218",
+    "comentarios": [],
+    "rating": "N/A"
+  },
+  {
+    "name": "Ecoponto Guaçuí",
+    "address": "Estr. Eng. Blei - Bairro Novo, Curitiba - PR, 81935-080, Brazil",
+    "latitude": -25.550331099999998,
+    "longitude": -49.2548282,
+    "googleMapsUri": "https://maps.google.com/?cid=12485695858050963517",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVZAcr4ITKUH90uB1xtbFPgq52ZcrpxpcA9OLkzBLO_juvAx7HH=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 4.8
   }
 ]

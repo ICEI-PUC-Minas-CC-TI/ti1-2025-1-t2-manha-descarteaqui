@@ -27,7 +27,7 @@ function tiposLixo(callback) {
 
 function lixoDetalhes(id, callback) {
   const filePath = path.join(__dirname, "../../../../db/site_data.json");
-  
+
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
       console.error("Error reading site_data.json:", err);
@@ -105,6 +105,33 @@ function lugaresDeColeta(tiposLixo, cidade, callback) {
   });
 }
 
+function DetalhesLugaresDeColeta(tipo, cidade, id, callback) {
+  const filePath = `../../../../db/lugares/${cidade}/place_${tipo}.json`;
+  const absolutePath = path.join(__dirname, filePath);
+  console.log(tipo, cidade, id);
+  fs.readFile(absolutePath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading places_result.json:", err);
+      callback(err, null);
+      return;
+    }
+    try {
+      const jsonData = JSON.parse(data);
+      const lugar = jsonData.findIndex((item) => item.id == id);
+      if (lugar === -1) {
+        callback(new Error("Place not found for the given ID"), null);
+        return;
+      }
+
+
+      callback(null, jsonData[lugar]);
+    } catch (parseError) {
+      console.error("Error parsing places_result.json:", parseError);
+      callback(parseError, null);
+    }
+  });
+}
+
 function quizes(callback) {
   const filePath = path.join(__dirname, "../../../../db/quizes.json");
 
@@ -129,4 +156,11 @@ function quizes(callback) {
     }
   });
 }
-module.exports = { tiposLixo, lixoDetalhes, tiposCidade, lugaresDeColeta, quizes };
+module.exports = {
+  tiposLixo,
+  lixoDetalhes,
+  tiposCidade,
+  lugaresDeColeta,
+  quizes,
+  DetalhesLugaresDeColeta,
+};

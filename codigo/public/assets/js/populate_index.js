@@ -207,14 +207,57 @@ async function adicionarMarcadoresPorTipoDeLixo(
         icon: iconePersonalizado,
       }).addTo(mapa);
 
-      marcador.bindPopup(`
-        <div style="min-width:250px;gap:15px;">
-          <h3 style="margin:0;color:${corDoMarcador};font-size:1.5rem">${local.name}</h3>
-          <p style="margin:0;font-size:0.9rem">${local.address}</p>
-          <a style="margin:0;font-size:1rem" href="${local.googleMapsUri}" target="_blank">Link para o Google Maps</a>
-          <p id="detalhes-local-p" style="margin:0;font-size:1.2rem;color:blue;text-decoration: underline;cursor: pointer;">Reviews sobre o lugar</p>
-        </div>
-      `);
+      const div = criarElemento("div", {
+        style: `min-width:250px;gap:15px;`,
+      });
+      criarElemento(
+        "h3",
+        {
+          style: `margin:0;color:${corDoMarcador};font-size:1.5rem`,
+        },
+        div,
+        local.name
+      );
+      criarElemento(
+        "p",
+        {
+          style: `margin:0;font-size:0.9rem`,
+        },
+        div,
+        local.address
+      );
+
+      const divDetalhes = criarElemento(
+        "div",
+        {
+          style: `display:flex;justify-content:space-between;align-items:center;margin-top:10px;`,
+        },
+        div
+      );
+      criarElemento(
+        "a",
+        {
+          style: `margin:0;font-size:1rem`,
+          href: local.googleMapsUri,
+          target: "_blank",
+        },
+        divDetalhes,
+        "Link para o Google Maps"
+      );
+      criarElemento(
+        "button",
+        {
+          className: "details-button",
+          style: `margin:0;font-size:1rem;`,
+          onclick: () => {
+            window.location.href = `/lugares/${cidadeSelecionada}/${lugar.tipo}/${local.id}`;
+          },
+        },
+        divDetalhes,
+        "Ver Detalhes"
+      );
+
+      marcador.bindPopup(div);
 
       marcadoresAtuais.push(marcador);
     });

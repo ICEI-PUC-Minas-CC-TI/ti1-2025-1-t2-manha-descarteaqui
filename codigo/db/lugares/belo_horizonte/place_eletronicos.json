@@ -1,151 +1,584 @@
 [
   {
+    "id": "ChIJScupDlWapgAR_gzBA41jS7w",
+    "name": "SOS GREEN Gestão de Descarte Eletrônico",
+    "address": "R. Contagem, 868 - loja c - Santa Ines, Belo Horizonte - MG, 31080-255, Brazil",
+    "latitude": -19.8894554,
+    "longitude": -43.905776800000005,
+    "googleMapsUri": "https://maps.google.com/?cid=13568047759688273150",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99546-5973",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
     "name": "MG Recicla Reciclagem de Lixo Eletrônico",
     "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
     "latitude": -19.9408104,
     "longitude": -44.0015892,
     "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
-    "comentarios":[
+    "photos": [
       {
-        "email":"",
-        "texto":"",
-        "data":"2024-01-15T00:00:00Z",
-        "avaliacao":5,
-        "nome":"João Silva"
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
       }
-    ]
+    ],
+    "phone": "(31) 3565-5294",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
     "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
     "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
     "latitude": -19.9570892,
     "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3063-0688",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJc-yzqkiXpgAR4lOCN9hsGMw",
     "name": "Lithium Informática - Ecoponto E-MILE - Descarte Lixo Eletrônico",
     "address": "R. Padre Eustáquio, 443 - Carlos Prates, Belo Horizonte - MG, 30710-580, Brazil",
     "latitude": -19.9139503,
     "longitude": -43.958006100000006,
-    "googleMapsUri": "https://maps.google.com/?cid=14706624259078378466"
+    "googleMapsUri": "https://maps.google.com/?cid=14706624259078378466",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWiN-0FQsCgA33OZsyawfnGee4_O6INc-gelAw--lsgoW6hDm4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWGcpnApMFJ0PIiXKN4cT5qtXFmaXYu2Yacmn-jCnXfYIYb-M5G=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU-Ug5yyXFFBOEvfuk7AE-Av7QRGnZPcwDEgQlKWXDwgvmSs2M=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3442-9571",
+    "comentarios": [],
+    "rating": 4.8
   },
   {
+    "id": "ChIJe7g-B0-RpgARhnHoItlwglA",
     "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
     "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
     "latitude": -19.876649699999998,
     "longitude": -43.9940334,
-    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062"
+    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3277-7422",
+    "comentarios": [],
+    "rating": 3.8
   },
   {
-    "name": "SOS GREEN Gestão de Descarte Eletrônico",
-    "address": "R. Contagem, 868 - loja c - Santa Ines, Belo Horizonte - MG, 31080-255, Brazil",
-    "latitude": -19.8894554,
-    "longitude": -43.905776800000005,
-    "googleMapsUri": "https://maps.google.com/?cid=13568047759688273150"
-  },
-  {
-    "name": "Coletar Reciclagem de Eletrônicos",
-    "address": "R. Cel. Docha, 118 - Inconfidentes, Contagem - MG, 32340-260, Brazil",
-    "latitude": -19.9600366,
-    "longitude": -44.03767510000001,
-    "googleMapsUri": "https://maps.google.com/?cid=785670208739894079"
-  },
-  {
-    "name": "Reciclagem Horizonte BH",
-    "address": "R. Salomão Camargos, 54 - Jardinópolis, Belo Horizonte - MG, 30532-230, Brazil",
-    "latitude": -19.943107599999998,
-    "longitude": -44.0048183,
-    "googleMapsUri": "https://maps.google.com/?cid=12837953774266496971"
-  },
-  {
-    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
-    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
-    "latitude": -19.925871,
-    "longitude": -43.9527431,
-    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210"
-  },
-  {
-    "name": "Reciclando BH",
-    "address": "Av. Álvaro da Silveira, 170 - Barreiro, Belo Horizonte - MG, 30662-537, Brazil",
-    "latitude": -19.9719886,
-    "longitude": -44.018167,
-    "googleMapsUri": "https://maps.google.com/?cid=1613440270579423004"
-  },
-  {
-    "name": "EMILE Reciclagem de Eletroeletrônicos",
-    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
-    "latitude": -19.9453905,
-    "longitude": -43.9224724,
-    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265"
-  },
-  {
-    "name": "Reciclar",
-    "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
-    "latitude": -19.900590599999997,
-    "longitude": -43.9621804,
-    "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626"
-  },
-  {
+    "id": "ChIJs_bIRgqRpgARVnQuBQCvJHs",
     "name": "URPV - Unidade de Recebimento de Pequenos Volumes - Liberdade",
     "address": "R. Flôr de Índio, 105 - Liberdade, Belo Horizonte - MG, 31270-215, Brazil",
     "latitude": -19.8656786,
     "longitude": -43.9556073,
-    "googleMapsUri": "https://maps.google.com/?cid=8873409580448511062"
+    "googleMapsUri": "https://maps.google.com/?cid=8873409580448511062",
+    "phone": "(31) 3277-7963",
+    "comentarios": [],
+    "rating": 4.3
   },
   {
-    "name": "Projeto Pro Verde - Lixo Eletrônico",
-    "address": "R. Itajubá, 170 A - Floresta, Belo Horizonte - MG, 30150-380, Brazil",
-    "latitude": -19.9151839,
-    "longitude": -43.9305077,
-    "googleMapsUri": "https://maps.google.com/?cid=5310481154771040767"
+    "id": "ChIJ4eJyfnvBpgARgX0ngPyBQSs",
+    "name": "EMILE Reciclagem de Eletroeletrônicos",
+    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
+    "latitude": -19.9453905,
+    "longitude": -43.9224724,
+    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3044-5280",
+    "comentarios": [],
+    "rating": 3.9
   },
   {
-    "name": "COLETABH",
-    "address": "R. Afluentes, 100 - Serrano, Belo Horizonte - MG, 30882-110, Brazil",
-    "latitude": -19.887330199999997,
-    "longitude": -44.008953899999995,
-    "googleMapsUri": "https://maps.google.com/?cid=7675315384447747249"
-  },
-  {
-    "name": "Reciclagem Tc",
-    "address": "Av. Teresa Cristina, 8880 - Betânia, Belo Horizonte - MG, 30662-537, Brazil",
-    "latitude": -19.9579473,
-    "longitude": -43.994594299999996,
-    "googleMapsUri": "https://maps.google.com/?cid=7439365322124626995"
-  },
-  {
-    "name": "Ponto Verde - Nova Suissa",
-    "address": "Nova Suíça, Belo Horizonte - State of Minas Gerais, 30450-250, Brazil",
-    "latitude": -19.9368695,
-    "longitude": -43.972516399999996,
-    "googleMapsUri": "https://maps.google.com/?cid=2735813648822248833"
-  },
-  {
+    "id": "ChIJL4VvOdObpgARtlOWC9VibYk",
     "name": "E-MILE Coleta Lixo Eletrônico",
     "address": "R. Pouso Alegre, 2616 - Horto, Belo Horizonte - MG, 31015-025, Brazil",
     "latitude": -19.9102212,
     "longitude": -43.916267399999995,
-    "googleMapsUri": "https://maps.google.com/?cid=9902679822819546038"
+    "googleMapsUri": "https://maps.google.com/?cid=9902679822819546038",
+    "phone": "(31) 3054-6828",
+    "comentarios": [],
+    "rating": 1
   },
   {
-    "name": "AMBIENTAL MATERIAIS RECICLÁVEIS",
-    "address": "R. Alfa, 455 - Vila Paris, Contagem - MG, 32372-080, Brazil",
-    "latitude": -19.922455700000004,
-    "longitude": -44.0237963,
-    "googleMapsUri": "https://maps.google.com/?cid=14563460722844919714"
+    "id": "ChIJe49amB2apgAR_7mIYHmeskk",
+    "name": "Projeto Pro Verde - Lixo Eletrônico",
+    "address": "R. Itajubá, 170 A - Floresta, Belo Horizonte - MG, 30150-380, Brazil",
+    "latitude": -19.9151839,
+    "longitude": -43.9305077,
+    "googleMapsUri": "https://maps.google.com/?cid=5310481154771040767",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ7Rb3aGIIJS2Ba7jLkh-YIjSHhSCRutMoW-UWh_nyCqjP_Cg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ7Rb3aGIIJS2Ba7jLkh-YIjSHhSCRutMoW-UWh_nyCqjP_Cg=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99810-0038",
+    "comentarios": [],
+    "rating": "N/A"
   },
   {
+    "id": "ChIJv2MmpdCXpgARSr7-54cdXV4",
+    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
+    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
+    "latitude": -19.925871,
+    "longitude": -43.9527431,
+    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210",
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": "N/A"
+  },
+  {
+    "id": "ChIJ0wH2foeVpgARP2OMZuRC5wo",
+    "name": "Coletar Reciclagem de Eletrônicos",
+    "address": "R. Cel. Docha, 118 - Inconfidentes, Contagem - MG, 32340-260, Brazil",
+    "latitude": -19.9600366,
+    "longitude": -44.03767510000001,
+    "googleMapsUri": "https://maps.google.com/?cid=785670208739894079",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99948-8586",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "id": "ChIJMSfkZaKbpgARDQEXtN3EQps",
     "name": "Electra Reciclo",
     "address": "R. Gustavo Pena, 155 - Horto, Belo Horizonte - MG, 31015-060, Brazil",
     "latitude": -19.9123,
     "longitude": -43.9189486,
-    "googleMapsUri": "https://maps.google.com/?cid=11187720880829956365"
+    "googleMapsUri": "https://maps.google.com/?cid=11187720880829956365",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWCN193TrKiCfnyl9FY07zm0is0Bk3DyXhWlTByPv24xVfO5usi=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 97343-7789",
+    "comentarios": [],
+    "rating": 3
   },
   {
+    "id": "ChIJGfy2hLWQpgARIp2AyAzD7_s",
+    "name": "Reciclar",
+    "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
+    "latitude": -19.900590599999997,
+    "longitude": -43.9621804,
+    "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhk1RNQuzeSO9hWUJh4vsclmJVLFNRaMregewfA_y7lDK3i2rX=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJHMeZg_KVgDaDe5VHljkdktIYLabwZgvkNnFksOtHaN8jEkQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 98805-8425",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "id": "ChIJxQh-RVWXpgARyzcKdvCSKbI",
+    "name": "Reciclagem Horizonte BH",
+    "address": "R. Salomão Camargos, 54 - Jardinópolis, Belo Horizonte - MG, 30532-230, Brazil",
+    "latitude": -19.943107599999998,
+    "longitude": -44.0048183,
+    "googleMapsUri": "https://maps.google.com/?cid=12837953774266496971",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3566-2752",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "id": "ChIJSTFRsiyZpgARsIRcei_AipA",
     "name": "MAB Reciclagem de Celulares Ltda",
     "address": "Leia - R. Gonçalves Dias, 60 - Funcionários, Belo Horizonte - MG, 30140-090, Brazil",
     "latitude": -19.9338134,
     "longitude": -43.925477099999995,
-    "googleMapsUri": "https://maps.google.com/?cid=10415348398396572848"
+    "googleMapsUri": "https://maps.google.com/?cid=10415348398396572848",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVxkfQUne1haJJpt3og7rdb7JdX9jUdYXcInnPiw6B4Nbu3LeUnTQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUzbhp4t3qajO-8016RIMeLyS2gkmjHq0SvACPGjSS2vGO6Fo2w=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(32) 99116-2540",
+    "comentarios": [],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJg-N7gPO9pgARHFcysmAXZBY",
+    "name": "Reciclando BH",
+    "address": "Av. Álvaro da Silveira, 170 - Barreiro, Belo Horizonte - MG, 30662-537, Brazil",
+    "latitude": -19.9719886,
+    "longitude": -44.018167,
+    "googleMapsUri": "https://maps.google.com/?cid=1613440270579423004",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "0800 303 0399",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "id": "ChIJGWBitcmbpgARwtqjm5KCMCM",
+    "name": "Centro Mineiro de Referência em Resíduos - CMRR",
+    "address": "Rua Belém, 40 - Pompéia, Belo Horizonte - MG, 30285-010, Brazil",
+    "latitude": -19.9054063,
+    "longitude": -43.8992335,
+    "googleMapsUri": "https://maps.google.com/?cid=2535670156397632194",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-sVIlhEp8-OWg4FCqRQkoIk9ZWknETycih5aKiimI5HfvMdL=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUj6Ct1SlL9uHF7URwFzCE4Layx5K8eyT9eSJ1OuFGw929pYWOR=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXxcOwHgZPCsSGPOgF7VSAcm0bssg0kHABfKCN9R1zuZ9_XPQ4vCQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-sVIlhEp8-OWg4FCqRQkoIk9ZWknETycih5aKiimI5HfvMdL=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-sVIlhEp8-OWg4FCqRQkoIk9ZWknETycih5aKiimI5HfvMdL=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUj6Ct1SlL9uHF7URwFzCE4Layx5K8eyT9eSJ1OuFGw929pYWOR=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXxcOwHgZPCsSGPOgF7VSAcm0bssg0kHABfKCN9R1zuZ9_XPQ4vCQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3277-7626",
+    "comentarios": [],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJ3eqGPTuWpgARMwyZU1jvPWc",
+    "name": "Reciclagem Tc",
+    "address": "Av. Teresa Cristina, 8880 - Betânia, Belo Horizonte - MG, 30662-537, Brazil",
+    "latitude": -19.9579473,
+    "longitude": -43.994594299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=7439365322124626995",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3191-6026",
+    "comentarios": [],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJeZOtn0qapgARS0UQEUf0AU8",
+    "name": "URPV - Unidade de Recebimento de Pequenos Volumes - Andradas I",
+    "address": "Av. dos Andradas, 19544-19564 - Centro, Belo Horizonte - MG, 31060, Brazil",
+    "latitude": -19.9014429,
+    "longitude": -43.906844299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=5693099990039151947",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVJP87S7nBLwiKSwOxaZCtFnDStwBPxINQlhtLcAVZurkkCfaU=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3277-5787",
+    "comentarios": [],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJ___rE02RpgARsUQZNa0yhGo",
+    "name": "COLETABH",
+    "address": "R. Afluentes, 100 - Serrano, Belo Horizonte - MG, 30882-110, Brazil",
+    "latitude": -19.887330199999997,
+    "longitude": -44.008953899999995,
+    "googleMapsUri": "https://maps.google.com/?cid=7675315384447747249",
+    "phone": "(31) 4042-1902",
+    "comentarios": [],
+    "rating": 5
   }
 ]

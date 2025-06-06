@@ -1,142 +1,541 @@
 [
   {
+    "id": "ChIJ7RmBT3dhmQARsdGAA32WLrA",
     "name": "Coleta de Lixo Eletrônico sem custo",
     "address": "R. Sen. Dantas, 23 - Centro, Rio de Janeiro - RJ, 20031-202, Brazil",
     "latitude": -22.911495799999997,
     "longitude": -43.176810499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249"
+    "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 98381-0591",
+    "comentarios": [],
+    "rating": 4.5
   },
   {
+    "id": "ChIJpQ2H6Nt_mQARzgnA4jnJXrg",
     "name": "Composta'e Resíduos",
     "address": "Rua Conde de Bonfim, 909 - Tijuca, Rio de Janeiro - RJ, 20530-002, Brazil",
     "latitude": -22.9376583,
     "longitude": -43.2461607,
-    "googleMapsUri": "https://maps.google.com/?cid=13285277201244096974"
+    "googleMapsUri": "https://maps.google.com/?cid=13285277201244096974",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUQC0Ahk02ml0oznAK7QqqAWUxBHseaLhsV5bcLNjvLCFF0e6Y=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVU9J-ZPmemR030P9yEYXpDU_Xcc3b_BO8KlnC1tHnVL_JuM98D4w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVU9J-ZPmemR030P9yEYXpDU_Xcc3b_BO8KlnC1tHnVL_JuM98D4w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVU9J-ZPmemR030P9yEYXpDU_Xcc3b_BO8KlnC1tHnVL_JuM98D4w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVU9J-ZPmemR030P9yEYXpDU_Xcc3b_BO8KlnC1tHnVL_JuM98D4w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVU9J-ZPmemR030P9yEYXpDU_Xcc3b_BO8KlnC1tHnVL_JuM98D4w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKd96RySkh0eojmceTl_Y7RY0pfsllm1rnj2jMsiO41dZ0GrA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUQC0Ahk02ml0oznAK7QqqAWUxBHseaLhsV5bcLNjvLCFF0e6Y=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUQC0Ahk02ml0oznAK7QqqAWUxBHseaLhsV5bcLNjvLCFF0e6Y=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUQC0Ahk02ml0oznAK7QqqAWUxBHseaLhsV5bcLNjvLCFF0e6Y=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 99678-5755",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJnZlK3Wh8mQARUS7YkbvgbiA",
     "name": "Bem Reciclagem",
     "address": "Av. Pastor Martin Luther King Jr., 3689 - Inhaúma, Rio de Janeiro - RJ, 20765-630, Brazil",
     "latitude": -22.8746086,
     "longitude": -43.282351999999996,
-    "googleMapsUri": "https://maps.google.com/?cid=2337052352862236241"
+    "googleMapsUri": "https://maps.google.com/?cid=2337052352862236241",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_wIVJI7HVIGtH7uF4BAihhwzYmKkGg6C1DQmHEDkKQWUJpO1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_wIVJI7HVIGtH7uF4BAihhwzYmKkGg6C1DQmHEDkKQWUJpO1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_wIVJI7HVIGtH7uF4BAihhwzYmKkGg6C1DQmHEDkKQWUJpO1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_wIVJI7HVIGtH7uF4BAihhwzYmKkGg6C1DQmHEDkKQWUJpO1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_wIVJI7HVIGtH7uF4BAihhwzYmKkGg6C1DQmHEDkKQWUJpO1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWc_wIVJI7HVIGtH7uF4BAihhwzYmKkGg6C1DQmHEDkKQWUJpO1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWT4uyfQuUBSqKkGoLUWA6OA4tT9AbsXvn_WFJ2LaLNfWoAk6IX=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVo2pXknphVTnYjorFtpvbXnzHkp6TyS60a3tes80xPx_uO9ekDRg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXEuqPHBtqAhB-W7b2ofuiqDb0pDYVKOl4neH4DT1ik0WIj37A=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXEuqPHBtqAhB-W7b2ofuiqDb0pDYVKOl4neH4DT1ik0WIj37A=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 4108-0454",
+    "comentarios": [],
+    "rating": 4.9
   },
   {
+    "id": "ChIJDd_BtkzjmwARM0WT-OVjAFE",
     "name": "Reciclagem De Lixo Eletrônicos",
     "address": "R. Três, 560 - Campo Grande, Rio de Janeiro - RJ, 23067-140, Brazil",
     "latitude": -22.8802505,
     "longitude": -43.611875,
-    "googleMapsUri": "https://maps.google.com/?cid=5836774956441224499"
+    "googleMapsUri": "https://maps.google.com/?cid=5836774956441224499",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 97428-7991",
+    "comentarios": [],
+    "rating": 4.7
   },
   {
+    "id": "ChIJO84NsBrVmwARyBLigS_BPX8",
     "name": "Ciclo Orgânico",
     "address": "Rua São João Batista, 82 Prédio - Botafogo, Rio de Janeiro - RJ, 22270-030, Brazil",
     "latitude": -22.9562661,
     "longitude": -43.1900197,
-    "googleMapsUri": "https://maps.google.com/?cid=9168696826182898376"
+    "googleMapsUri": "https://maps.google.com/?cid=9168696826182898376",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzR64oa-z7nscYL4SGufP2u9AmOXws6jlqDdfyjd-diYf4yC4=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 98521-0747",
+    "comentarios": [],
+    "rating": 4.7
   },
   {
+    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
     "name": "ColetAmbiental coletamos sem custos",
     "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
     "latitude": -22.9108488,
     "longitude": -43.177166299999996,
-    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452"
+    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 96930-9009",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJszee491_mQAR1dnesCIoczE",
     "name": "Recicloteca - Centro de Informações Ambientais",
     "address": "ENDEREÇO DESATIVADO: - R. Miranda Valverde, 118/101 - Botafogo, Rio de Janeiro - RJ, 22281-000, Brazil",
     "latitude": -22.952818999999998,
     "longitude": -43.194846999999996,
-    "googleMapsUri": "https://maps.google.com/?cid=3563235859641588181"
+    "googleMapsUri": "https://maps.google.com/?cid=3563235859641588181",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 96966-1792",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "Rio Park Recicla",
-    "address": "Estr. da Água Branca, 1176 - Realengo, Rio de Janeiro - RJ, 21730-000, Brazil",
-    "latitude": -22.8679946,
-    "longitude": -43.4269677,
-    "googleMapsUri": "https://maps.google.com/?cid=6573008188807925407"
-  },
-  {
+    "id": "ChIJTe2eHrV_mQAR1T_cpy4BGoo",
     "name": "Grupo Urbam",
     "address": "Av. Guilherme Maxwel, 103 - Bonsucesso, Rio de Janeiro - RJ, 21040-211, Brazil",
     "latitude": -22.8650481,
     "longitude": -43.244035499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=9951267626524884949"
+    "googleMapsUri": "https://maps.google.com/?cid=9951267626524884949",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjViUyuXEE0nCV-_mFMmGDGegrb6nia52zHNHEtjxY1kVlA37q4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU6y783uixGnzIr_BC3vSugC07rgX8tdMVPk_y93vyG4_ve_2ciQQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjViUyuXEE0nCV-_mFMmGDGegrb6nia52zHNHEtjxY1kVlA37q4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjViUyuXEE0nCV-_mFMmGDGegrb6nia52zHNHEtjxY1kVlA37q4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU09aMqhnGt6aFmF5rFs8VUda-L74DSJAMNLbyFGLnT8DdnaIki=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjViUyuXEE0nCV-_mFMmGDGegrb6nia52zHNHEtjxY1kVlA37q4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUE74hAuBz2JIFBq0WqJkRYerJMWXh37nzdPQ6PIZbxlsOAfk9p=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjViUyuXEE0nCV-_mFMmGDGegrb6nia52zHNHEtjxY1kVlA37q4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLgNH3rPOPapaB3qp6mKTgo1hG-hy9z51g0IPayT_la99frlA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjViUyuXEE0nCV-_mFMmGDGegrb6nia52zHNHEtjxY1kVlA37q4=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 2273-0303",
+    "comentarios": [],
+    "rating": 4.8
   },
   {
-    "name": "COOPAMA - Cooperativa Popular Amigos do Meio Ambiente Ltda",
-    "address": "R. Miguel Ângelo, 385 - Maria da Graça, Rio de Janeiro - RJ, 20785-901, Brazil",
-    "latitude": -22.8862123,
-    "longitude": -43.264534399999995,
-    "googleMapsUri": "https://maps.google.com/?cid=5144929853306501206"
+    "id": "ChIJK8SFjcJhmQARn06hVx8EOFs",
+    "name": "Rio Park Recicla",
+    "address": "Estr. da Água Branca, 1176 - Realengo, Rio de Janeiro - RJ, 21730-000, Brazil",
+    "latitude": -22.8679946,
+    "longitude": -43.4269677,
+    "googleMapsUri": "https://maps.google.com/?cid=6573008188807925407",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW5r8gD8CmmDkFi64zFer_Eq_rVcc6Gq_D7VeB2uGymRGJYRK0-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIfCJqL00ll_JKO8sV8C0M4yZ2YQ31Q3nSQnsaNwYZGc0nnug=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
+    "id": "ChIJt7AQDS19mQARuWxwqQvij68",
     "name": "Recicla-RJ",
     "address": "R. Silva Braga, 43 - Piedade, Rio de Janeiro - RJ, 20740-500, Brazil",
     "latitude": -22.900550799999998,
     "longitude": -43.3151406,
-    "googleMapsUri": "https://maps.google.com/?cid=12650578418022247609"
+    "googleMapsUri": "https://maps.google.com/?cid=12650578418022247609",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWGpCnm5kkGBcKh55_KMNuosWbLHRo7jJzK3Ae41WL8mCkpwj0=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 99297-3547",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
-    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
-    "latitude": -19.9408104,
-    "longitude": -44.0015892,
-    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+    "id": "ChIJnU12fDp8mQARVviiTHF2Zkc",
+    "name": "COOPAMA - Cooperativa Popular Amigos do Meio Ambiente Ltda",
+    "address": "R. Miguel Ângelo, 385 - Maria da Graça, Rio de Janeiro - RJ, 20785-901, Brazil",
+    "latitude": -22.8862123,
+    "longitude": -43.264534399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=5144929853306501206",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3215-7030",
+    "comentarios": [],
+    "rating": 4.4
   },
   {
-    "name": "Ecológica Coleta e Destinação de Resíduos Químicos Ltda.",
-    "address": "Rua Octávio de Faria, 81 - sala 210 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22795-415, Brazil",
-    "latitude": -23.017250999999998,
-    "longitude": -43.4577489,
-    "googleMapsUri": "https://maps.google.com/?cid=5668965518387059242"
-  },
-  {
+    "id": "ChIJOSk6SiF7mQARSJiCgOc7vns",
     "name": "Coop Ceu Azul",
     "address": "R. Isidro Rocha, 70 - Vigário Geral, Rio de Janeiro - RJ, 21241-180, Brazil",
     "latitude": -22.806673099999998,
     "longitude": -43.3149118,
-    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240"
+    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3474-2901",
+    "comentarios": [],
+    "rating": 3.8
   },
   {
-    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
-    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
-    "latitude": -19.9570892,
-    "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+    "id": "ChIJF27wAJ3hmwARjSWaEhHfpYg",
+    "name": "Empresa De Reciclagem",
+    "address": "Estr. João Melo, 229-319 - Campo Grande, Rio de Janeiro - RJ, 23092-080, Brazil",
+    "latitude": -22.873812299999997,
+    "longitude": -43.548788200000004,
+    "googleMapsUri": "https://maps.google.com/?cid=9846521424734987661",
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "Coleta Certa - Coleta Seletiva e Reciclagem de Resíduos Niterói",
-    "address": "R. Gen. Pereira da Silva, 136 - Icaraí, Niterói - RJ, 24220-031, Brazil",
-    "latitude": -22.903044599999998,
-    "longitude": -43.1114259,
-    "googleMapsUri": "https://maps.google.com/?cid=4565240119450578511"
+    "id": "ChIJ7wUhSbndmwARKhpmfxo2rE4",
+    "name": "Ecológica Coleta e Destinação de Resíduos Químicos Ltda.",
+    "address": "Rua Octávio de Faria, 81 - sala 210 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22795-415, Brazil",
+    "latitude": -23.017250999999998,
+    "longitude": -43.4577489,
+    "googleMapsUri": "https://maps.google.com/?cid=5668965518387059242",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW_qKEK9igodFdeCp6zRFtLVERaVKnh0jHMKLD8glpsJnCh5Qs=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW_qKEK9igodFdeCp6zRFtLVERaVKnh0jHMKLD8glpsJnCh5Qs=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 99721-7458",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "reciclerio",
-    "address": "R. Cel. García Pachêco, 59 - galpão - Parada de Lucas, Rio de Janeiro - RJ, 21250-590, Brazil",
-    "latitude": -22.823000699999998,
-    "longitude": -43.3123937,
-    "googleMapsUri": "https://maps.google.com/?cid=2866138974419572407"
-  },
-  {
+    "id": "ChIJPcCp1Kx-mQAR7gTDy_YCHOE",
     "name": "Environmental Clean Serv Collection and Transport",
     "address": "R. Paraopeba, 330 - Vila Sarapui, Duque de Caxias - RJ, 25051-290, Brazil",
     "latitude": -22.864494000000004,
     "longitude": -43.245043,
-    "googleMapsUri": "https://maps.google.com/?cid=16220843216885449966"
+    "googleMapsUri": "https://maps.google.com/?cid=16220843216885449966",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXtS9Lq-O1d6WO5W8QCWydD7rIHbScFJxayo85U-iwqUOPQRo9I=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "3104-2992",
+    "comentarios": [],
+    "rating": 3.1
   },
   {
-    "name": "BOTAFOGO RECICLAGEM",
-    "address": "R. Francisco Bernardino, 77 - Riachuelo, Rio de Janeiro - RJ, 20961-060, Brazil",
-    "latitude": -22.8997122,
-    "longitude": -43.258443,
-    "googleMapsUri": "https://maps.google.com/?cid=3783532607241612835"
+    "id": "ChIJXWNG1fVWZ0oRT642crP9Wj8",
+    "name": "Coleta Certa - Coleta Seletiva e Reciclagem de Resíduos Niterói",
+    "address": "R. Gen. Pereira da Silva, 136 - Icaraí, Niterói - RJ, 24220-031, Brazil",
+    "latitude": -22.903044599999998,
+    "longitude": -43.1114259,
+    "googleMapsUri": "https://maps.google.com/?cid=4565240119450578511",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWoh5XgtCeaasn8yn9W0rRiLLMxD6bXH_-v2GWw5_7IjNLJa38=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 4126-8837",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "RESIDUO ALL",
-    "address": "R. Felizardo Fortes, 324 - Ramos, Rio de Janeiro - RJ, 21031-160, Brazil",
-    "latitude": -22.841875599999998,
-    "longitude": -43.2548373,
-    "googleMapsUri": "https://maps.google.com/?cid=14428754150487002385"
+    "id": "ChIJtX-zT1F5mQARzbWc8ZkcT9Y",
+    "name": "Recycling storage RJ Recicoleta",
+    "address": "Rua 7 de Março, 232 - Bonsucesso, Rio de Janeiro - RJ, 21043-030, Brazil",
+    "latitude": -22.8588052,
+    "longitude": -43.248141,
+    "googleMapsUri": "https://maps.google.com/?cid=15442593094785873357",
+    "phone": "(21) 3104-5042",
+    "comentarios": [],
+    "rating": 3.5
+  },
+  {
+    "id": "ChIJGZqfeSh9mQARR7f_GDEbmHU",
+    "name": "Solução Gerenciamento de Resíduos Sólidos Industriais",
+    "address": "R. Ferreira Câmara, 41 - Maria da Graça, Rio de Janeiro - RJ, 20785-470, Brazil",
+    "latitude": -22.8838807,
+    "longitude": -43.261330199999996,
+    "googleMapsUri": "https://maps.google.com/?cid=8473552596584347463",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUNZW46RvS0M7_rL2WFiA7A7gl3wTv5C2ciH5El1My4MIr8MrLe=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 2595-1661",
+    "comentarios": [],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJubIOZHxjmQARgsylPdOmQp4",
+    "name": "CRR - Centro de Reciclagem Rio Ltda",
+    "address": "Av. Sen. Vitórino Freire, 365 - Coelho Neto, Rio de Janeiro - RJ, 21530-220, Brazil",
+    "latitude": -22.8301888,
+    "longitude": -43.361683899999996,
+    "googleMapsUri": "https://maps.google.com/?cid=11403860632658103426",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVi90P-1_ssMPNGKIDIbhtVGfhnnzWWUQ9g6n3zAOXOMIOKMBWv=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUC2gFe0e0I2zTPKcRtXCopzHo_BLRI_NhXQTU44R5Rg9u0uS_KAA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocL_3nr_Q5PGv900y9-MDY5wGbmlG4x4o0r4qljpFRDQnhfT9Q=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(21) 3509-5150",
+    "comentarios": [],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJZ_tUUSF7mQARt1YuNzaSxic",
+    "name": "reciclerio",
+    "address": "R. Cel. García Pachêco, 59 - galpão - Parada de Lucas, Rio de Janeiro - RJ, 21250-590, Brazil",
+    "latitude": -22.823000699999998,
+    "longitude": -43.3123937,
+    "googleMapsUri": "https://maps.google.com/?cid=2866138974419572407",
+    "phone": "(21) 97085-8896",
+    "comentarios": [],
+    "rating": 4.3
   }
 ]
