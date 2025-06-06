@@ -4,104 +4,390 @@
     "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
     "latitude": -15.780830799999999,
     "longitude": -47.9845171,
-    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628"
-  },
-  {
-    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
-    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
-    "latitude": -19.9408104,
-    "longitude": -44.0015892,
-    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtLqSIL0971B4j7R_rhzegShO3ioUuOqLlx8bIsXg_O28mPcCG=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjX9YVFuCZ22VRhGM6d-JxAaZLS24jJA-Nd4RQw936mHX9HD1e4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU-BPVedM6Zv94WPqNTGmP9uGbad2CLkWNc58qLIE2osD0Yg_53=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVuALW5LmZnJYnkYg7uqHSL4BGYPBwnBeNZVsjpiSUOWyBc24h_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 3246-6068",
+    "comentarios": [],
+    "rating": 4.5
   },
   {
     "name": "Coletor de vidro",
     "address": "53FJ+J9 - Brasília, Federal District, 70360-510, Brazil",
     "latitude": -15.825997199999998,
     "longitude": -47.9191138,
-    "googleMapsUri": "https://maps.google.com/?cid=9919026875937194920"
-  },
-  {
-    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
-    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
-    "latitude": -19.9570892,
-    "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
+    "googleMapsUri": "https://maps.google.com/?cid=9919026875937194920",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIWGUCGz4s8inaYc4RqoJRLHWruVbu_sntJTps6LnmHgCdL6n0=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Coleta de vidros",
     "address": "SCLRN 716 - SHCGN SHCGN 716 - Asa Norte, Brasília - DF, 70760-780, Brazil",
     "latitude": -15.740269999999999,
     "longitude": -47.8991419,
-    "googleMapsUri": "https://maps.google.com/?cid=10166110498386542938"
+    "googleMapsUri": "https://maps.google.com/?cid=10166110498386542938",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWxx35OUcFUSK0XTz8IG_oFyHUBAYfgMAr4_8eHHoCrT0ZULYi4Gw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWxx35OUcFUSK0XTz8IG_oFyHUBAYfgMAr4_8eHHoCrT0ZULYi4Gw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWxx35OUcFUSK0XTz8IG_oFyHUBAYfgMAr4_8eHHoCrT0ZULYi4Gw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Ponto de coleta de Vidros N°34",
     "address": "Shc/Norte Cl Qd 309 BL A - Asa Norte, Brasília - DF, 70755-510, Brazil",
     "latitude": -15.762263700000002,
     "longitude": -47.888374299999995,
-    "googleMapsUri": "https://maps.google.com/?cid=1796043781243952088"
+    "googleMapsUri": "https://maps.google.com/?cid=1796043781243952088",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOMiifpdXlCuXWv6ctbc7qpjsyJmkfdLquMhQ0C5AUA9zfE0c=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOMiifpdXlCuXWv6ctbc7qpjsyJmkfdLquMhQ0C5AUA9zfE0c=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "Green Ambiental - Ponto de Coleta",
-    "address": "SPVP, 024 - Brasília, DF, 70297-400, Brazil",
-    "latitude": -15.794808000000002,
-    "longitude": -47.844107,
-    "googleMapsUri": "https://maps.google.com/?cid=16362987236346440376"
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3565-5294",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3063-0688",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "ECO AMBIENTAL FERRO VELHO & RECICLAVEIS",
     "address": "SHCGN CRN 706/707 bloco f lt 1 - Brasília, DF, 70740-660, Brazil",
     "latitude": -15.770173599999998,
     "longitude": -47.890343099999996,
-    "googleMapsUri": "https://maps.google.com/?cid=17627956885845438899"
+    "googleMapsUri": "https://maps.google.com/?cid=17627956885845438899",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV4BvBKhgqXC_WhA7R367S_W_-e_KiOPWPyeMpPRAkHeqJS1b1Mww=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 99263-6188",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
     "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
     "latitude": -15.834466999999998,
     "longitude": -48.043344999999995,
-    "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481"
+    "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 98417-0802",
+    "comentarios": [],
+    "rating": 2
+  },
+  {
+    "name": "Green Ambiental - Ponto de Coleta",
+    "address": "SPVP, 024 - Brasília, DF, 70297-400, Brazil",
+    "latitude": -15.794808000000002,
+    "longitude": -47.844107,
+    "googleMapsUri": "https://maps.google.com/?cid=16362987236346440376",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUWKWn3tEref9HwITQgkcaP64vs0j_h1T-IGZLVCiSHNYwXsc86=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKEEpegzPAlEi8tDm1_9MLBftRCrwsXFBHpZCHdCg7ml9ItIg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLroGJduJuobfId8R549AFLdIyJmRFNBCcBnoHLUF02nboLHw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUWKWn3tEref9HwITQgkcaP64vs0j_h1T-IGZLVCiSHNYwXsc86=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 99861-7373",
+    "comentarios": [],
+    "rating": 3
   },
   {
     "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
     "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
     "latitude": -15.8128383,
     "longitude": -48.013962799999995,
-    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641"
-  },
-  {
-    "name": "Ponto Verde - Nova Suissa",
-    "address": "Nova Suíça, Belo Horizonte - State of Minas Gerais, 30450-250, Brazil",
-    "latitude": -19.9368695,
-    "longitude": -43.972516399999996,
-    "googleMapsUri": "https://maps.google.com/?cid=2735813648822248833"
-  },
-  {
-    "name": "Sia Recicla",
-    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
-    "latitude": -15.798486199999997,
-    "longitude": -47.9661864,
-    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996"
+    "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641",
+    "phone": "(61) 98563-2239",
+    "comentarios": [],
+    "rating": 2.7
   },
   {
     "name": "Lixo eletrônico Brasília e descarte de informática",
     "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
     "latitude": -15.8021241,
     "longitude": -48.1405691,
-    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791"
+    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 98513-9817",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 99914-1212",
+    "comentarios": [],
+    "rating": 4.1
   },
   {
     "name": "Cooperativa de Catadores Recicla Mais Brasil",
     "address": "Quadra 5 Conj D Aréa Especial - Paranoá, Brasília - DF, 71570-500, Brazil",
     "latitude": -15.7786759,
     "longitude": -47.7858561,
-    "googleMapsUri": "https://maps.google.com/?cid=4614527667346396940"
+    "googleMapsUri": "https://maps.google.com/?cid=4614527667346396940",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFrFTm4GrbHg2-pWi4Z2i4rlG9wIz8NdQkFrXRgcYIaL_6Qbg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWz3LBwoLbEzo_tlEbY0jMr0wzE4i_kPUwNnkHquxbee9Epu8JX=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 99457-2191",
+    "comentarios": [],
+    "rating": 4.5
   },
   {
     "name": "Instituto Nacional Pela Reciclagem",
     "address": "SHCN CLN 308 BL D - Asa Norte, Brasília - DF, 70747-540, Brazil",
     "latitude": -15.762928299999999,
     "longitude": -47.889289399999996,
-    "googleMapsUri": "https://maps.google.com/?cid=3441000056070384948"
+    "googleMapsUri": "https://maps.google.com/?cid=3441000056070384948",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJzOGhyjsS3vsoB7tFvcWhU_645Azmg2inAq_xYBpHTtmGTAg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJzOGhyjsS3vsoB7tFvcWhU_645Azmg2inAq_xYBpHTtmGTAg=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(61) 99861-1516",
+    "comentarios": [],
+    "rating": "N/A"
   }
 ]

@@ -4,125 +4,446 @@
     "address": "R. Raul de Azevedo Macedo, 179 - sala 02 - Xaxim, Curitiba - PR, 81830-180, Brazil",
     "latitude": -25.5053767,
     "longitude": -49.267768399999994,
-    "googleMapsUri": "https://maps.google.com/?cid=14876761711548334231"
-  },
-  {
-    "name": "CTRSS - Central de Tratamento de Resíduos de Serviços de Saúde - ESTRE",
-    "address": "Rod. Régis Bittencourt, 21521 - Pinheirinho, Curitiba - PR, 81020-490, Brazil",
-    "latitude": -25.539916500000004,
-    "longitude": -49.301789799999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17858933239705899465"
+    "googleMapsUri": "https://maps.google.com/?cid=14876761711548334231",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhyg2ossvM5mqI7mF4qoXPxcA2lVX3duKbfbml57qosa2CVnZ1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhyg2ossvM5mqI7mF4qoXPxcA2lVX3duKbfbml57qosa2CVnZ1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVbriVBD8Q9l3UDQRgWDpNizdK_HoBxjvCDumDGJ6XfTVyiqmdc9g=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99858-6592",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Paraná Bioambiental - Coleta de Resíduos de Saúde",
     "address": "R. Rivadávia de Macedo Júnior, 29 - Cidade Industrial de Curitiba, Curitiba - PR, 81460-336, Brazil",
     "latitude": -25.542586099999998,
     "longitude": -49.3376648,
-    "googleMapsUri": "https://maps.google.com/?cid=66058792901166292"
+    "googleMapsUri": "https://maps.google.com/?cid=66058792901166292",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXZoyFYZcrqBphnOqKbcWac9aUXqIBEqBcHffGSUkMfOBRuIJ8=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99660-8810",
+    "comentarios": [],
+    "rating": 3.9
   },
   {
-    "name": "AFF Ambiental",
-    "address": "Rua Carlos Essenfelder, 3349 Rua Carlos Essenfelder, 3391 Rua Carlos Essenfelder, 3373 - R. Carlos Essenfelder, 3405 - Boqueirão, Curitiba - PR, 81730-060, Brazil",
-    "latitude": -25.506756799999998,
-    "longitude": -49.226575999999994,
-    "googleMapsUri": "https://maps.google.com/?cid=4841846048699492884"
+    "name": "CTRSS - Central de Tratamento de Resíduos de Serviços de Saúde - ESTRE",
+    "address": "Rod. Régis Bittencourt, 21521 - Pinheirinho, Curitiba - PR, 81020-490, Brazil",
+    "latitude": -25.539916500000004,
+    "longitude": -49.301789799999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17858933239705899465",
+    "phone": "(41) 3227-0660",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Reversa Gestão de Resíduos, Reciclagem e Serviços Ambientais",
     "address": "R. Agílio Leão de Macedo, 49 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-050, Brazil",
     "latitude": -25.493187799999998,
     "longitude": -49.3303958,
-    "googleMapsUri": "https://maps.google.com/?cid=12492533191898768273"
+    "googleMapsUri": "https://maps.google.com/?cid=12492533191898768273",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJVODGArrbfPt7suadLdQKiOCcRifsxxL9yYMtkbHpBCo4oMg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUn2AXwasOk_7FVJ0fJb-xccgU5ettDonfXpb7zu0jwY-yo4wg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYjAsDJvCwhDEZUtvYAeQUUNIJu9DXFkyq76JkCTh9eEDBRTM=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3797-1313",
+    "comentarios": [],
+    "rating": 4.4
+  },
+  {
+    "name": "AFF Ambiental",
+    "address": "Rua Carlos Essenfelder, 3349 Rua Carlos Essenfelder, 3391 Rua Carlos Essenfelder, 3373 - R. Carlos Essenfelder, 3405 - Boqueirão, Curitiba - PR, 81730-060, Brazil",
+    "latitude": -25.506756799999998,
+    "longitude": -49.226575999999994,
+    "googleMapsUri": "https://maps.google.com/?cid=4841846048699492884",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVgRKJT15vkrbJ_dk_9uIHiz6CX0F5L6TPnkpqYC3dMJFLj8eI=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWbFVbejwiCJwd3rBliDZd99CrhX3tnbS2nz56QZb_UnoimKbE=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVVq8dhNp3JZhbxKQwU3A9oAKaYPVkBAW4IhKm0zct7cmg7ILVRyw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIjlLKM5O7eiK8-zZOq9aiq4_L_jjYAZ72I4qbrI3ewGfHXD_=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 98804-4731",
+    "comentarios": [],
+    "rating": 4.3
   },
   {
     "name": "ΕΚΟ BEE GESTÃO AMBIENTAL",
     "address": "R. Brasílio Itiberê, 308 - Jardim Botânico, Curitiba - PR, 80210-060, Brazil",
     "latitude": -25.438978799999997,
     "longitude": -49.248350099999996,
-    "googleMapsUri": "https://maps.google.com/?cid=17082595615943317270"
+    "googleMapsUri": "https://maps.google.com/?cid=17082595615943317270",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUA66XWysWR3W14ZzhjBxwqZgD6tkMGC4E62BBW7XfCb28JAXIKLw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUA66XWysWR3W14ZzhjBxwqZgD6tkMGC4E62BBW7XfCb28JAXIKLw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUA66XWysWR3W14ZzhjBxwqZgD6tkMGC4E62BBW7XfCb28JAXIKLw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKiwh4ljBKJg2L5PpO0RzZsOGUyclBGNkVgnN8LxLDjhAp3WA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKiwh4ljBKJg2L5PpO0RzZsOGUyclBGNkVgnN8LxLDjhAp3WA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKiwh4ljBKJg2L5PpO0RzZsOGUyclBGNkVgnN8LxLDjhAp3WA=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Transresíduos Ambiental S/A.",
     "address": "R. William Booth, 537 - Boqueirão, Curitiba - PR, 81650-120, Brazil",
     "latitude": -25.4926216,
     "longitude": -49.230317199999995,
-    "googleMapsUri": "https://maps.google.com/?cid=3616245496709771332"
-  },
-  {
-    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
-    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
-    "latitude": -19.9408104,
-    "longitude": -44.0015892,
-    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+    "googleMapsUri": "https://maps.google.com/?cid=3616245496709771332",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXM6-mrVI6TFCJfL9NUz050MVEQ1I_I-__pn7L_hW58UyExO_RO=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXM6-mrVI6TFCJfL9NUz050MVEQ1I_I-__pn7L_hW58UyExO_RO=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWeviC2BAlEqCFYIZwf3pM4nnsIMDzo2th-5mjH1FEuh_8u0jY=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3332-2224",
+    "comentarios": [],
+    "rating": 3.9
   },
   {
     "name": "Transeduc Ambiental",
     "address": "R. Cap. Dr. Antônio José, 608 - Xaxim, Curitiba - PR, 81810-340, Brazil",
     "latitude": -25.5047756,
     "longitude": -49.275344399999994,
-    "googleMapsUri": "https://maps.google.com/?cid=4054872667716205748"
-  },
-  {
-    "name": "Eco Recicla Ambiental",
-    "address": "R. Lamenha Lins, 3491 - Centro, Curitiba - PR, 80220-081, Brazil",
-    "latitude": -25.4655968,
-    "longitude": -49.263001599999996,
-    "googleMapsUri": "https://maps.google.com/?cid=11096119075349083879"
-  },
-  {
-    "name": "Coleta de lixo tóxico",
-    "address": "R. João Havro - Boa Vista, Curitiba - PR, 82560-020, Brazil",
-    "latitude": -25.3928333,
-    "longitude": -49.2422173,
-    "googleMapsUri": "https://maps.google.com/?cid=6955672830564928256"
-  },
-  {
-    "name": "Alfa Resíduos",
-    "address": "R. Clávio Molinari, 828 - Capão da Imbuia, Curitiba - PR, 82810-210, Brazil",
-    "latitude": -25.4400566,
-    "longitude": -49.211633,
-    "googleMapsUri": "https://maps.google.com/?cid=3381821587719089583"
+    "googleMapsUri": "https://maps.google.com/?cid=4054872667716205748",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUNYIO5mEPpCHon9cqR-GwMS43ZTH1STteJLj_1yIxgE6rUqHg=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3049-6449",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "CRBIOLOGIC - Coleta de Resíduos",
     "address": "R. Cocáis, 555 - Esplanada, Belo Horizonte - MG, 30280-150, Brazil",
     "latitude": -19.9032904,
     "longitude": -43.901461399999995,
-    "googleMapsUri": "https://maps.google.com/?cid=15762303171621970782"
+    "googleMapsUri": "https://maps.google.com/?cid=15762303171621970782",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIJHOZ8IyBYVhi7bAjB94INy_gshTLXpGB_8zMX6xv2_VtKVw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99984-0162",
+    "comentarios": [],
+    "rating": 4
   },
   {
-    "name": "Associação de Catadores de Materiais Recicláveis Futuro Ecológico",
-    "address": "R. Piauí, 580 - Parolin, Curitiba - PR, 80220-240, Brazil",
-    "latitude": -25.4554454,
-    "longitude": -49.266130700000005,
-    "googleMapsUri": "https://maps.google.com/?cid=14677669739187253205"
+    "name": "Eco Recicla Ambiental",
+    "address": "R. Lamenha Lins, 3491 - Centro, Curitiba - PR, 80220-081, Brazil",
+    "latitude": -25.4655968,
+    "longitude": -49.263001599999996,
+    "googleMapsUri": "https://maps.google.com/?cid=11096119075349083879",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKVwbbPHu-xWKYy-qs-tLT9Px4QDJnRRv5PUgKCVV7ePzS-Kw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOra2GW_czlaoPrNemSAzKBx_ZO4eF6Pa1W5YdGIGyQMkzLwk=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99680-8037",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "Eccos Resíduos",
-    "address": "Estrada para Lapa - Jardim Elizabete, Contenda - PR, 83730-000, Brazil",
-    "latitude": -25.6950304,
-    "longitude": -49.5506221,
-    "googleMapsUri": "https://maps.google.com/?cid=12292014360337329614"
+    "name": "Coleta de lixo tóxico",
+    "address": "R. João Havro - Boa Vista, Curitiba - PR, 82560-020, Brazil",
+    "latitude": -25.3928333,
+    "longitude": -49.2422173,
+    "googleMapsUri": "https://maps.google.com/?cid=6955672830564928256",
+    "phone": "(41) 98489-6782",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Alfa Resíduos",
+    "address": "R. Clávio Molinari, 828 - Capão da Imbuia, Curitiba - PR, 82810-210, Brazil",
+    "latitude": -25.4400566,
+    "longitude": -49.211633,
+    "googleMapsUri": "https://maps.google.com/?cid=3381821587719089583",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ12_I2jLep2p0KNwRVdx6EmgKx7drQi-alYbXID7weQ5qFcE=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 98882-5492",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Cavo - Serviços e Saneamento",
+    "address": "R. Nunes Machado, 1400 - Rebouças, Curitiba - PR, 80220-070, Brazil",
+    "latitude": -25.449296,
+    "longitude": -49.270024899999996,
+    "googleMapsUri": "https://maps.google.com/?cid=4497276226353610124",
+    "phone": "(41) 2141-6400",
+    "comentarios": [],
+    "rating": 3.8
+  },
+  {
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3565-5294",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Lider Residuos Coleta e Transporte",
     "address": "Av. do Contorno, 2905 - Santa Efigênia, Belo Horizonte - MG, 30110-001, Brazil",
     "latitude": -19.921758699999998,
     "longitude": -43.921090199999995,
-    "googleMapsUri": "https://maps.google.com/?cid=447676341928008371"
+    "googleMapsUri": "https://maps.google.com/?cid=447676341928008371",
+    "phone": "(31) 3226-1484",
+    "comentarios": [],
+    "rating": 3
+  },
+  {
+    "name": "Associação de Catadores de Materiais Recicláveis Futuro Ecológico",
+    "address": "R. Piauí, 580 - Parolin, Curitiba - PR, 80220-240, Brazil",
+    "latitude": -25.4554454,
+    "longitude": -49.266130700000005,
+    "googleMapsUri": "https://maps.google.com/?cid=14677669739187253205",
+    "phone": "(41) 3332-4218",
+    "comentarios": [],
+    "rating": "N/A"
+  },
+  {
+    "name": "Eccos Resíduos",
+    "address": "Estrada para Lapa - Jardim Elizabete, Contenda - PR, 83730-000, Brazil",
+    "latitude": -25.6950304,
+    "longitude": -49.5506221,
+    "googleMapsUri": "https://maps.google.com/?cid=12292014360337329614",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW8_wQ8wZDJr7rWqBMpfdiu4rHwSMi-73zvq2iaTwfJa58nwc0=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW8_wQ8wZDJr7rWqBMpfdiu4rHwSMi-73zvq2iaTwfJa58nwc0=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW8_wQ8wZDJr7rWqBMpfdiu4rHwSMi-73zvq2iaTwfJa58nwc0=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(43) 3475-1439",
+    "comentarios": [],
+    "rating": 4.7
   },
   {
     "name": "Associação de Catadores de Materiais Recicláveis Unidos do Bairro",
     "address": "R. Ludovíco Zanier, 319c - Cidade Industrial de Curitiba, Curitiba - PR, 81350-090, Brazil",
     "latitude": -25.4979685,
     "longitude": -49.332059,
-    "googleMapsUri": "https://maps.google.com/?cid=3074250041174468924"
+    "googleMapsUri": "https://maps.google.com/?cid=3074250041174468924",
+    "phone": "(41) 3329-1771",
+    "comentarios": [],
+    "rating": "N/A"
   },
   {
     "name": "Associação de Catadores de Materiais Recicláveis Graciosa",
     "address": "Rua O Brasil para Cristo, 751 A - Boqueirão, Curitiba - PR, 81650-110, Brazil",
     "latitude": -25.492658499999997,
     "longitude": -49.2319053,
-    "googleMapsUri": "https://maps.google.com/?cid=5463534212760563029"
+    "googleMapsUri": "https://maps.google.com/?cid=5463534212760563029",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWSCzCup1DBrXqQou1o5tBI5gLaK2Z1B7Dv8EjYMXKSMUSFzIA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWSCzCup1DBrXqQou1o5tBI5gLaK2Z1B7Dv8EjYMXKSMUSFzIA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWSCzCup1DBrXqQou1o5tBI5gLaK2Z1B7Dv8EjYMXKSMUSFzIA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWSCzCup1DBrXqQou1o5tBI5gLaK2Z1B7Dv8EjYMXKSMUSFzIA=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 98725-8256",
+    "comentarios": [],
+    "rating": "N/A"
   }
 ]
