@@ -52,7 +52,7 @@ async function initializeHeader(header_links) {
   sidebarToggle.id = "sidebar-toggle";
   sidebarToggle.setAttribute("aria-label", "Abrir menu");
   const img = document.createElement("img");
-  img.src = "http://localhost:3000/assets/icons/menu.svg";
+  img.src = "/assets/icons/menu.svg";
   img.alt = "Menu";
   sidebarToggle.appendChild(img);
 
@@ -159,7 +159,7 @@ function mobileToggle() {
   closeBtn.ariaLabel = "Fechar menu";
   style = "display: none;";
   const img = document.createElement("img");
-  img.src = "http://localhost:3000/assets/icons/close.svg";
+  img.src = "/assets/icons/close.svg";
   img.alt = "Fechar menu";
   img.style = "width: 30px; height: 30px;";
   closeBtn.appendChild(img);
@@ -170,7 +170,7 @@ function mobileToggle() {
   const newDiv = document.createElement("div")
   newDiv.innerHTML = `
     <h2>
-      <img id="person" src="http://localhost:3000/assets/icons/person.svg" alt="" />Conta
+      <img id="person" src="/assets/icons/person.svg" alt="" />Conta
     </h2>
   `
   const accountDiv = document.createElement("div")
