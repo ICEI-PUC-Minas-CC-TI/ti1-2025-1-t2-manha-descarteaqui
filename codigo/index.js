@@ -42,7 +42,9 @@ server.get("/contas/detalhes", (req, res) => {
 server.get("/lixos", (req, res) => {
   res.sendFile(__dirname + "/public/modulos/lixos/detalhes.html");
 });
-
+server.get("/sobre", (req, res) => {
+  res.sendFile(__dirname + "/public/modulos/sobreNos/sobreNos.html");
+});
 server.use((req, res) => {
   res.status(404).json({ error: "Rota não encontrada" });
 });

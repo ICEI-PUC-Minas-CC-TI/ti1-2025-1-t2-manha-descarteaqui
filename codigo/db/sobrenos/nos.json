@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Mateus de Sousa Santos",
+    "foto": "../../assets/images/mateus.jpg",
+    "descricao": "Estudante da PUC com interesse em tecnologia e meio ambiente."
+  },
+  {
+    "nome": "Samuel Lucas Rodrigues Vieira",
+    "foto": "../../assets/images/samuel.jpg",
+    "descricao": "Estudante da PUC entusiasta em soluções sustentáveis e inovação."
+  },
+  {
+    "nome": "João Miguel Aguiar Alkmim",
+    "foto": "../../assets/images/joao.jpg",
+    "descricao": "Estudante da PUC focado em impacto social e educação ambiental."
+  },
+  {
+    "nome": "Gabriel Lima Emerique Caldeira",
+    "foto": "../../assets/images/gabriel.jpg",
+    "descricao": "Estudante da PUC comprometido com a preservação do meio ambiente."
+  },
+  {
+    "nome": "Guilherme Pereira da Costa",
+    "foto": "../../assets/images/guilherme.jpg",
+    "descricao": "Estudante da PUC com foco em desenvolvimento web e sustentabilidade."
+  }
+]

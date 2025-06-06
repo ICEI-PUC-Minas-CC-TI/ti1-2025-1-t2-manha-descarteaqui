@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,7 +11,40 @@
     <title>Descarte Aqui</title>
     <link rel="stylesheet" href="../../assets/css/conta/detalhes.css" />
     <script src="../../assets/js/header.js" defer></script>
-    <script src="../../assets/js/conta/detalhes.js" defer></script>
+    <script src="../../assets/js/sobrenos/nos.js" defer></script>
+    <style>
+      #container {
+        padding: 20px;
+        background-color: #d0f0c0; /* verde claro */
+        text-align: center;
+      }
+
+      #sobre-nos h2 {
+        font-size: 28px;
+        margin-bottom: 10px;
+      }
+
+      .membros-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+      }
+
+      .membro-card {
+        background-color: #e8f5e9;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .membro-card img {
+        width: 100px;
+        border-radius: 50%;
+        margin-bottom: 10px;
+      }
+    </style>
   </head>
   <body>
     <header></header>
@@ -30,53 +63,22 @@
       </div>
 
       <div id="container">
-        <div id="user-details">
-          <img
-            src="../../assets/images/female-avatar.svg"
-            alt="User Avatar"
-            id="user-image"
-          />
-          <div>
-            <h2 id="user-name" class="forms-text"></h2>
-            <h2 id="user-email" class="forms-text"></h2>
-          </div>
-        </div>
+        <h1>Sobre Nós</h1>
+        <p>
+          O Descarte Aqui é uma plataforma dedicada a promover a conscientização
+          ambiental e facilitar o descarte correto de resíduos. Nosso objetivo é
+          fornecer informações claras e acessíveis sobre como descartar
+          diferentes tipos de lixo, além de oferecer quizzes interativos para
+          testar seus conhecimentos sobre reciclagem e sustentabilidade.
+        </p>
+        <p>
+          Acreditamos que pequenas ações podem fazer uma grande diferença no
+          meio ambiente. Junte-se a nós nessa missão de tornar o mundo um lugar
+          mais limpo e sustentável!
+        </p>
 
-        <div id="user-edit">
-          <form id="forms">
-            <h2 class="forms-text">Informações do Usuário</h2>
-            <div class="form-group">
-              <label for="novo-nome" class="forms-text">Novo Nome</label>
-              <div>
-                <input type="text" id="novo-nome" placeholder="Nome" />
-                <button
-                  type="button"
-                  id="atualizar-nome"
-                  onclick="updateUserData()"
-                >
-                  Atualizar
-                </button>
-              </div>
-            </div>
-            <div class="form-group">
-              <label for="novo-senha" class="forms-text">Nova Senha</label>
-              <div>
-                <input type="password" id="novo-senha" placeholder="Senha" />
-                <button
-                  type="button"
-                  id="update-senha"
-                  onclick="updateUserData()"
-                >
-                  Atualizar
-                </button>
-              </div>
-            </div>
-            <p id="info"></p>
-          </form>
-          <button id="delete-button" onclick="deleteUserData()">
-            Deletar Conta
-          </button>
-        </div>
+        <h2>Membros do Projeto</h2>
+        <div class="membros-grid" id="membros-container"></div>
       </div>
     </main>
     <footer></footer>
