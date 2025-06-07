@@ -9,7 +9,7 @@ const header_links = [
   },
   {
     name: "Quizes",
-    url: "/quizes",
+    url: "/quizzes/page",
   },
 ];
 
