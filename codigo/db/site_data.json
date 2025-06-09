@@ -4,31 +4,46 @@
       "id": "papel",
       "nome": "Papel",
       "cor": "#0064CF",
-      "descricao": "Papéis em geral como jornais, cadernos, folhas e embalagens de papel."
+      "descricao": "Papéis em geral como jornais, cadernos, folhas e embalagens de papel. (Guardanapos e papel higiênico usados, balagens muito sujas de comida não são recicláveis)",
+      "correto": "<li>Separar do lixo comum: O papel deve ser separado dos resíduos orgânicos (como restos de comida) e dos recicláveis contaminados (como papel sujo de gordura). <li>Evitar papel sujo: Papéis engordurados (ex: guardanapos usados, embalagens de fast food com óleo) não são recicláveis. Eles devem ir para o lixo comum.<li>Dobrar ou achatar: Para facilitar o transporte e a coleta, caixas e papéis volumosos devem ser dobrados ou achatados.<li>Armazenar seco e limpo: Papéis molhados ou úmidos dificultam o processo de reciclagem. Armazene-os em local seco até o descarte.<li>Descarte em lixeira azul: A cor azul representa o papel no sistema de coleta seletiva.",
+      "curiosidades": "<li>Reciclagem de papel economiza água: Produzir papel reciclado consome até 70% menos água do que produzir papel novo.<li>Evita o desmatamento: A reciclagem de papel ajuda a reduzir a derrubada de árvores, pois reaproveita fibras já existentes.<li>Papel pode ser reciclado várias vezes: Um papel pode ser reciclado de 4 a 7 vezes, até que suas fibras fiquem muito curtas.<li>Brasil recicla muito papel: Cerca de 63% do papel consumido no Brasil é reciclado, segundo a ANAP (Associação Nacional dos Aparistas de Papel).",
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fportalresiduossolidos.com%2Fcategory%2Ftratamento-de-residuos%2Freciclagem-de-papel%2F&psig=AOvVaw2yhbffX7TCPHVwSKQ_iG70&ust=1749584541537000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC9uLmM5Y0DFQAAAAAdAAAAABAE"
     },
     {
       "id": "plastico",
       "nome": "Plástico",
       "cor": "#FF4A4A",
-      "descricao": "Garrafas PET, sacolas plásticas, potes, embalagens e tampas plásticas."
+      "descricao": "Garrafas PET, sacolas plásticas, potes, embalagens e tampas plásticas.(Itens de plástico com restos orgânicos, engordurados e misturados com outros materiais não são recicláveis)",
+      "correto": "<li>Lavar e secar: Enxágue embalagens para remover resíduos de alimentos ou produtos químicos.<li>Esvaziar e amassar: Para facilitar o transporte, esvazie e amasse garrafas e potes.<li>Sem misturar com lixo orgânico: Nunca descarte com restos de comida ou lixo molhado.<li>Separar tipos diferentes: Idealmente, separe plásticos duros (garrafas, potes) dos flexíveis (sacolas, filme plástico).<li>Descarte na lixeira vermelha: A cor vermelha representa o plástico na coleta seletiva.",
+      "curiosidades": "<li>Demora séculos para se decompor: Um plástico pode levar até 400 anos no meio ambiente.<li>Pode virar tecido: Plásticos reciclados são usados para fazer camisetas, mochilas e tênis.<li>Brasil recicla pouco plástico: Apenas cerca de 1/4 do plástico produzido é reciclado.<li>Oceano sofre com o plástico: Estima-se que 11 milhões de toneladas de plástico vão parar no oceano por ano.<li>Reciclagem economiza petróleo: Produzir plástico novo consome derivados de petróleo — reciclar evita isso.",
+      "imagem": "https://www.google.com/imgres?q=lixo%20plastico&imgurl=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2020%2F08%2Flixo-plastico.jpg&imgrefurl=https%3A%2F%2Fexame.com%2Fesg%2Fimpacto-da-poluicao-plastica-no-mundo-e-medido-em-estudo-do-credit-suisse%2F&docid=g4Kif18BMdhOJM&tbnid=WJdM7Oe14S4T4M&vet=12ahUKEwi9ybHCl-WNAxWxGbkGHVEzJ_UQM3oECG0QAA..i&w=680&h=453&hcb=2&ved=2ahUKEwi9ybHCl-WNAxWxGbkGHVEzJ_UQM3oECG0QAA"
     },
     {
       "id": "vidro",
       "nome": "Vidro",
       "cor": "#79E82A",
-      "descricao": "Garrafas, potes e frascos de vidro limpos e sem tampa."
+      "descricao": "Garrafas, potes e frascos de vidro limpos e sem tampa.",
+      "correto": "<li>Lave os recipientes: Retire restos de alimentos e bebidas.<li>Cuidado com vidros quebrados: Envolva em papelão ou jornal, e sinalize com a palavra (VIDRO)<li>Sem tampas ou metais: Retire tampas metálicas ou plásticas antes de descartar.<li>Não misturar com cerâmica ou espelho: Eles não são recicláveis junto ao vidro comum.<li>Descarte na lixeira verde: A cor verde representa o vidro na coleta seletiva.",
+      "curiosidades": "<li>100% reciclável infinitamente: O vidro pode ser reciclado infinitas vezes sem perder qualidade.<li>Evita extração de areia: Reciclar vidro reduz a necessidade de extrair areia da natureza.<li>Economiza energia: Reciclar vidro gasta menos 30% de energia do que produzir vidro novo.<li>Coloração influencia: Vidros verdes, marrons e transparentes geralmente são reciclados separadamente.<li>Demora milênios para se decompor: Vidro descartado incorretamente pode durar mais de 4.000 anos.",
+      "imagem": "https://www.google.com/imgres?q=lixo%20vidro&imgurl=https%3A%2F%2Farchglassbrasil.com.br%2Fwp-content%2Fuploads%2F2021%2F12%2Freciclagem_vidro-450x308-1.jpg&imgrefurl=https%3A%2F%2Farchglassbrasil.com.br%2Fartigos%2Fque-tipo-de-vidro-pode-ser-reciclado%2F&docid=0_0zyQv2U465TM&tbnid=T0cVwAPQ7Ku0_M&vet=12ahUKEwjg-sq6l-WNAxWUILkGHdwVG3cQM3oECHEQAA..i&w=450&h=308&hcb=2&ved=2ahUKEwjg-sq6l-WNAxWUILkGHdwVG3cQM3oECHEQAA"
     },
     {
       "id": "metal",
       "nome": "Metal",
       "cor": "#FFD829",
-      "descricao": "Latas de alumínio, ferragens, arames, pregos e objetos metálicos."
+      "descricao": "Latas de alumínio, ferragens, arames, pregos e objetos metálicos.",
+      "correto": "<li>Esvaziar e limpar: Enxágue latas e embalagens.<li>Amasse para reduzir volume: Ajuda na coleta e transporte.<li>Remova outros materiais: Tire plásticos, rótulos e etiquetas, se possível.<li>Cuidado com pontas cortantes: Proteja latas abertas para evitar acidentes.<li>Descarte na lixeira amarela: A cor amarela representa metais na coleta seletiva.",
+      "curiosidades": "<li>Alumínio é campeão de reciclagem no Brasil: Cerca de 98% das latas são recicladas.<li>Pode ser reciclado infinitamente: Como o vidro, o alumínio não perde qualidade.<li>Economiza 95% de energia: Reciclar alumínio gasta 5% da energia necessária para produzir um novo.<li>Uma lata pode virar outra em 60 dias: O ciclo da reciclagem de alumínio é muito rápido!" ,
+      "imagem": "https://www.google.com/imgres?q=lixo%20metal&imgurl=https%3A%2F%2Fportais.univasf.edu.br%2Fsustentabilidade%2Fimagens%2Flatinhas2300x200.jpg&imgrefurl=https%3A%2F%2Fportais.univasf.edu.br%2Fsustentabilidade%2Fnoticias-sustentaveis%2Fqual-e-o-processo-de-reciclagem-do-metal&docid=kjBFUGGESaj-TM&tbnid=Ypnd8lbfWmiy3M&vet=12ahUKEwim26jMl-WNAxVPLbkGHZ_PACkQM3oFCIEBEAA..i&w=300&h=200&hcb=2&ved=2ahUKEwim26jMl-WNAxVPLbkGHZ_PACkQM3oFCIEBEAA"
     },
     {
       "id": "eletronicos",
       "nome": "Eletrônico",
       "cor": "#3674C5",
-      "descricao": "Celulares, carregadores, computadores, placas e aparelhos eletrônicos."
+      "descricao": "Celulares, carregadores, computadores, placas e aparelhos eletrônicos.",
+      "correto": "<li>Nunca no lixo comum: Muitos componentes são tóxicos e contaminam o solo e a água.<li>Leve a pontos de coleta: Prefeituras, lojas, supermercados e empresas especializadas recolhem.<li>Verifique projetos de logística reversa: Fabricantes e lojas são obrigados a receber eletrônicos usados.<li>Remova dados pessoais: Apague arquivos e redefina o aparelho antes de doar ou descartar.<li>Descarte em ecopontos ou campanhas especiais: Não vai na coleta seletiva comum.",
+      "curiosidades": "<li>Contém metais valiosos: Ouro, prata e cobre estão presentes em pequenas quantidades nos circuitos.<li>É altamente poluente: Um celular pode contaminar solo e água com chumbo e mercúrio.<li>Brasil é um dos maiores geradores: É o 5º maior produtor de lixo eletrônico do mundo.<li>Somente 3% é reciclado corretamente: O índice ainda é muito baixo no país.<li>Reaproveitamento gera empregos: A indústria da reciclagem de eletrônicos é um setor em crescimento.<li>",
+      "imagem": "https://www.google.com/imgres?q=lixo%20eletronicos&imgurl=https%3A%2F%2Fwww.seteambiental.com.br%2Fwp-content%2Fuploads%2F2024%2F04%2Fonu-lixo-eletronico-sete-ambiental.jpg&imgrefurl=https%3A%2F%2Fwww.seteambiental.com.br%2F62-milhoes-de-toneladas-de-lixo-eletronico-foram-produzido-no-mundo-em-2022%2F&docid=KHyWv6wYwajScM&tbnid=grktpBhI-n1MKM&vet=12ahUKEwj76ZPRl-WNAxV4ILkGHWoAOocQM3oECBcQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwj76ZPRl-WNAxV4ILkGHWoAOocQM3oECBcQAA"
     },
     {
       "id": "organico",
