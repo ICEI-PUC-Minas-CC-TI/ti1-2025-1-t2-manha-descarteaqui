@@ -263,6 +263,9 @@ async function populateSection(userData) {
     checkMark.style.marginLeft = "10px";
     if (userData) {
       const user = JSON.parse(userData);
+      if(user.correctQuiz === undefined) {
+        user.correctQuiz = [];
+      }
       if (user.correctQuiz.includes(quiz.id)) {
         checkMark.style.display = "inline";
       } else {
