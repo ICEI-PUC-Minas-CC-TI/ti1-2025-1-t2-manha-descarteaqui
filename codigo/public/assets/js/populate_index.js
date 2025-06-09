@@ -250,7 +250,9 @@ async function adicionarMarcadoresPorTipoDeLixo(
           className: "details-button",
           style: `margin:0;font-size:1rem;`,
           onclick: () => {
-            window.location.href = `/lugares/${cidadeSelecionada}/${lugar.tipo}/${local.id}`;
+            openModal({
+              cidade:cidadeSelecionada,tipo:lugar.tipo,id:local.id
+            })
           },
         },
         divDetalhes,
@@ -292,3 +294,46 @@ async function aoSelecionarCidade(evento, mapa) {
     mapa.setView([dadosCidade.latidude, dadosCidade.longitude], 12);
   }
 }
+
+
+// script.js - Sistema de Comentários com Verificação de Login
+
+// Elementos do DOM
+const modal = document.getElementById('placeModal');
+const commentForm = document.getElementById('commentForm');
+const loginMessage = document.getElementById('loginMessage');
+const commentsList = document.getElementById('commentsList');
+const commentText = document.getElementById('commentText');
+
+// Variáveis globais
+let currentPlaceId = null;
+let currentUser = null;
+
+// Função para abrir o modal (chamada ao clicar em um local)
+async function openModal(placeData) {
+  try {
+    const response = await fetch(`/lugares/${placeData.cidade}/${placeData.tipo}/${placeData.id}`)
+    const data = await response.json();
+    console.log(data)
+    // Preenche os dados do local
+    document.getElementById('modalPlaceName').textContent = data.name;
+    document.getElementById('modalPlaceAddress').textContent = data.address;
+    document.getElementById('modalPlaceItems').textContent = placeData.tipo;
+    document.getElementById('modalPlaceImage').src = data.photos[0].uri;
+
+    // Carrega comentários
+    // loadComments();
+
+    // Mostra o modal
+    modal.style.display = 'flex';
+  } catch (Erro) {
+
+  }
+
+};
+
+// Fechar modal
+document.querySelector('.close-modal').addEventListener('click', () => {
+  modal.style.display = 'none';
+});
+
