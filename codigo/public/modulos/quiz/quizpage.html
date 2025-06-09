@@ -9,9 +9,9 @@
       type="image/svg+xml"
     />
     <title>Descarte Aqui</title>
-    <link rel="stylesheet" href="../../assets/css/conta/detalhes.css" />
+    <link rel="stylesheet" href="../../assets/css/quiz.css" />
     <script src="../../assets/js/header.js" defer></script>
-    <script src="../../assets/js/quiz/quiz.js" defer></script>
+    <script src="../../assets/js/quiz/quizpage.js" defer></script>
   </head>
   <body>
     <header></header>
@@ -29,9 +29,18 @@
         <div id="quizes-list"></div>
       </div>
 
-      <div id="container"></div>
+      <div id="container">
+        <div id="quiz-container">
+          <h2 id="quiz-title">🌱</h2>
+          <p id="quiz-desc"></p>
+          <p id="quiz-question"></p>
+          <div id="quiz-start">
+            <div id="quiz-options"></div>
+            <button id="start-quiz" class="btn">Responder</button>
+          </div>
+        </div>
+      </div>
     </main>
     <footer></footer>
   </body>
 </html>
-
