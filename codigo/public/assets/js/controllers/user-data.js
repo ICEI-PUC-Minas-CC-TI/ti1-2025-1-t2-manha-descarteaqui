@@ -200,6 +200,13 @@ function setQuizStatus(email, quizId, callback) {
       return callback({ status: 404, message: "Usuário não encontrado" }, null);
     }
 
+    if( !usersData.usuarios[userIndex].correctQuiz) {
+      usersData.usuarios[userIndex].correctQuiz = [];
+    }
+    if (usersData.usuarios[userIndex].correctQuiz.includes(quizId)) {
+      return callback({ status: 400, message: "Quiz já concluído" }, null);
+    }
+
     usersData.usuarios[userIndex].correctQuiz.push(quizId);
 
     fs.writeFile(filePath, JSON.stringify(usersData, null, 2), (err) => {

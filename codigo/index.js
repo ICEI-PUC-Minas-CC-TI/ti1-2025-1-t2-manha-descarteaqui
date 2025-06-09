@@ -44,7 +44,11 @@ server.get("/lixos", (req, res) => {
 });
 
 server.get("/quizzes/page", (req, res) => {
-  res.sendFile(__dirname + "/public/modulos/quiz/quiz.html");
+  res.sendFile(__dirname + "/public/modulos/quiz/quizhub.html");
+});
+
+server.get("/quizzes/questionario", (req, res) => {
+  res.sendFile(__dirname + "/public/modulos/quiz/quizpage.html");
 });
 
 server.use((req, res) => {

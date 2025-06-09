@@ -2,7 +2,7 @@
   "quizes": [
     {
       "id": 1,
-      "nome": "O que é Lixo?",
+      "nome": "🌱O que é Lixo?",
       "descricao": "Lixo é tudo aquilo que não tem mais utilidade para o ser humano, mas que pode ser reaproveitado por outros seres vivos ou pela natureza.",
       "perguntas": [
         {
@@ -13,9 +13,18 @@
               "id": 1,
               "texto": "Tudo que não tem mais utilidade para o ser humano"
             },
-            { "id": 2, "texto": "Tudo que é produzido pelo ser humano" },
-            { "id": 3, "texto": "Tudo que é orgânico" },
-            { "id": 4, "texto": "Tudo que é reciclável" }
+            {
+              "id": 2,
+              "texto": "Tudo que é produzido pelo ser humano"
+            },
+            {
+              "id": 3,
+              "texto": "Tudo que é orgânico"
+            },
+            {
+              "id": 4,
+              "texto": "Tudo que é reciclável"
+            }
           ],
           "resposta_correta_id": 1
         },
@@ -23,37 +32,337 @@
           "id": 2,
           "texto": "Qual a importância da reciclagem?",
           "respostas": [
-            { "id": 1, "texto": "Reduz o volume de lixo" },
-            { "id": 2, "texto": "Gera empregos" },
-            { "id": 3, "texto": "Conserva recursos naturais" },
-            { "id": 4, "texto": "Todas as anteriores" }
+            {
+              "id": 1,
+              "texto": "Reduz o volume de lixo"
+            },
+            {
+              "id": 2,
+              "texto": "Gera empregos"
+            },
+            {
+              "id": 3,
+              "texto": "Conserva recursos naturais"
+            },
+            {
+              "id": 4,
+              "texto": "Todas as anteriores"
+            }
           ],
           "resposta_correta_id": 4
         },
         {
           "id": 3,
+          "texto": "Qual é o impacto do lixo no meio ambiente?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Poluição do solo e da água"
+            },
+            {
+              "id": 2,
+              "texto": "Aumento da biodiversidade"
+            },
+            {
+              "id": 3,
+              "texto": "Melhoria na qualidade do ar"
+            },
+            {
+              "id": 4,
+              "texto": "Nenhum impacto"
+            }
+          ],
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 4,
+          "texto": "O que significa reduzir, reutilizar e reciclar?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Práticas para minimizar o impacto ambiental"
+            },
+            {
+              "id": 2,
+              "texto": "Aumentar a produção de lixo"
+            },
+            {
+              "id": 3,
+              "texto": "Evitar o consumo consciente"
+            },
+            {
+              "id": 4,
+              "texto": "Descartar lixo sem separação"
+            }
+          ],
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 5,
+          "texto": "Qual é o destino correto para resíduos eletrônicos?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Lixo comum"
+            },
+            {
+              "id": 2,
+              "texto": "Pontos de coleta específicos"
+            },
+            {
+              "id": 3,
+              "texto": "Incineradores domésticos"
+            },
+            {
+              "id": 4,
+              "texto": "Qualquer lugar"
+            }
+          ],
+          "resposta_correta_id": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "🌱Soluções para o Lixo",
+      "descricao": "Aprenda como lidar corretamente com o lixo e conhecer alternativas sustentáveis para o descarte de resíduos.",
+      "perguntas": [
+        {
+          "id": 1,
           "texto": "O que é compostagem?",
           "respostas": [
             {
               "id": 1,
               "texto": "Processo de decomposição de matéria orgânica"
             },
-            { "id": 2, "texto": "Processo de reciclagem de papel" },
-            { "id": 3, "texto": "Processo de incineração de lixo" },
-            { "id": 4, "texto": "Processo de separação de lixo" }
+            {
+              "id": 2,
+              "texto": "Processo de reciclagem de papel"
+            },
+            {
+              "id": 3,
+              "texto": "Processo de incineração de lixo"
+            },
+            {
+              "id": 4,
+              "texto": "Processo de separação de lixo"
+            }
+          ],
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 2,
+          "texto": "Qual é o principal objetivo da coleta seletiva?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Reduzir a quantidade de lixo"
+            },
+            {
+              "id": 2,
+              "texto": "Facilitar a reciclagem"
+            },
+            {
+              "id": 3,
+              "texto": "Conservar recursos naturais"
+            },
+            {
+              "id": 4,
+              "texto": "Todas as anteriores"
+            }
+          ],
+          "resposta_correta_id": 4
+        },
+        {
+          "id": 3,
+          "texto": "Como podemos reduzir o impacto ambiental do lixo?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Praticando a reciclagem"
+            },
+            {
+              "id": 2,
+              "texto": "Consumindo de forma consciente"
+            },
+            {
+              "id": 3,
+              "texto": "Utilizando compostagem"
+            },
+            {
+              "id": 4,
+              "texto": "Todas as anteriores"
+            }
+          ],
+          "resposta_correta_id": 4
+        },
+        {
+          "id": 4,
+          "texto": "Qual é a vantagem de reutilizar materiais?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Reduzir o consumo de recursos naturais"
+            },
+            {
+              "id": 2,
+              "texto": "Aumentar a produção de lixo"
+            },
+            {
+              "id": 3,
+              "texto": "Facilitar o descarte"
+            },
+            {
+              "id": 4,
+              "texto": "Nenhuma vantagem"
+            }
+          ],
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 5,
+          "texto": "O que fazer com pilhas e baterias usadas?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Descartar no lixo comum"
+            },
+            {
+              "id": 2,
+              "texto": "Levar a pontos de coleta específicos"
+            },
+            {
+              "id": 3,
+              "texto": "Enterrar no solo"
+            },
+            {
+              "id": 4,
+              "texto": "Queimar"
+            }
+          ],
+          "resposta_correta_id": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "🌱Consciência Ambiental",
+      "descricao": "Este quiz aborda práticas simples e eficazes para reduzir o impacto ambiental no cotidiano.",
+      "perguntas": [
+        {
+          "id": 1,
+          "texto": "Qual destas atitudes ajuda a reduzir a produção de lixo?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Usar sacolas plásticas sempre que possível"
+            },
+            {
+              "id": 2,
+              "texto": "Evitar o consumo de produtos descartáveis"
+            },
+            {
+              "id": 3,
+              "texto": "Comprar mais do que o necessário"
+            },
+            {
+              "id": 4,
+              "texto": "Jogar lixo orgânico no lixo reciclável"
+            }
+          ],
+          "resposta_correta_id": 2
+        },
+        {
+          "id": 2,
+          "texto": "Onde deve ser descartado o óleo de cozinha usado?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Na pia da cozinha"
+            },
+            {
+              "id": 2,
+              "texto": "No vaso sanitário"
+            },
+            {
+              "id": 3,
+              "texto": "Em pontos de coleta específicos"
+            },
+            {
+              "id": 4,
+              "texto": "Misturado com o lixo comum"
+            }
+          ],
+          "resposta_correta_id": 3
+        },
+        {
+          "id": 3,
+          "texto": "Qual é a melhor forma de reduzir o consumo de plástico?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Utilizar sacolas reutilizáveis"
+            },
+            {
+              "id": 2,
+              "texto": "Comprar mais produtos embalados"
+            },
+            {
+              "id": 3,
+              "texto": "Descartar plástico no lixo comum"
+            },
+            {
+              "id": 4,
+              "texto": "Evitar reciclagem"
+            }
           ],
           "resposta_correta_id": 1
         },
         {
           "id": 4,
-          "texto": "Qual é o principal objetivo da coleta seletiva?",
+          "texto": "Por que é importante economizar água?",
           "respostas": [
-            { "id": 1, "texto": "Reduzir a quantidade de lixo" },
-            { "id": 2, "texto": "Facilitar a reciclagem" },
-            { "id": 3, "texto": "Conservar recursos naturais" },
-            { "id": 4, "texto": "Todas as anteriores" }
+            {
+              "id": 1,
+              "texto": "Para preservar recursos naturais"
+            },
+            {
+              "id": 2,
+              "texto": "Para aumentar o consumo de energia"
+            },
+            {
+              "id": 3,
+              "texto": "Para gerar mais lixo"
+            },
+            {
+              "id": 4,
+              "texto": "Para poluir rios e lagos"
+            }
           ],
-          "resposta_correta_id": 4
+          "resposta_correta_id": 1
+        },
+        {
+          "id": 5,
+          "texto": "Qual é o impacto do descarte incorreto de lixo eletrônico?",
+          "respostas": [
+            {
+              "id": 1,
+              "texto": "Contaminação do solo e da água"
+            },
+            {
+              "id": 2,
+              "texto": "Aumento da biodiversidade"
+            },
+            {
+              "id": 3,
+              "texto": "Melhoria na qualidade do ar"
+            },
+            {
+              "id": 4,
+              "texto": "Nenhum impacto"
+            }
+          ],
+          "resposta_correta_id": 1
         }
       ]
     }
