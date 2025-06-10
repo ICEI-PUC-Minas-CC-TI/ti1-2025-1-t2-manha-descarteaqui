@@ -5,33 +5,23 @@ document.addEventListener("DOMContentLoaded", async function () {
     window.location.href = "/";
     return;
   }
-
-  populateSection();
+  pegarInfoTipo(tipo);
 });
 
-async function populateSection() {
-  const lixosList = document.getElementById("lixos-list");
-  const quizesList = document.getElementById("quizes-list");
-
-  const response = await fetch("/tipos-lixo");
-  const data = await response.json();
-  data.forEach((element) => {
-    const li = document.createElement("li");
-    const colorCircle = document.createElement("div");
-    colorCircle.style.backgroundColor = element.cor;
-    colorCircle.className = "color-circle";
-    li.innerHTML = `<span class="list-lixo">${element.nome}</span>`;
-    li.appendChild(colorCircle);
-    lixosList.appendChild(li);
-  });
-  const quizesResponse = await fetch("/quizzes");
-  const quizesData = await quizesResponse.json();
-  quizesData.forEach((quiz) => {
-    const li = document.createElement("li");
-    li.innerHTML = `<span class="list-quiz">${quiz.nome}</span>`;
-    li.addEventListener("click", () => {
-      window.location.href = `/quizzes/${quiz.id}`;
-    });
-    quizesList.appendChild(li);
-  });
+async function pegarInfoTipo(tipo) {
+  try {
+    const response = await fetch(`/lixo-detalhes/${tipo}`);
+    const data = await response.json();
+    console.log(data);
+    const h1 = document.getElementById("nomeLixo");
+    h1.innerText = data.nome;
+    const p = document.getElementById("descricao");
+    p.innerText = data.descricao;
+    const p1 = document.getElementById("descarteCorreto");
+    p1.innerText = data.descarte;
+    const p2 = document.getElementById("curiosidadesLixo");
+    p2.innerText = data.curiosidades;
+  } catch (error) {
+    
+  }
 }
