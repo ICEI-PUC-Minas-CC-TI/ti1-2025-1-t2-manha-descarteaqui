@@ -251,7 +251,7 @@ async function adicionarMarcadoresPorTipoDeLixo(
           style: `margin:0;font-size:1rem;`,
           onclick: () => {
             openModal({
-              cidade:cidadeSelecionada,tipo:lugar.tipo,id:local.id
+              cidade: cidadeSelecionada, tipo: lugar.tipo, id: local.id
             })
           },
         },
@@ -322,7 +322,7 @@ async function openModal(placeData) {
     document.getElementById('modalPlaceImage').src = data.photos[0].uri;
 
     // Carrega comentários
-    // loadComments();
+    loadComments(placeData.id,placeData.tipo,placeData.cidade);
 
     // Mostra o modal
     modal.style.display = 'flex';
@@ -337,3 +337,91 @@ document.querySelector('.close-modal').addEventListener('click', () => {
   modal.style.display = 'none';
 });
 
+async function loadComments(id, cidade, tipo) {
+  try {
+    const response = await fetch(`/lugares/${cidade}/${tipo}/${id}/comentarios`);
+    const data = await response.json();
+    data.map((comentario) => {
+      createComment(comentario.user.foto, comentario.user.nome, comentario.user.email, comentario.comentario, comentario.data || "")
+
+    })
+  } catch (error) {
+
+  }
+}
+
+// Função para criar um elemento de comentário
+function createComment(avatarUrl, userName, userEmail, commentText, commentDate) {
+  // Criar o elemento principal do comentário
+  const commentDiv = document.createElement('div');
+  commentDiv.className = 'comment';
+
+  // Criar o cabeçalho do comentário
+  const commentHeader = document.createElement('div');
+  commentHeader.className = 'comment-header';
+
+  // Criar a imagem do avatar
+  const avatarImg = document.createElement('img');
+  avatarImg.className = 'comment-avatar';
+  avatarImg.src = avatarUrl || 'https://via.placeholder.com/50'; // URL padrão se não for fornecido
+  avatarImg.alt = 'Photo';
+
+  // Criar container de informações do usuário
+  const userInfoDiv = document.createElement('div');
+  userInfoDiv.className = 'comment-user-info';
+
+  // Criar elementos de nome e email
+  const userNameSpan = document.createElement('span');
+  userNameSpan.className = 'comment-user-name';
+  userNameSpan.textContent = userName || 'Usuário Anônimo';
+
+  const userEmailSpan = document.createElement('span');
+  userEmailSpan.className = 'comment-user-email';
+  userEmailSpan.textContent = userEmail || '';
+
+  // Criar conteúdo do comentário
+  const commentContent = document.createElement('div');
+  commentContent.className = 'comment-content';
+
+  const commentTextP = document.createElement('p');
+  commentTextP.className = 'comment-text';
+  commentTextP.textContent = commentText || 'Sem conteúdo';
+
+  const commentDateSmall = document.createElement('small');
+  commentDateSmall.className = 'comment-date';
+  commentDateSmall.textContent = commentDate || new Date().toLocaleString();
+
+  // Montar a estrutura
+  userInfoDiv.appendChild(userNameSpan);
+  userInfoDiv.appendChild(userEmailSpan);
+
+  commentHeader.appendChild(avatarImg);
+  commentHeader.appendChild(userInfoDiv);
+
+  commentContent.appendChild(commentTextP);
+  commentContent.appendChild(commentDateSmall);
+
+  commentDiv.appendChild(commentHeader);
+  commentDiv.appendChild(commentContent);
+
+  return commentDiv;
+}
+
+// Função para adicionar comentário à lista
+function addCommentToList(commentData) {
+  const commentsList = document.getElementById('commentsList');
+
+  if (commentsList) {
+    const commentElement = createComment(
+      commentData.avatarUrl,
+      commentData.userName,
+      commentData.userEmail,
+      commentData.commentText,
+      commentData.commentDate
+    );
+
+    commentsList.appendChild(commentElement);
+  } else {
+    console.error('Elemento com ID "commentsList" não encontrado.');
+  }
+}
