@@ -129,4 +129,25 @@ function quizes(callback) {
     }
   });
 }
-module.exports = { tiposLixo, lixoDetalhes, tiposCidade, lugaresDeColeta, quizes };
+
+function sobreNos(callback) {
+  const filePath = path.join(__dirname, "../../../../db/nos.json");
+
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading sobre_nos.json:", err);
+      callback(err, null);
+      return;
+    }
+    try {
+      const jsonData = JSON.parse(data);
+      callback(null, jsonData);
+    } catch (parseError) {
+      console.error("Error parsing sobre_nos.json:", parseError);
+      callback(parseError, null);
+    }
+  });
+}
+
+
+module.exports = { tiposLixo, lixoDetalhes, tiposCidade, lugaresDeColeta, quizes, sobreNos };

@@ -3,30 +3,30 @@
     "nome": "Mateus de Sousa Santos",
     "foto": "../../assets/images/male-avatar.svg",
     "descricao": "Estudante da PUC com interesse em tecnologia e meio ambiente.",
-    "E-mail": "mateus.sousa.santos191@gmail.com"
+    "email": "mateus.sousa.santos191@gmail.com"
   },
   {
     "nome": "Samuel Lucas Rodrigues Vieira",
     "foto": "../../assets/images/male-avatar.svg",
     "descricao": "Estudante da PUC entusiasta em soluções sustentáveis e inovação.",
-    "E-mail": "samuel.vieira@pucfake.com"
+    "email": "samuel.vieira@pucfake.com"
   },
   {
     "nome": "João Miguel Aguiar Alkmim",
     "foto": "../../assets/images/male-avatar.svg",
     "descricao": "Estudante da PUC focado em impacto social e educação ambiental.",
-    "E-mail": "joao.alkmim@pucfake.com"
+    "email": "joao.alkmim@pucfake.com"
   },
   {
     "nome": "Gabriel Lima Emerique Caldeira",
     "foto": "../../assets/images/male-avatar.svg",
     "descricao": "Estudante da PUC comprometido com a preservação do meio ambiente.",
-    "E-mail": "gabriel.caldeira@pucfake.com"
+    "email": "gabriel.caldeira@pucfake.com"
   },
   {
     "nome": "Guilherme Pereira da Costa",
     "foto": "../../assets/images/male-avatar.svg",
     "descricao": "Estudante da PUC com foco em desenvolvimento web e sustentabilidade.",
-    "E-mail": "guilherme.costa@pucfake.com"
+    "email": "guilherme.costa@pucfake.com"
   }
 ]
