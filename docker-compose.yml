@@ -4,7 +4,7 @@ services:
     volumes:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
-    command: certonly --webroot --webroot-path=/var/www/certbot --email mateus.sousa.santos191@gmail.com --agree-tos --no-eff-email -d descarte-aqui.mateussousa.dev
+    command: certonly --webroot --webroot-path=/var/www/certbot --email mateus.sousa.santos191@gmail.com --agree-tos --no-eff-email -d descarteaqui.mateussousa.dev
 
   nginx:
     image: nginx:latest

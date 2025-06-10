@@ -4,6 +4,7 @@ const {
   tiposLixo,
   lugaresDeColeta,
   quizes,
+  sobreNos
   DetalhesLugaresDeColeta
 } = require("../controllers/site-data");
 const router = require("express").Router();
@@ -63,7 +64,13 @@ router.get("/quizzes",(req, res)=> {
   });
 })
 
-router.get("/lugares/:cidade/:tipo/:id", (req, res) => {
+router.get("/sobre-nos", (req, res) => {
+  sobreNos((err, data) => {
+    if (err) {
+      res.status(500).send("Internal Server Error");
+    }
+});
+ router.get("/lugares/:cidade/:tipo/:id", (req, res) => {
   const { cidade, id , tipo} = req.params;
   DetalhesLugaresDeColeta(tipo, cidade, id, (err, data) => {
     if (err) {
@@ -72,6 +79,6 @@ router.get("/lugares/:cidade/:tipo/:id", (req, res) => {
     }
     res.json(data);
   });
-}); 
+});
 
 module.exports = router;
