@@ -34,19 +34,28 @@
       "id": "organico",
       "nome": "Orgânico",
       "cor": "#594000",
-      "descricao": "Restos de alimentos, cascas de frutas e legumes, borra de café e resíduos biodegradáveis."
+      "descricao": "Restos de alimentos, cascas de frutas e legumes, borra de café e resíduos biodegradáveis.",
+      "descarte": "O ideal é separar em um composteiro para virar adubo (compostagem), ou procurar um local que faça a compostagem. Se não houver compostagem, deve ser descartado no lixo comum — mas separado do lixo reciclável. Evite colocar plástico ou vidro junto.",
+      "curiosidades": "Em média, 50% do lixo doméstico é orgânico. Quando descartado incorretamente em aterros, o lixo orgânico gera gás metano, que contribui para o aquecimento global.  Compostar em casa reduz muito a produção de lixo e gera adubo natural.",
+      "imagem": "https://lh3.googleusercontent.com/proxy/BBYin_s2_A2jTATcTTM6ZS5jvmmpwN0_wHkM5ngfFmOylx-I45tqQabp5DLfiBpuwk9CYOKooU6w_jHUmZdFlrQTeIUZxw8I-ureI8Svq0rIhbM7aNqNQo0"
     },
     {
       "id": "residuos_hospitalares",
       "nome": "Hospitalares",
       "cor": "#FAFF61",
-      "descricao": "Pilhas, baterias de celular, controles e dispositivos similares."
+      "descricao": "Pilhas, baterias de celular, controles e dispositivos similares.",
+      "descarte": "Nunca no lixo comum!  Devem ser coletados separadamente em recipientes próprios: Perfurocortantes (agulhas, lâminas) → caixas rígidas, já os Materiais contaminados → sacos brancos leitosos com símbolo de risco biológico.  Empresas especializadas recolhem esse lixo e o destinam para tratamento térmico (autoclavagem ou incineração).",
+      "curiosidades": " Mesmo uma pequena quantidade de lixo hospitalar mal descartado pode contaminar ambientes inteiros.  Existem normas rígidas (ex.: RDC 222/2018 da Anvisa) para o manejo desse tipo de resíduo.O tratamento correto evita surtos de infecções e contaminação ambiental.",
+      "imagem":"https://www.dinamicambiental.com.br/wp-content/uploads/2021/06/lixo-hospitalar-tipos-e-formas-de-descarte-1.jpg"
     },
     {
       "id": "residuos_construcao",
       "nome": "Contrução",
       "cor": "#585200",
-      "descricao": "Resíduos de construção como tijolos, concreto, telhas e restos de obras."
+      "descricao": "Resíduos de construção como tijolos, concreto, telhas e restos de obras.",
+      "descarte":"Nunca jogar em terrenos baldios ou vias públicas!  O ideal é contratar um serviço de caçamba licenciada para transporte até um local de triagem e reaproveitamento.  Muitos materiais podem ser reciclados:Concreto → brita para pavimentação.  Madeira → reutilização ou biomassa.  Metais → indústria de reciclagem.",
+      "curiosidades":"O RCC(Resíduo de Construção Civil) representa cerca de 50% do total de resíduos urbanos em várias cidades. A reciclagem do RCC reduz a extração de novas matérias-primas e o uso de aterros. Grandes obras costumam ter programas de gestão de resíduos para reaproveitar boa parte dos materiais.",
+      "imagem":"https://prefeitura.pbh.gov.br/sites/default/files/styles/slideshow/public/noticia/img/2017-09/Reciclagem%20de%20entulho%20-%20Foto%20Pedro%20Ant%C3%B4nio%20de%20Oliveira%20PBH.jpg?itok=D41esMnj"
     }
   ],
   "cidades": [
