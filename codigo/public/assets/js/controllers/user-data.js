@@ -179,10 +179,49 @@ function getContaUsuario(callback, email) {
   });
 }
 
+function setQuizStatus(email, quizId, callback) {
+  const filePath = path.join(__dirname, "../../../../db/user_db.json");
+
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      return callback({ status: 500, message: "Erro ao ler dados" }, null);
+    }
+    let usersData = [];
+    if (data) {
+      try {
+        usersData = JSON.parse(data);
+      } catch (e) {
+        usersData = [];
+      }
+    }
+
+    const userIndex = usersData.usuarios.findIndex((user) => user.email === email);
+    if (userIndex === -1) {
+      return callback({ status: 404, message: "Usuário não encontrado" }, null);
+    }
+
+    if( !usersData.usuarios[userIndex].correctQuiz) {
+      usersData.usuarios[userIndex].correctQuiz = [];
+    }
+    if (usersData.usuarios[userIndex].correctQuiz.includes(quizId)) {
+      return callback({ status: 400, message: "Quiz já concluído" }, null);
+    }
+
+    usersData.usuarios[userIndex].correctQuiz.push(quizId);
+
+    fs.writeFile(filePath, JSON.stringify(usersData, null, 2), (err) => {
+      if (err) {
+        return callback({ status: 500, message: "Erro ao salvar dados" }, null);
+      }
+      callback(null, { message: "Status do quiz atualizado com sucesso" });
+    });
+  });
+}
 module.exports = {
   criarConta,
   entrarConta,
   editarConta,
   deletarConta,
   getContaUsuario,
+  setQuizStatus
 };

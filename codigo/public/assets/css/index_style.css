@@ -227,6 +227,16 @@ footer {
   z-index: 11;
 }
 
+.details-button {
+  background-color: var(--primary-green);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
 @media screen and (max-width: 768px) {
  
   #logo h1 {

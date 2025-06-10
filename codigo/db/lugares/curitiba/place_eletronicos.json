@@ -1,142 +1,672 @@
 [
   {
+    "name": "SOS GREEN Gestão de Descarte Eletrônico",
+    "address": "R. Contagem, 868 - loja c - Santa Ines, Belo Horizonte - MG, 31080-255, Brazil",
+    "latitude": -19.8894554,
+    "longitude": -43.905776800000005,
+    "googleMapsUri": "https://maps.google.com/?cid=13568047759688273150",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99546-5973",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
     "name": "coletamos eletrônicos, sucatas, eletrodomésticos, metais, entre outros DMT Reciclagem",
     "address": "R. José Hauer, 1228 - Boqueirão, Curitiba - PR, 81730-400, Brazil",
     "latitude": -25.5031666,
     "longitude": -49.2266031,
-    "googleMapsUri": "https://maps.google.com/?cid=9821351342521389985"
+    "googleMapsUri": "https://maps.google.com/?cid=9821351342521389985",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUKIyTgpbRQKFhkilLsm7cxaIvbBRpdAlpyCM_yuDb0EDIysw=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99763-1822",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Reciclatron Reciclagem de Eletrônicos",
     "address": "Rua Anne Frank, 109 - Portão 2 - Hauer, Curitiba - PR, 81610-020, Brazil",
     "latitude": -25.4691014,
     "longitude": -49.2517177,
-    "googleMapsUri": "https://maps.google.com/?cid=13832450277811397182"
-  },
-  {
-    "name": "Ecologitec-Descarte de eletrônicos-Descarte de uniformes-Descarte de móveis-Descarte de sofás - entulhos- em Curitiba.",
-    "address": "R. Raul de Azevedo Macedo, 179 - sala 02 - Xaxim, Curitiba - PR, 81830-180, Brazil",
-    "latitude": -25.5053767,
-    "longitude": -49.267768399999994,
-    "googleMapsUri": "https://maps.google.com/?cid=14876761711548334231"
-  },
-  {
-    "name": "Viletrônico Coleta de Resíduos Eletrônicos",
-    "address": "Jlm auto center e auto eletrica - R. Antônio Lago, 292 - Boa Vista, Curitiba - PR, 82560-470, Brazil",
-    "latitude": -25.388226,
-    "longitude": -49.239325699999995,
-    "googleMapsUri": "https://maps.google.com/?cid=6978878777579024704"
-  },
-  {
-    "name": "Recicla Eletrônicos Ltda",
-    "address": "R. Irmã Maria Pinheiro Araújo, N98 - Boqueirão, Curitiba - PR, 81730-280, Brazil",
-    "latitude": -25.5069748,
-    "longitude": -49.2167848,
-    "googleMapsUri": "https://maps.google.com/?cid=17163221994154921703"
-  },
-  {
-    "name": "Coletar Reciclagem de Eletrônicos",
-    "address": "R. Cel. Docha, 118 - Inconfidentes, Contagem - MG, 32340-260, Brazil",
-    "latitude": -19.9600366,
-    "longitude": -44.03767510000001,
-    "googleMapsUri": "https://maps.google.com/?cid=785670208739894079"
-  },
-  {
-    "name": "Parcs Electronic Waste",
-    "address": "R. William Booth, 1681 - Boqueirão, Curitiba - PR, 81730-080, Brazil",
-    "latitude": -25.502132699999997,
-    "longitude": -49.2259338,
-    "googleMapsUri": "https://maps.google.com/?cid=3879406055918125912"
-  },
-  {
-    "name": "Uzato Reciclagem do Brasil",
-    "address": "R. Bartolomeu Lourenço de Gusmão, 3974 - Hauer, Curitiba - PR, 81730-040, Brazil",
-    "latitude": -25.5040557,
-    "longitude": -49.231072399999995,
-    "googleMapsUri": "https://maps.google.com/?cid=196709483173752246"
-  },
-  {
-    "name": "Ester Reciclagem Ambiental",
-    "address": "Rua Bom Jesus de Iguape, 3761 - Hauer, Curitiba - PR, 81650-030, Brazil",
-    "latitude": -25.4968586,
-    "longitude": -49.2369225,
-    "googleMapsUri": "https://maps.google.com/?cid=13592126024878495365"
-  },
-  {
-    "name": "Akatar Reciclagem - Eletrônicos e Informática",
-    "address": "R. Cleto da Silva, 1920 - Boqueirão, Curitiba - PR, 81650-290, Brazil",
-    "latitude": -25.491886299999997,
-    "longitude": -49.2530989,
-    "googleMapsUri": "https://maps.google.com/?cid=1789238928236439451"
-  },
-  {
-    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
-    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
-    "latitude": -19.9408104,
-    "longitude": -44.0015892,
-    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991"
+    "googleMapsUri": "https://maps.google.com/?cid=13832450277811397182",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW-wNhynMxN8pAssvARP-4cNXelfUjuX7ingst08l4llkMMG_XP=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3377-5071",
+    "comentarios": [],
+    "rating": 4.5
   },
   {
     "name": "Seven Environmental - Coletagem and Electronic Waste Recycling.",
     "address": "R. Sebastiana Santana Fraga, 512 - Guatupê, São José dos Pinhais - PR, 83060-500, Brazil",
     "latitude": -25.497837,
     "longitude": -49.133082599999994,
-    "googleMapsUri": "https://maps.google.com/?cid=7458288693217825061"
+    "googleMapsUri": "https://maps.google.com/?cid=7458288693217825061",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUyD2nBSs0oUUJSi2ws4pH-LpMDJG_NdgZPDwD7oqHnRybd4XKo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLKw20Jit4ujYS-Fx6VpnjFvw3gcrYMZw8C4HXiFi91ejkbmA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKnS8-h59PREEHx3rcyRGJc0H3TMrRLJn7m1311HJIO5ad3DsLB=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVKgxmWiq_CkfgXg4tSSImYLko-v4kOUtmWwBl6T-qvdzVww0U1=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99143-6876",
+    "comentarios": [],
+    "rating": 4.8
   },
   {
-    "name": "Reversa Gestão de Resíduos, Reciclagem e Serviços Ambientais",
-    "address": "R. Agílio Leão de Macedo, 49 - Cidade Industrial de Curitiba, Curitiba - PR, 81350-050, Brazil",
-    "latitude": -25.493187799999998,
-    "longitude": -49.3303958,
-    "googleMapsUri": "https://maps.google.com/?cid=12492533191898768273"
-  },
-  {
-    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
-    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
-    "latitude": -19.9570892,
-    "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448"
-  },
-  {
-    "name": "Ecoponto Caiuá",
-    "address": "Av. Juscelino Kubitschek De Oliveira - Ld, 6800 - Cidade Industrial de Curitiba, Curitiba - PR, 81250-460, Brazil",
-    "latitude": -25.4909911,
-    "longitude": -49.3454449,
-    "googleMapsUri": "https://maps.google.com/?cid=17576506916598557064"
-  },
-  {
-    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
-    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
-    "latitude": -19.876649699999998,
-    "longitude": -43.9940334,
-    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062"
-  },
-  {
-    "name": "Reciclatech",
-    "address": "Av. Marginal José de Anchieta, 740 - Guarani, Colombo - PR, 83408-010, Brazil",
-    "latitude": -25.3725861,
-    "longitude": -49.191159400000004,
-    "googleMapsUri": "https://maps.google.com/?cid=14883590597477616075"
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3565-5294",
+    "comentarios": [],
+    "rating": 5
   },
   {
     "name": "Lithium Informática - Ecoponto E-MILE - Descarte Lixo Eletrônico",
     "address": "R. Padre Eustáquio, 443 - Carlos Prates, Belo Horizonte - MG, 30710-580, Brazil",
     "latitude": -19.9139503,
     "longitude": -43.958006100000006,
-    "googleMapsUri": "https://maps.google.com/?cid=14706624259078378466"
+    "googleMapsUri": "https://maps.google.com/?cid=14706624259078378466",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWiN-0FQsCgA33OZsyawfnGee4_O6INc-gelAw--lsgoW6hDm4=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWGcpnApMFJ0PIiXKN4cT5qtXFmaXYu2Yacmn-jCnXfYIYb-M5G=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLn-PMwqrB9cmtkF5ccFr6vgXV45sRxjKbfj_YbVRGoWEROqA=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU-Ug5yyXFFBOEvfuk7AE-Av7QRGnZPcwDEgQlKWXDwgvmSs2M=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3442-9571",
+    "comentarios": [],
+    "rating": 4.8
   },
   {
-    "name": "Instituto Lixo e Cidadania",
-    "address": "R. Voluntários da Pátria, 233 - 51 - Centro, Curitiba - PR, 80020-000, Brazil",
-    "latitude": -25.4333523,
-    "longitude": -49.2745572,
-    "googleMapsUri": "https://maps.google.com/?cid=5907858231371785122"
+    "name": "Coletar Reciclagem de Eletrônicos",
+    "address": "R. Cel. Docha, 118 - Inconfidentes, Contagem - MG, 32340-260, Brazil",
+    "latitude": -19.9600366,
+    "longitude": -44.03767510000001,
+    "googleMapsUri": "https://maps.google.com/?cid=785670208739894079",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99948-8586",
+    "comentarios": [],
+    "rating": 5
   },
   {
-    "name": "Eco Recicla Ambiental",
-    "address": "R. Lamenha Lins, 3491 - Centro, Curitiba - PR, 80220-081, Brazil",
-    "latitude": -25.4655968,
-    "longitude": -49.263001599999996,
-    "googleMapsUri": "https://maps.google.com/?cid=11096119075349083879"
+    "name": "Viletrônico Coleta de Resíduos Eletrônicos",
+    "address": "Jlm auto center e auto eletrica - R. Antônio Lago, 292 - Boa Vista, Curitiba - PR, 82560-470, Brazil",
+    "latitude": -25.388226,
+    "longitude": -49.239325699999995,
+    "googleMapsUri": "https://maps.google.com/?cid=6978878777579024704",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLx3Bp3igkMCRNKFc4-CTQktznGN98jEnl5nM0LPd9aEvfm-NMK=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99517-9093",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3063-0688",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Parcs Electronic Waste",
+    "address": "R. William Booth, 1681 - Boqueirão, Curitiba - PR, 81730-080, Brazil",
+    "latitude": -25.502132699999997,
+    "longitude": -49.2259338,
+    "googleMapsUri": "https://maps.google.com/?cid=3879406055918125912",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3WYCvKWdughTSi7zO6HNHG27VVr7QHZ_-w5z3zl8gACkkms3w=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99125-1745",
+    "comentarios": [],
+    "rating": 4.8
+  },
+  {
+    "name": "Recicla Eletrônicos Ltda",
+    "address": "R. Irmã Maria Pinheiro Araújo, N98 - Boqueirão, Curitiba - PR, 81730-280, Brazil",
+    "latitude": -25.5069748,
+    "longitude": -49.2167848,
+    "googleMapsUri": "https://maps.google.com/?cid=17163221994154921703",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhQdUgrmcouiMiBKZ_PYDlgxOubVLdstm051SRW8SHJvWDKYDv=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVIN-nBQn2kJqGc0oaajmyzUz-zkPpwfqsOce15zuN8KB5ImDU=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVIN-nBQn2kJqGc0oaajmyzUz-zkPpwfqsOce15zuN8KB5ImDU=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVIN-nBQn2kJqGc0oaajmyzUz-zkPpwfqsOce15zuN8KB5ImDU=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3089-0232",
+    "comentarios": [],
+    "rating": 4.3
+  },
+  {
+    "name": "Ecologitec-Descarte de eletrônicos-Descarte de uniformes-Descarte de móveis-Descarte de sofás - entulhos- em Curitiba.",
+    "address": "R. Raul de Azevedo Macedo, 179 - sala 02 - Xaxim, Curitiba - PR, 81830-180, Brazil",
+    "latitude": -25.5053767,
+    "longitude": -49.267768399999994,
+    "googleMapsUri": "https://maps.google.com/?cid=14876761711548334231",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVctqNPMR-h6BS_gGNOkrV4T2ygq4dusLsbPVG098m6lgaU7yg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhyg2ossvM5mqI7mF4qoXPxcA2lVX3duKbfbml57qosa2CVnZ1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhyg2ossvM5mqI7mF4qoXPxcA2lVX3duKbfbml57qosa2CVnZ1=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVbriVBD8Q9l3UDQRgWDpNizdK_HoBxjvCDumDGJ6XfTVyiqmdc9g=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99858-6592",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Projeto Pro Verde - Lixo Eletrônico",
+    "address": "R. Itajubá, 170 A - Floresta, Belo Horizonte - MG, 30150-380, Brazil",
+    "latitude": -19.9151839,
+    "longitude": -43.9305077,
+    "googleMapsUri": "https://maps.google.com/?cid=5310481154771040767",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ7Rb3aGIIJS2Ba7jLkh-YIjSHhSCRutMoW-UWh_nyCqjP_Cg=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ7Rb3aGIIJS2Ba7jLkh-YIjSHhSCRutMoW-UWh_nyCqjP_Cg=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 99810-0038",
+    "comentarios": [],
+    "rating": "N/A"
+  },
+  {
+    "name": "Akatar Reciclagem - Eletrônicos e Informática",
+    "address": "R. Cleto da Silva, 1920 - Boqueirão, Curitiba - PR, 81650-290, Brazil",
+    "latitude": -25.491886299999997,
+    "longitude": -49.2530989,
+    "googleMapsUri": "https://maps.google.com/?cid=1789238928236439451",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocImEWSPMJqzjCjfwVz0l2zjDkJfCKsyBYPyFpo5R1WOyxobPQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVnvGrsi3qI34H1P78pYrcrqIxv2bKksLUoTgapAuokBVq2OWk=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 99866-6162",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
+    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
+    "latitude": -19.876649699999998,
+    "longitude": -43.9940334,
+    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3277-7422",
+    "comentarios": [],
+    "rating": 3.8
+  },
+  {
+    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
+    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
+    "latitude": -19.925871,
+    "longitude": -43.9527431,
+    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210",
+    "phone": "N/A",
+    "comentarios": [],
+    "rating": "N/A"
+  },
+  {
+    "name": "Uzato Reciclagem do Brasil",
+    "address": "R. Bartolomeu Lourenço de Gusmão, 3974 - Hauer, Curitiba - PR, 81730-040, Brazil",
+    "latitude": -25.5040557,
+    "longitude": -49.231072399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=196709483173752246",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW6RJUIitnZnPBUKbbq30-zgyezpmGMyuWBrGg9NPJZM5Ddfd-tug=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW6RJUIitnZnPBUKbbq30-zgyezpmGMyuWBrGg9NPJZM5Ddfd-tug=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXFLa7GtC0_sPKdjqF13ZNqyLcIxIz8GVST4Y28_sijl6yzCiYw8Q=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWa2HEDRcQsKCDyOmfHx407LCD9cCjTgFd49UicDWylI3U8-6A=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3319-5317",
+    "comentarios": [],
+    "rating": 4.5
+  },
+  {
+    "name": "Ester Reciclagem Ambiental",
+    "address": "Rua Bom Jesus de Iguape, 3761 - Hauer, Curitiba - PR, 81650-030, Brazil",
+    "latitude": -25.4968586,
+    "longitude": -49.2369225,
+    "googleMapsUri": "https://maps.google.com/?cid=13592126024878495365",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWbz1ZHA35QECnKvWb_-aQqmkbmSpdk382oQsK8xUY7Q5s4ut8=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLmH_RYjBpPzG6rSlm2YXEEByN5xQw-veusCIVfUekJmHg0CQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLmH_RYjBpPzG6rSlm2YXEEByN5xQw-veusCIVfUekJmHg0CQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLmH_RYjBpPzG6rSlm2YXEEByN5xQw-veusCIVfUekJmHg0CQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLmH_RYjBpPzG6rSlm2YXEEByN5xQw-veusCIVfUekJmHg0CQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLmH_RYjBpPzG6rSlm2YXEEByN5xQw-veusCIVfUekJmHg0CQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLmH_RYjBpPzG6rSlm2YXEEByN5xQw-veusCIVfUekJmHg0CQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW5gEKVcPkm1JoWdQfNmlddhs-L8cZkn_gwN4wtl6dKuVzBTuM=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 98849-2050",
+    "comentarios": [],
+    "rating": 5
+  },
+  {
+    "name": "Reciclatech",
+    "address": "Av. Marginal José de Anchieta, 740 - Guarani, Colombo - PR, 83408-010, Brazil",
+    "latitude": -25.3725861,
+    "longitude": -49.191159400000004,
+    "googleMapsUri": "https://maps.google.com/?cid=14883590597477616075",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgIhH8nx3tLQSs7j3U-qmw6BnGzp_pVig_xMUJ2U4P-ydOMoQ=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(41) 3606-9623",
+    "comentarios": [],
+    "rating": 4.6
+  },
+  {
+    "name": "EMILE Reciclagem de Eletroeletrônicos",
+    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
+    "latitude": -19.9453905,
+    "longitude": -43.9224724,
+    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265",
+    "photos": [
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      },
+      {
+        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+      }
+    ],
+    "phone": "(31) 3044-5280",
+    "comentarios": [],
+    "rating": 3.9
   }
 ]

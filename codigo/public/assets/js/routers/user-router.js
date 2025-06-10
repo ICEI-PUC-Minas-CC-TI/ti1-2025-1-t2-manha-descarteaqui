@@ -5,6 +5,7 @@ const {
   editarConta,
   deletarConta,
   getContaUsuario,
+  setQuizStatus,
 } = require("../controllers/user-data");
 
 router.post("/criar-conta", (req, res) => {
@@ -58,6 +59,16 @@ router.get("/conta-usuario/:email", (req, res) => {
     }
     res.status(200).json(data);
   }, email);
+});
+
+router.post("/quiz", (req, res) => {
+  const { email, quizId } = req.body;
+  setQuizStatus(email, quizId, (err, result) => {
+    if (err) {
+      return res.status(err.status || 500).json({ error: err.message });
+    }
+    res.status(200).json(result);
+  });
 });
 
 module.exports = router;

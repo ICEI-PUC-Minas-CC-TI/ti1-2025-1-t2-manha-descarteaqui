@@ -9,11 +9,12 @@ const header_links = [
   },
   {
     name: "Quizes",
-    url: "/quizes",
+    url: "/quizzes/page",
   },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
+  const userData = localStorage.getItem("user_data");
   initializeHeader(header_links).then(() => {
     mobileToggle();
   });
@@ -34,6 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
       header.classList.remove("scrolled");
     }
   });
+  populateSection(userData);
 });
 
 async function initializeHeader(header_links) {
@@ -101,15 +103,15 @@ function appendAccountLinks(container) {
     accountLink.href = "/contas/detalhes";
     accountLink.innerText = "Minha Conta";
     accountLink.style.cursor = "pointer";
-    
+
     const img = document.createElement("img");
-    
+
     img.src = user_data ? JSON.parse(user_data).user_img : "";
 
     img.alt = "User Image";
 
     img.style =
-    "width: 50px; height: 50px; border-radius: 50%; margin-left: 10px;";
+      "width: 50px; height: 50px; border-radius: 50%; margin-left: 10px;";
 
     img.addEventListener("click", () => {
       window.location.href = "/contas/detalhes";
@@ -130,7 +132,7 @@ function appendAccountLinks(container) {
     newDiv.style.alignItems = "center";
     newDiv.appendChild(accountLink);
     newDiv.appendChild(img);
-    container.appendChild(newDiv)
+    container.appendChild(newDiv);
     container.appendChild(logoutLink);
   } else {
     // User not logged in
@@ -166,24 +168,24 @@ function mobileToggle() {
   const body = document.querySelector("body");
   body.appendChild(overlay);
   sidebar.appendChild(closeBtn);
-  
-  const newDiv = document.createElement("div")
+
+  const newDiv = document.createElement("div");
   newDiv.innerHTML = `
     <h2>
       <img id="person" src="/assets/icons/person.svg" alt="" />Conta
     </h2>
-  `
-  const accountDiv = document.createElement("div")
-  accountDiv.style.flexDirection = "column"
+  `;
+  const accountDiv = document.createElement("div");
+  accountDiv.style.flexDirection = "column";
   accountDiv.style.display = "flex";
 
-  newDiv.style.display = 'none';
+  newDiv.style.display = "none";
   newDiv.id = "cell-account-div";
-  appendAccountLinks(accountDiv)
+  appendAccountLinks(accountDiv);
 
-  newDiv.appendChild(accountDiv)
+  newDiv.appendChild(accountDiv);
 
-  sidebar.insertBefore(newDiv, sidebar.firstChild)
+  sidebar.insertBefore(newDiv, sidebar.firstChild);
 
   function checkMobile() {
     if (window.innerWidth <= 768) {
@@ -219,4 +221,54 @@ function mobileToggle() {
 
   window.addEventListener("resize", checkMobile);
   checkMobile();
+}
+
+async function populateSection(userData) {
+  const lixosList = document.getElementById("lixos-list");
+  const quizesList = document.getElementById("quizes-list");
+  if(!lixosList || !quizesList) { 
+    return;
+  }
+
+  const link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = "/assets/css/side-bar.css";
+  document.head.appendChild(link);
+
+  const response = await fetch("/tipos-lixo");
+  const data = await response.json();
+  data.forEach((element) => {
+    const li = document.createElement("li");
+    const colorCircle = document.createElement("div");
+    colorCircle.style.backgroundColor = element.cor;
+    colorCircle.className = "color-circle";
+    li.innerHTML = `<span class="list-lixo">${element.nome}</span>`;
+    li.appendChild(colorCircle);
+    lixosList.appendChild(li);
+  });
+  const quizesResponse = await fetch("/quizzes");
+  const quizesData = await quizesResponse.json();
+  quizesData.forEach((quiz) => {
+    const li = document.createElement("li");
+    li.innerHTML = `<span class="list-quiz">${quiz.nome}</span>`;
+    li.addEventListener("click", () => {
+      window.location.href = `/quizzes/questionario?id=${quiz.id}`;
+    });
+    li.style.cursor = "pointer";
+    const checkMark = document.createElement("img");
+    checkMark.src = "/assets/icons/check.svg";
+    checkMark.alt = "Check";
+    checkMark.style.width = "30px";
+    checkMark.style.height = "30px";
+    checkMark.style.marginLeft = "10px";
+    checkMark.style.display = "none";
+    if (userData) {
+      const userQuizes = JSON.parse(userData).quizes;
+      if (userQuizes && userQuizes.includes(quiz.id)) {
+        checkMark.style.display = "block";
+      }
+    }
+    li.appendChild(checkMark);
+    quizesList.appendChild(li);
+  });
 }

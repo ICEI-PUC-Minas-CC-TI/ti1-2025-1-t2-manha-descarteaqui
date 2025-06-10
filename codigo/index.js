@@ -42,9 +42,19 @@ server.get("/contas/detalhes", (req, res) => {
 server.get("/lixos", (req, res) => {
   res.sendFile(__dirname + "/public/modulos/lixos/detalhes.html");
 });
+
 server.get("/sobre", (req, res) => {
   res.sendFile(__dirname + "/public/modulos/sobreNos/sobreNos.html");
 });
+
+server.get("/quizzes/page", (req, res) => {
+  res.sendFile(__dirname + "/public/modulos/quiz/quizhub.html");
+});
+
+server.get("/quizzes/questionario", (req, res) => {
+  res.sendFile(__dirname + "/public/modulos/quiz/quizpage.html");
+});
+
 server.use((req, res) => {
   res.status(404).json({ error: "Rota não encontrada" });
 });
