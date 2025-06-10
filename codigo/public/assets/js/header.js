@@ -261,15 +261,11 @@ async function populateSection(userData) {
     checkMark.style.width = "30px";
     checkMark.style.height = "30px";
     checkMark.style.marginLeft = "10px";
+    checkMark.style.display = "none";
     if (userData) {
-      const user = JSON.parse(userData);
-      if(user.correctQuiz === undefined) {
-        user.correctQuiz = [];
-      }
-      if (user.correctQuiz.includes(quiz.id)) {
-        checkMark.style.display = "inline";
-      } else {
-        checkMark.style.display = "none";
+      const userQuizes = JSON.parse(userData).quizes;
+      if (userQuizes && userQuizes.includes(quiz.id)) {
+        checkMark.style.display = "block";
       }
     }
     li.appendChild(checkMark);
