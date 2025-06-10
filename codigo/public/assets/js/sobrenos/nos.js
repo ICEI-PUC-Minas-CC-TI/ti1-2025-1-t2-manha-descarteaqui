@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", async function () {
   await populateSection();
   await carregarMembros();
+  
 });
 
 async function populateSection() {
@@ -18,7 +19,6 @@ async function populateSection() {
     li.appendChild(colorCircle);
     lixosList.appendChild(li);
   });
-
   const quizesResponse = await fetch("/quizzes");
   const quizesData = await quizesResponse.json();
   quizesData.forEach((quiz) => {
@@ -30,6 +30,7 @@ async function populateSection() {
     quizesList.appendChild(li);
   });
 }
+
 
 async function carregarMembros() {
   const container = document.getElementById("membros-container");
