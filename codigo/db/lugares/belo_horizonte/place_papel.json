@@ -39,7 +39,17 @@
       }
     ],
     "phone": "(31) 3451-0770",
-    "comentarios": [],
+    "comentarios": [
+      {
+        "id": 1,
+        "comentario": "test teste",
+        "user": {
+          "nome": "teste",
+          "email": "teste@email.com",
+          "foto": "teste"
+        }
+      }
+    ],
     "rating": 5
   },
   {

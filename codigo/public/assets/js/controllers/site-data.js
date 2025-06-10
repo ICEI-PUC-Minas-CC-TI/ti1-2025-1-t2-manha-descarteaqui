@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { func } = require("joi");
 const path = require("path");
 
 function tiposLixo(callback) {
@@ -123,7 +124,6 @@ function DetalhesLugaresDeColeta(tipo, cidade, id, callback) {
         return;
       }
 
-
       callback(null, jsonData[lugar]);
     } catch (parseError) {
       console.error("Error parsing places_result.json:", parseError);
@@ -156,6 +156,83 @@ function quizes(callback) {
     }
   });
 }
+
+function getLocalComentarios(cidade, tipo, id, callback) {
+  const filePath = path.join(
+    __dirname,
+    `../../../../db/lugares/${cidade}/place_${tipo}.json`
+  );
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading comments file:", err);
+      callback(err, null);
+      return;
+    }
+    try {
+      const jsonData = JSON.parse(data);
+      const lugar = jsonData.find((item) => item.id === id);
+      if (!lugar) {
+        callback(new Error("Place not found for the given ID"), null);
+        return;
+      }
+      if (!lugar.comentarios) {
+        lugar.comentarios = [];
+      }
+      callback(null, lugar.comentarios || []);
+    } catch (parseError) {
+      console.error("Error parsing comments file:", parseError);
+      callback(parseError, null);
+    }
+  });
+}
+
+function createComentario(cidade, tipo, id, comentario, userData, callback) {
+  const filePath = path.join(
+    __dirname,
+    `../../../../db/lugares/${cidade}/place_${tipo}.json`
+  );
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading comments file:", err);
+      callback(err, null);
+      return;
+    }
+    try {
+      const jsonData = JSON.parse(data);
+      const lugar = jsonData.find((item) => item.id === id);
+      if (!lugar) {
+        callback(new Error("Place not found for the given ID"), null);
+        return;
+      }
+      if (!lugar.comentarios) {
+        lugar.comentarios = [];
+      }
+
+      const newComentario = {
+        id: lugar.comentarios.length + 1,
+        comentario: comentario,
+        user: {
+          nome: userData.nome,
+          email: userData.email,
+          foto: userData.foto || "/assests/img/user.png",
+        },
+      };
+      lugar.comentarios.push(newComentario);
+      fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), (writeErr) => {
+        if (writeErr) {
+          console.error("Error writing comments file:", writeErr);
+          callback(writeErr, null);
+          return;
+        }
+        callback(null, lugar.comentarios || []);
+      });
+    } catch (parseError) {
+      console.error("Error parsing comments file:", parseError);
+      callback(parseError, null);
+    }
+  });
+}
+
 module.exports = {
   tiposLixo,
   lixoDetalhes,
@@ -163,4 +240,6 @@ module.exports = {
   lugaresDeColeta,
   quizes,
   DetalhesLugaresDeColeta,
+  getLocalComentarios,
+  createComentario,
 };

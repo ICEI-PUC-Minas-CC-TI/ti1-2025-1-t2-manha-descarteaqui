@@ -4,7 +4,9 @@ const {
   tiposLixo,
   lugaresDeColeta,
   quizes,
-  DetalhesLugaresDeColeta
+  DetalhesLugaresDeColeta,
+  getLocalComentarios,
+  createComentario
 } = require("../controllers/site-data");
 const router = require("express").Router();
 
@@ -73,5 +75,28 @@ router.get("/lugares/:cidade/:tipo/:id", (req, res) => {
     res.json(data);
   });
 }); 
+
+router.get("/lugares/:cidade/:tipo/:id/comentarios", (req, res) => {
+  const { cidade, id, tipo } = req.params;
+  getLocalComentarios(cidade, tipo, id, (err, data) => {
+    if (err) {
+      res.status(404).send("Comments not found");
+      return;
+    }
+    res.json(data);
+  });
+});
+
+router.post("/lugares/:cidade/:tipo/:id/comentarios", (req, res) => {
+  const { cidade, id, tipo } = req.params;
+  const { comentario, userData } = req.body;
+  createComentario(cidade, tipo, id, comentario, userData, (err, data) => {
+    if (err) {
+      res.status(500).send("Error creating comment");
+      return;
+    }
+    res.json(data);
+  });
+});
 
 module.exports = router;
