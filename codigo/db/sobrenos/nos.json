@@ -1,27 +1,32 @@
 [
   {
     "nome": "Mateus de Sousa Santos",
-    "foto": "../../assets/images/mateus.jpg",
-    "descricao": "Estudante da PUC com interesse em tecnologia e meio ambiente."
+    "foto": "../../assets/images/male-avatar.svg",
+    "descricao": "Estudante da PUC com interesse em tecnologia e meio ambiente.",
+    "E-mail": "mateus.sousa.santos191@gmail.com"
   },
   {
     "nome": "Samuel Lucas Rodrigues Vieira",
-    "foto": "../../assets/images/samuel.jpg",
-    "descricao": "Estudante da PUC entusiasta em soluções sustentáveis e inovação."
+    "foto": "../../assets/images/male-avatar.svg",
+    "descricao": "Estudante da PUC entusiasta em soluções sustentáveis e inovação.",
+    "E-mail": "samuel.vieira@pucfake.com"
   },
   {
     "nome": "João Miguel Aguiar Alkmim",
-    "foto": "../../assets/images/joao.jpg",
-    "descricao": "Estudante da PUC focado em impacto social e educação ambiental."
+    "foto": "../../assets/images/male-avatar.svg",
+    "descricao": "Estudante da PUC focado em impacto social e educação ambiental.",
+    "E-mail": "joao.alkmim@pucfake.com"
   },
   {
     "nome": "Gabriel Lima Emerique Caldeira",
-    "foto": "../../assets/images/gabriel.jpg",
-    "descricao": "Estudante da PUC comprometido com a preservação do meio ambiente."
+    "foto": "../../assets/images/male-avatar.svg",
+    "descricao": "Estudante da PUC comprometido com a preservação do meio ambiente.",
+    "E-mail": "gabriel.caldeira@pucfake.com"
   },
   {
     "nome": "Guilherme Pereira da Costa",
-    "foto": "../../assets/images/guilherme.jpg",
-    "descricao": "Estudante da PUC com foco em desenvolvimento web e sustentabilidade."
+    "foto": "../../assets/images/male-avatar.svg",
+    "descricao": "Estudante da PUC com foco em desenvolvimento web e sustentabilidade.",
+    "E-mail": "guilherme.costa@pucfake.com"
   }
 ]
