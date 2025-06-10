@@ -441,6 +441,32 @@ main {
   h1 {
     color: #ffffff;  
   }
+
+}
+#membros {
+  max-width: 800px;
+  color: #ffffff;
+  height: 100%;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  margin: 2rem auto;
+  background-color: var(--secondary-green);
+}
+
+#membros h2 {
+  font-size: 2rem;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.membros-grid {
+  display: flex;
+  flex-direction: row; 
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (min-width: 601px) and (max-width: 1024px) {

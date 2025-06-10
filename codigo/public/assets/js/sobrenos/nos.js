@@ -36,7 +36,7 @@ async function carregarMembros() {
   const container = document.getElementById("membros-container");
 
   try {
-    const response = await fetch("?????????");
+    const response = await fetch("/db/sobrenos/nos.json");
     const membros = await response.json();
 
     membros.forEach((membro) => {
