@@ -185,4 +185,5 @@ module.exports = {
   lugaresDeColeta,
   quizes,
   DetalhesLugaresDeColeta,
+  sobreNos
 };
