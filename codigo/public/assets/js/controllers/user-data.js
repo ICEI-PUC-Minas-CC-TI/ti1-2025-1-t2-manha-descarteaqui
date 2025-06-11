@@ -203,11 +203,9 @@ function setQuizStatus(email, quizId, callback) {
     if( !usersData.usuarios[userIndex].correctQuiz) {
       usersData.usuarios[userIndex].correctQuiz = [];
     }
-    if (usersData.usuarios[userIndex].correctQuiz.includes(quizId)) {
-      return callback({ status: 400, message: "Quiz já concluído" }, null);
+    if (!(usersData.usuarios[userIndex].correctQuiz.includes(quizId))) {
+      usersData.usuarios[userIndex].correctQuiz.push(quizId);
     }
-
-    usersData.usuarios[userIndex].correctQuiz.push(quizId);
 
     fs.writeFile(filePath, JSON.stringify(usersData, null, 2), (err) => {
       if (err) {
@@ -217,6 +215,8 @@ function setQuizStatus(email, quizId, callback) {
     });
   });
 }
+
+
 module.exports = {
   criarConta,
   entrarConta,

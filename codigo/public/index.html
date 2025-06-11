@@ -1,58 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="icon"
-      href="./assets/images/svg-icone.svg"
-      type="image/svg+xml"
-    />
-    <title>Descarte Aqui</title>
-    <link rel="stylesheet" href="./assets/css/index_style.css" />
-    <script src="./assets/js/populate_index.js" type="module" defer></script>
-    <title>Descarte Aqui</title>
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-      crossorigin=""
-    />
-    <script
-      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-      crossorigin=""
-    ></script>
-    <script src="./assets/js/header.js" defer></script>
-  </head>
-  <body>
-    <header></header>
-    <section>
-      <div id="side-bar">
-        <h2>
-          <img id="search" src="./assets/icons/search.svg" alt="" />Pesquisar
-        </h2>
-        <div id="city-select-container">
-          <label for="city-select">Selecione uma cidade</label><br />
-          <select id="city-select"></select>
-        </div>
-        <hr />
-        <h2>
-          <img id="trash" src="./assets/icons/trash.svg" alt="" />Tipos de lixo
-        </h2>
-        <div id="filter-bar"></div>
-      </div>
-      <div id="map-container">
-        <div id="map" style="width: 100%; height: 100%; z-index: 1"></div>
 
-        <div id="info-container">
-          <h2>Informações</h2>
-          <div id="details-div"></div>
-        </div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="./assets/images/svg-icone.svg" type="image/svg+xml" />
+  <title>Descarte Aqui</title>
+  <link rel="stylesheet" href="./assets/css/index_style.css" />
+  <script src="./assets/js/populate_index.js" type="module" defer></script>
+  <title>Descarte Aqui</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="./assets/js/header.js" defer></script>
+  <link rel="stylesheet" href="assets/css/modal-local.css">
+  <script src="assets/js/modal-local.js"></script>
+</head>
+
+<body>
+  <header></header>
+  <section>
+    <div id="side-bar">
+      <h2>
+        <img id="search" src="./assets/icons/search.svg" alt="" />Pesquisar
+      </h2>
+      <div id="city-select-container">
+        <label for="city-select">Selecione uma cidade</label><br />
+        <select id="city-select"></select>
       </div>
-    </section>
-    <footer>
-      mateussousa.dev
-    </footer>
-  </body>
+      <hr />
+      <h2>
+        <img id="trash" src="./assets/icons/trash.svg" alt="" />Tipos de lixo
+      </h2>
+      <div id="filter-bar"></div>
+    </div>
+    <div id="map-container">
+      <div id="map" style="width: 100%; height: 100%; z-index: 1"></div>
+
+      <div id="info-container">
+        <h2>Informações</h2>
+        <div id="details-div"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal -->
+  <div id="placeModal" class="modal">
+    <div class="modal-content">
+      <span class="close-modal">&times;</span>
+
+      <!-- Cabeçalho com imagem e nome do local -->
+      <div class="place-header">
+        <img id="modalPlaceImage" src="images/noIMG.svg" alt="Imagem do local" class="place-image">
+
+        <!-- Detalhes do local -->
+        <div class="place-details">
+          <h2 id="modalPlaceName" class="title">Nome do Local</h2>
+          <p><a class="title">Endereço:</a> <span id="modalPlaceAddress">-</span></p>
+          <p><a class="title">Tipos de lixo:</a> <span id="modalPlaceItems">-</span></p>
+        </div>
+
+      </div>
+
+
+
+      <!-- Seção de comentários -->
+      <div class="comments-section">
+        <h3 class="title">Comentários</h3>
+        <div id="commentsList">
+
+        <!-- Formulário de comentário (visível apenas quando logado) -->
+        <form id="commentForm" style="display: none;">
+          <textarea id="commentText" placeholder="Deixe seu comentário..." required></textarea>
+          <button type="submit" id="sendComment">Enviar</button>
+        </form>
+
+        <!-- Mensagem para não logados -->
+        <p id="loginMessage">Faça <a href="/login" onclick="event.preventDefault(); simulateLogin()">login</a> para
+          comentar.</p>
+      </div>
+    </div>
+  </div>
+
+
+  <footer>
+    mateussousa.dev
+  </footer>
+</body>
+
 </html>

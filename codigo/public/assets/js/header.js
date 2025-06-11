@@ -263,8 +263,8 @@ async function populateSection(userData) {
     checkMark.style.marginLeft = "10px";
     checkMark.style.display = "none";
     if (userData) {
-      const userQuizes = JSON.parse(userData).quizes;
-      if (userQuizes && userQuizes.includes(quiz.id)) {
+      const userParsedData = JSON.parse(userData);
+      if (userParsedData && userParsedData.correctQuiz.includes(quiz.id)) {
         checkMark.style.display = "block";
       }
     }
