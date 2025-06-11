@@ -1,616 +1,746 @@
 [
   {
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
     "name": "MG Recicla Reciclagem de Lixo Eletrônico",
     "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
     "latitude": -19.9408104,
     "longitude": -44.0015892,
     "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(31) 3565-5294",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "name": "SOS GREEN Gestão de Descarte Eletrônico",
-    "address": "R. Contagem, 868 - loja c - Santa Ines, Belo Horizonte - MG, 31080-255, Brazil",
-    "latitude": -19.8894554,
-    "longitude": -43.905776800000005,
-    "googleMapsUri": "https://maps.google.com/?cid=13568047759688273150",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-26T09:36:09.061Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-27T23:16:45.443Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-24T11:06:07.806Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtjzol_eIJOxeJm2_u9qlpfSO3wV2aX8e_ImUP_DLlyhZlpUw=s100-p-k-no-mo"
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-26T01:07:01.626Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 99546-5973",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
-    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
-    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
-    "latitude": -19.9570892,
-    "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 3063-0688",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
-    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
-    "latitude": -19.876649699999998,
-    "longitude": -43.9940334,
-    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 3277-7422",
-    "comentarios": [],
-    "rating": 3.8
-  },
-  {
+    "id": "ChIJEZMpKXmHWZMRMWt88htbKs0",
     "name": "Zero Impacto - Logística Reversa",
     "address": "SETOR DE ABASTECIMENTO E ARMAZENAMENTO NORTE - QUADRA 02 LOTE 805 - SAAN, Brasília - DF, 70632-250, Brazil",
     "latitude": -15.762633699999999,
     "longitude": -47.935500399999995,
     "googleMapsUri": "https://maps.google.com/?cid=14783728902387559217",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXTOtO-XK0I9bREWLtlPL2OT8NFX78vUYssUdckpVZOqDIOBQP-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXTOtO-XK0I9bREWLtlPL2OT8NFX78vUYssUdckpVZOqDIOBQP-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXTOtO-XK0I9bREWLtlPL2OT8NFX78vUYssUdckpVZOqDIOBQP-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUTbGnFG5X2JMRoGhEuIF80Q_LPjZkRzeoT0F6ewR11x-SXtVk=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUTbGnFG5X2JMRoGhEuIF80Q_LPjZkRzeoT0F6ewR11x-SXtVk=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXTOtO-XK0I9bREWLtlPL2OT8NFX78vUYssUdckpVZOqDIOBQP-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUIMkeJoIT8tlHZlNNTx5oYABRsdzIK1hhARn-bMycRxfxSq2IG=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtsa15MmGRDxj6SQD-OesWLAmybiDgzONJJ1ZtozV3UN-8gd1c=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXTOtO-XK0I9bREWLtlPL2OT8NFX78vUYssUdckpVZOqDIOBQP-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXTOtO-XK0I9bREWLtlPL2OT8NFX78vUYssUdckpVZOqDIOBQP-=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 3301-3584",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-12T17:44:23.491Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
+    "id": "ChIJ-YvyVPjf4mkRY_i_R8C5wUI",
     "name": "Lixos Eletrônicos DF",
     "address": "Rua 3C - St. Hab. Vicente Pires Lote 22 loja 03 DF - DF, Brasília - DF, 72005-505, Brazil",
     "latitude": -15.7867965,
     "longitude": -48.0039296,
     "googleMapsUri": "https://maps.google.com/?cid=4810330112497023075",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV03Ci-iwEQN_cYtLLVSMvm_F0NkkAUbThBb-4bDSiLzeKQTB1T=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLSREVEJf5oQjvWLzmSJuaUTIHefdVfWMYDk5qExFd8eUISNQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLSREVEJf5oQjvWLzmSJuaUTIHefdVfWMYDk5qExFd8eUISNQ=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 98192-7985",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-25T20:10:35.300Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
+    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "phone": "(31) 3063-0688",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-17T23:53:23.697Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-19T08:01:17.006Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-30T04:53:42.100Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-05T11:48:28.142Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-19T21:10:49.217Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJe7g-B0-RpgARhnHoItlwglA",
+    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
+    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
+    "latitude": -19.876649699999998,
+    "longitude": -43.9940334,
+    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062",
+    "phone": "(31) 3277-7422",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-05-03T06:35:38.052Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-06-03T08:22:34.789Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJz7FNmT-3W5MRD3tOSuLp__I",
     "name": "Lixo eletrônico Brasília e descarte de informática",
     "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
     "latitude": -15.8021241,
     "longitude": -48.1405691,
     "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 98513-9817",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "name": "Descarte Lixo Eletrônico",
-    "address": "Qnp 15 - Ceilândia Norte QNP 15 Conj. A casa 02 - Ceilândia, Brasília - DF, 72241-601, Brazil",
-    "latitude": -15.810525600000002,
-    "longitude": -48.132047899999996,
-    "googleMapsUri": "https://maps.google.com/?cid=7859143001892081480",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocL1E1_SUNl-5gH_tIo7MewAObxzl_hOraeyamehUKc4dNEjpA=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-03T13:59:57.654Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-04-17T18:42:13.776Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-03-01T07:48:16.732Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 98664-3679",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
-    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
-    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
-    "latitude": -19.925871,
-    "longitude": -43.9527431,
-    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210",
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": "N/A"
-  },
-  {
+    "id": "ChIJsZRD-ZUzWpMRUYFMrKDF_iU",
     "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
     "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
     "latitude": -15.834466999999998,
     "longitude": -48.043344999999995,
     "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 98417-0802",
-    "comentarios": [],
-    "rating": 2
-  },
-  {
-    "name": "Projeto Pro Verde - Lixo Eletrônico",
-    "address": "R. Itajubá, 170 A - Floresta, Belo Horizonte - MG, 30150-380, Brazil",
-    "latitude": -19.9151839,
-    "longitude": -43.9305077,
-    "googleMapsUri": "https://maps.google.com/?cid=5310481154771040767",
-    "photos": [
+    "rating": 2,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ7Rb3aGIIJS2Ba7jLkh-YIjSHhSCRutMoW-UWh_nyCqjP_Cg=s100-p-k-no-mo"
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-19T00:02:01.243Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ7Rb3aGIIJS2Ba7jLkh-YIjSHhSCRutMoW-UWh_nyCqjP_Cg=s100-p-k-no-mo"
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-04T03:34:16.349Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-05T17:45:33.584Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 99810-0038",
-    "comentarios": [],
-    "rating": "N/A"
+    ]
   },
   {
-    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
-    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
-    "latitude": -15.780830799999999,
-    "longitude": -47.9845171,
-    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
-    "photos": [
+    "id": "ChIJTXOqWuXNW5MRSE_GsutIEW0",
+    "name": "Descarte Lixo Eletrônico",
+    "address": "Qnp 15 - Ceilândia Norte QNP 15 Conj. A casa 02 - Ceilândia, Brasília - DF, 72241-601, Brazil",
+    "latitude": -15.810525600000002,
+    "longitude": -48.132047899999996,
+    "googleMapsUri": "https://maps.google.com/?cid=7859143001892081480",
+    "phone": "(61) 98664-3679",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtLqSIL0971B4j7R_rhzegShO3ioUuOqLlx8bIsXg_O28mPcCG=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjX9YVFuCZ22VRhGM6d-JxAaZLS24jJA-Nd4RQw936mHX9HD1e4=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU-BPVedM6Zv94WPqNTGmP9uGbad2CLkWNc58qLIE2osD0Yg_53=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVuALW5LmZnJYnkYg7uqHSL4BGYPBwnBeNZVsjpiSUOWyBc24h_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-23T12:21:04.679Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 3246-6068",
-    "comentarios": [],
-    "rating": 4.5
+    ]
   },
   {
-    "name": "EMILE Reciclagem de Eletroeletrônicos",
-    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
-    "latitude": -19.9453905,
-    "longitude": -43.9224724,
-    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 3044-5280",
-    "comentarios": [],
-    "rating": 3.9
-  },
-  {
-    "name": "Sia Recicla",
-    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
-    "latitude": -15.798486199999997,
-    "longitude": -47.9661864,
-    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(61) 99914-1212",
-    "comentarios": [],
-    "rating": 4.1
-  },
-  {
-    "name": "Lixo eletrônico Brasília e descarte de informática",
-    "address": "SHCN CLN 207 bloco b loja 32 - Asa Norte, Brasília - DF, 70852-000, Brazil",
-    "latitude": -15.7639604,
-    "longitude": -47.881272900000006,
-    "googleMapsUri": "https://maps.google.com/?cid=7666707312792371708",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIIuR0ydMcyyfCdBqn7JAQRNc-bQHzxLLQg7f8-icuVFYKCFQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIIuR0ydMcyyfCdBqn7JAQRNc-bQHzxLLQg7f8-icuVFYKCFQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIIuR0ydMcyyfCdBqn7JAQRNc-bQHzxLLQg7f8-icuVFYKCFQ=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(61) 98100-4756",
-    "comentarios": [],
-    "rating": "N/A"
-  },
-  {
+    "id": "ChIJIds8-zozWpMRYZVF792arIw",
     "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
     "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
     "latitude": -15.8128383,
     "longitude": -48.013962799999995,
     "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641",
     "phone": "(61) 98563-2239",
-    "comentarios": [],
-    "rating": 2.7
-  },
-  {
-    "name": "RECITRÔN Lixo Eletrônico",
-    "address": "Rua 06 - St. Hab. Vicente Pires loja 2 - Taguatinga, Brasília - DF, 72006-450, Brazil",
-    "latitude": -15.808691699999999,
-    "longitude": -48.029455299999995,
-    "googleMapsUri": "https://maps.google.com/?cid=16489389266874451994",
-    "photos": [
+    "rating": 2.7,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK25-Hqh2pzHEwICG-z9-dauzSoK-gv-EAMERXYceeG3tKEpQ=s100-p-k-no-mo"
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-06T17:29:59.304Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWoJT1OpkxQH3JxQScJSGLI14Xojbs8rsgiLgp69Pn4FER1HXI=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWoJT1OpkxQH3JxQScJSGLI14Xojbs8rsgiLgp69Pn4FER1HXI=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWoJT1OpkxQH3JxQScJSGLI14Xojbs8rsgiLgp69Pn4FER1HXI=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK25-Hqh2pzHEwICG-z9-dauzSoK-gv-EAMERXYceeG3tKEpQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWoJT1OpkxQH3JxQScJSGLI14Xojbs8rsgiLgp69Pn4FER1HXI=s100-p-k-no-mo"
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-15T13:03:11.954Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 99240-5069",
-    "comentarios": [],
-    "rating": "N/A"
+    ]
   },
   {
+    "id": "ChIJj3M6A7sxWpMRPBHWMP7tEF8",
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
+    "phone": "(61) 99914-1212",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-30T14:08:53.270Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-25T21:45:28.934Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-05-26T12:04:25.958Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-28T00:24:53.254Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJUZ_P2ww7WpMR_AHhV66dZWo",
+    "name": "Lixo eletrônico Brasília e descarte de informática",
+    "address": "SHCN CLN 207 bloco b loja 32 - Asa Norte, Brasília - DF, 70852-000, Brazil",
+    "latitude": -15.7639604,
+    "longitude": -47.881272900000006,
+    "googleMapsUri": "https://maps.google.com/?cid=7666707312792371708",
+    "phone": "(61) 98100-4756",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-10T06:24:20.943Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-02-22T09:38:56.775Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-06-09T00:52:03.826Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJqYF6UFoxWpMRVC2OClCtSmk",
+    "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
+    "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
+    "latitude": -15.780830799999999,
+    "longitude": -47.9845171,
+    "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
+    "phone": "(61) 3246-6068",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-22T22:40:45.532Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-02-27T00:28:57.898Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ4eJyfnvBpgARgX0ngPyBQSs",
+    "name": "EMILE Reciclagem de Eletroeletrônicos",
+    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
+    "latitude": -19.9453905,
+    "longitude": -43.9224724,
+    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265",
+    "phone": "(31) 3044-5280",
+    "rating": 3.9,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-05T11:35:37.831Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-11T18:56:26.993Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-05T19:14:09.598Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-29T10:09:17.572Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-25T18:55:57.672Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJv2MmpdCXpgARSr7-54cdXV4",
+    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
+    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
+    "latitude": -19.925871,
+    "longitude": -43.9527431,
+    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210",
+    "phone": "N/A",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-27T05:22:56.551Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-05-30T14:22:40.261Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-06-05T06:20:33.992Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJScupDlWapgAR_gzBA41jS7w",
+    "name": "SOS GREEN Gestão de Descarte Eletrônico",
+    "address": "R. Contagem, 868 - loja c - Santa Ines, Belo Horizonte - MG, 31080-255, Brazil",
+    "latitude": -19.8894554,
+    "longitude": -43.905776800000005,
+    "googleMapsUri": "https://maps.google.com/?cid=13568047759688273150",
+    "phone": "(31) 99546-5973",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-26T21:51:14.952Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJe49amB2apgAR_7mIYHmeskk",
+    "name": "Projeto Pro Verde - Lixo Eletrônico",
+    "address": "R. Itajubá, 170 A - Floresta, Belo Horizonte - MG, 30150-380, Brazil",
+    "latitude": -19.9151839,
+    "longitude": -43.9305077,
+    "googleMapsUri": "https://maps.google.com/?cid=5310481154771040767",
+    "phone": "(31) 99810-0038",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-19T07:24:49.087Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-24T03:10:43.585Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-04T11:52:21.938Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-21T01:47:49.229Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-01T19:42:50.221Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJxwoKs3E7WpMRqAPK8WN2p4k",
+    "name": "Coletor de vidro",
+    "address": "53FJ+J9 - Brasília, Federal District, 70360-510, Brazil",
+    "latitude": -15.825997199999998,
+    "longitude": -47.9191138,
+    "googleMapsUri": "https://maps.google.com/?cid=9919026875937194920",
+    "phone": "N/A",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-11T07:46:37.177Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-20T15:07:46.157Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-02-23T00:28:38.458Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJGfy2hLWQpgARIp2AyAzD7_s",
     "name": "Reciclar",
     "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
     "latitude": -19.900590599999997,
     "longitude": -43.9621804,
     "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhk1RNQuzeSO9hWUJh4vsclmJVLFNRaMregewfA_y7lDK3i2rX=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJHMeZg_KVgDaDe5VHljkdktIYLabwZgvkNnFksOtHaN8jEkQ=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(31) 98805-8425",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "name": "Inovar Ambiental Coleta, Transporte e Tratamento de Resíduos",
-    "address": "6058 e 6068 - Av. Beira-Rio - Distrito Industrial Simão da Cunha, Santa Luzia - MG, 33040-060, Brazil",
-    "latitude": -19.812075099999998,
-    "longitude": -43.8755677,
-    "googleMapsUri": "https://maps.google.com/?cid=7569988596260145198",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-08T15:37:03.608Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-06-04T14:38:45.694Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-31T20:08:32.251Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-7FYOSHSenvYjCxU23kkgKLd38VwoI1AwmTR4FtB2ZnoPwFhl=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-06-09T02:54:43.918Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 3508-1919",
-    "comentarios": [],
-    "rating": 4.6
+    ]
   },
   {
+    "id": "ChIJNTOwfZEzWpMRyOK7eDq-Iyk",
+    "name": "Ponto de Entrega Voluntária",
+    "address": "Águas Claras, Federal District, Brasília - Federal District, 71928-720, Brazil",
+    "latitude": -15.847560399999999,
+    "longitude": -48.032627600000005,
+    "googleMapsUri": "https://maps.google.com/?cid=2964422138082878152",
+    "phone": "N/A",
+    "rating": 4.2,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-23T06:17:45.688Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-11T03:24:43.519Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-02-16T12:20:47.197Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJzSuwdro7WpMRNK0s3lHjwC8",
     "name": "Instituto Nacional Pela Reciclagem",
     "address": "SHCN CLN 308 BL D - Asa Norte, Brasília - DF, 70747-540, Brazil",
     "latitude": -15.762928299999999,
     "longitude": -47.889289399999996,
     "googleMapsUri": "https://maps.google.com/?cid=3441000056070384948",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJzOGhyjsS3vsoB7tFvcWhU_645Azmg2inAq_xYBpHTtmGTAg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJzOGhyjsS3vsoB7tFvcWhU_645Azmg2inAq_xYBpHTtmGTAg=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 99861-1516",
-    "comentarios": [],
-    "rating": "N/A"
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-11T14:47:20.990Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   }
 ]

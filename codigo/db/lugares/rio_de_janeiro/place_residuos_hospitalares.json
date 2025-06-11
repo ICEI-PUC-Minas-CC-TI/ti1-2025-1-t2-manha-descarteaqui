@@ -6,14 +6,28 @@
     "latitude": -22.864494000000004,
     "longitude": -43.245043,
     "googleMapsUri": "https://maps.google.com/?cid=16220843216885449966",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXtS9Lq-O1d6WO5W8QCWydD7rIHbScFJxayo85U-iwqUOPQRo9I=s100-p-k-no-mo"
-      }
-    ],
     "phone": "3104-2992",
-    "comentarios": [],
-    "rating": 3.1
+    "rating": 3.1,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-18T07:22:46.841Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-25T07:12:51.820Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJ7RmBT3dhmQARsdGAA32WLrA",
@@ -22,29 +36,37 @@
     "latitude": -22.911495799999997,
     "longitude": -43.176810499999995,
     "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 98381-0591",
-    "comentarios": [],
-    "rating": 4.5
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-06-06T14:35:25.876Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-02-21T14:18:19.265Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-25T00:13:55.691Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJ7wUhSbndmwARKhpmfxo2rE4",
@@ -53,36 +75,37 @@
     "latitude": -23.017250999999998,
     "longitude": -43.4577489,
     "googleMapsUri": "https://maps.google.com/?cid=5668965518387059242",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW_qKEK9igodFdeCp6zRFtLVERaVKnh0jHMKLD8glpsJnCh5Qs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW_qKEK9igodFdeCp6zRFtLVERaVKnh0jHMKLD8glpsJnCh5Qs=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 99721-7458",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
-    "name": "ColetAmbiental coletamos sem custos",
-    "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
-    "latitude": -22.9108488,
-    "longitude": -43.177166299999996,
-    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-14T03:04:47.866Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-11T05:27:35.532Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-06-01T01:41:33.836Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 96930-9009",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
     "id": "ChIJKzfx5eB7mQAREY04-3M7Pcg",
@@ -92,24 +115,75 @@
     "longitude": -43.2548373,
     "googleMapsUri": "https://maps.google.com/?cid=14428754150487002385",
     "phone": "(21) 2260-5345",
-    "comentarios": [],
-    "rating": 3.8
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-14T21:28:20.084Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-17T12:08:47.102Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJ3eF_EIaZpgARXmOK6jjzvto",
-    "name": "CRBIOLOGIC - Coleta de Resíduos",
-    "address": "R. Cocáis, 555 - Esplanada, Belo Horizonte - MG, 30280-150, Brazil",
-    "latitude": -19.9032904,
-    "longitude": -43.901461399999995,
-    "googleMapsUri": "https://maps.google.com/?cid=15762303171621970782",
-    "photos": [
+    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
+    "name": "ColetAmbiental coletamos sem custos",
+    "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
+    "latitude": -22.9108488,
+    "longitude": -43.177166299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
+    "phone": "(21) 96930-9009",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIJHOZ8IyBYVhi7bAjB94INy_gshTLXpGB_8zMX6xv2_VtKVw=s100-p-k-no-mo"
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-12T21:46:36.649Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-16T03:59:32.286Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-18T14:51:30.122Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-25T10:58:20.241Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 99984-0162",
-    "comentarios": [],
-    "rating": 4
+    ]
   },
   {
     "id": "ChIJGZqfeSh9mQARR7f_GDEbmHU",
@@ -118,39 +192,112 @@
     "latitude": -22.8838807,
     "longitude": -43.261330199999996,
     "googleMapsUri": "https://maps.google.com/?cid=8473552596584347463",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUNZW46RvS0M7_rL2WFiA7A7gl3wTv5C2ciH5El1My4MIr8MrLe=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 2595-1661",
-    "comentarios": [],
-    "rating": 4.6
+    "rating": 4.6,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-02-26T12:13:52.908Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-01T14:03:14.262Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-02-24T16:45:35.306Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-25T04:48:02.997Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-06-04T02:13:39.619Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJb-e-RsxbpAcRL9yGE8ZfV6Q",
-    "name": "Waste Coleta de Resíduos Hospitalares",
-    "address": "Sítio Mãe D'Água, SN - Zona Rural, Sousa - PB, 58814-000, Brazil",
-    "latitude": -6.8168527,
-    "longitude": -38.2067461,
-    "googleMapsUri": "https://maps.google.com/?cid=11842039049529777199",
-    "photos": [
+    "id": "ChIJ3eF_EIaZpgARXmOK6jjzvto",
+    "name": "CRBIOLOGIC - Coleta de Resíduos",
+    "address": "R. Cocáis, 555 - Esplanada, Belo Horizonte - MG, 30280-150, Brazil",
+    "latitude": -19.9032904,
+    "longitude": -43.901461399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=15762303171621970782",
+    "phone": "(31) 99984-0162",
+    "rating": 4.1,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ4a0uej0Ez11jxekYtkiM9BVoH06ESJJzcbQYKBho8IkGrbg=s100-p-k-no-mo"
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-04T04:29:45.227Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ4a0uej0Ez11jxekYtkiM9BVoH06ESJJzcbQYKBho8IkGrbg=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-24T02:06:54.517Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKAbNeY1P5reemqblabHReg-t94dSz4hntw4RIKajv-NnA9_g=s100-p-k-no-mo"
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-22T14:15:01.360Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKAbNeY1P5reemqblabHReg-t94dSz4hntw4RIKajv-NnA9_g=s100-p-k-no-mo"
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-24T12:45:34.090Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-16T04:29:22.360Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(83) 99444-1461",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
     "id": "ChIJsbQ-qErrrAcRKV63rtSBkqQ",
@@ -159,29 +306,19 @@
     "latitude": -7.2489215,
     "longitude": -34.9363416,
     "googleMapsUri": "https://maps.google.com/?cid=11858683519284239913",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVFZyC8JnUWql1fX-UZRUA6JPKDziTiIuNREhmMZAbqlLPyhcqf=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVFZyC8JnUWql1fX-UZRUA6JPKDziTiIuNREhmMZAbqlLPyhcqf=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVFZyC8JnUWql1fX-UZRUA6JPKDziTiIuNREhmMZAbqlLPyhcqf=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVFZyC8JnUWql1fX-UZRUA6JPKDziTiIuNREhmMZAbqlLPyhcqf=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVFZyC8JnUWql1fX-UZRUA6JPKDziTiIuNREhmMZAbqlLPyhcqf=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVFZyC8JnUWql1fX-UZRUA6JPKDziTiIuNREhmMZAbqlLPyhcqf=s100-p-k-no-mo"
-      }
-    ],
     "phone": "0800 800 8185",
-    "comentarios": [],
-    "rating": 3.9
+    "rating": 3.9,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-08T10:33:09.478Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJOSk6SiF7mQARSJiCgOc7vns",
@@ -190,33 +327,45 @@
     "latitude": -22.806673099999998,
     "longitude": -43.3149118,
     "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 3474-2901",
-    "comentarios": [],
-    "rating": 3.8
-  },
-  {
-    "id": "ChIJF27wAJ3hmwARjSWaEhHfpYg",
-    "name": "Empresa De Reciclagem",
-    "address": "Estr. João Melo, 229-319 - Campo Grande, Rio de Janeiro - RJ, 23092-080, Brazil",
-    "latitude": -22.873812299999997,
-    "longitude": -43.548788200000004,
-    "googleMapsUri": "https://maps.google.com/?cid=9846521424734987661",
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 5
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-27T22:16:38.964Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-11T04:43:22.498Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-31T22:29:41.777Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-06-01T23:51:13.049Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   }
 ]

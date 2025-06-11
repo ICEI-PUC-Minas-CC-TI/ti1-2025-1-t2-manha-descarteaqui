@@ -6,41 +6,55 @@
     "latitude": -22.8802505,
     "longitude": -43.611875,
     "googleMapsUri": "https://maps.google.com/?cid=5836774956441224499",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVmClZk1BZg7aIYh4_8j20I-MaA6YxkTy8AtGK76vzw7ijjGRno=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocK6LLKb844vhccRtGsobdowslcS_LRbY5okUSHCJYbVMQWb=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 97428-7991",
-    "comentarios": [],
-    "rating": 4.7
+    "rating": 4.7,
+    "comentarios": [
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-02-17T11:21:09.443Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-17T18:24:18.016Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-23T01:13:02.478Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-12T21:59:16.715Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-01T19:19:10.307Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJ7RmBT3dhmQARsdGAA32WLrA",
@@ -49,48 +63,46 @@
     "latitude": -22.911495799999997,
     "longitude": -43.176810499999995,
     "googleMapsUri": "https://maps.google.com/?cid=12695249863277859249",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUpY-5yTIm7TL_XeyF_x7eBBSSgJC0-h0ETomu5TFzU34SW5iPENw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV71fV0yR6jdC71yasqmoLtWBX-tnDqjL8wGSt-pM2dgO7RF0E=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 98381-0591",
-    "comentarios": [],
-    "rating": 4.5
-  },
-  {
-    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
-    "name": "ColetAmbiental coletamos sem custos",
-    "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
-    "latitude": -22.9108488,
-    "longitude": -43.177166299999996,
-    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
-    "photos": [
+    "rating": 4.5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-18T14:22:32.772Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKMhEc3PIrOaV5yzbYuIiN5Yq-WcDgrAe1Ea7b6u6tWvZtwow=s100-p-k-no-mo"
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-05-14T15:29:53.941Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-02-27T05:25:06.937Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-05-01T21:25:47.353Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 96930-9009",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
     "id": "ChIJszee491_mQAR1dnesCIoczE",
@@ -99,75 +111,103 @@
     "latitude": -22.952818999999998,
     "longitude": -43.194846999999996,
     "googleMapsUri": "https://maps.google.com/?cid=3563235859641588181",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMou9SHN1rYgtRawHjVtkK9f2RGxU-tZiuEUq3txQmwvuKMOc=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 96966-1792",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-16T03:14:52.513Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-03T23:51:32.761Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-17T13:28:00.579Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-02T12:28:37.320Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-28T12:28:55.095Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJnU12fDp8mQARVviiTHF2Zkc",
-    "name": "COOPAMA - Cooperativa Popular Amigos do Meio Ambiente Ltda",
-    "address": "R. Miguel Ângelo, 385 - Maria da Graça, Rio de Janeiro - RJ, 20785-901, Brazil",
-    "latitude": -22.8862123,
-    "longitude": -43.264534399999995,
-    "googleMapsUri": "https://maps.google.com/?cid=5144929853306501206",
-    "photos": [
+    "id": "ChIJHWsr2cF7mQARvORRce3hmog",
+    "name": "ColetAmbiental coletamos sem custos",
+    "address": "R. Sen. Dantas - Centro, Rio de Janeiro - RJ, 21240-330, Brazil",
+    "latitude": -22.9108488,
+    "longitude": -43.177166299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=9843428345496331452",
+    "phone": "(21) 96930-9009",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-11T15:08:24.558Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-07T07:16:46.546Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-04-17T12:00:49.943Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVsek9ZKAG2HOkw3btKaQJljGLgs17geGubLVJPtbGBZuYnZHr6nQ=s100-p-k-no-mo"
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-30T14:11:30.229Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 3215-7030",
-    "comentarios": [],
-    "rating": 4.4
+    ]
   },
   {
     "id": "ChIJXWNG1fVWZ0oRT642crP9Wj8",
@@ -176,144 +216,76 @@
     "latitude": -22.903044599999998,
     "longitude": -43.1114259,
     "googleMapsUri": "https://maps.google.com/?cid=4565240119450578511",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWoh5XgtCeaasn8yn9W0rRiLLMxD6bXH_-v2GWw5_7IjNLJa38=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(21) 4126-8837",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-05-04T10:07:48.085Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-27T11:36:10.211Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJnVOdInffmwAREH8QZ9TBxNI",
-    "name": "Descarte Rápido",
-    "address": "Rua Alianca, 101 - Padre Miguel, Rio de Janeiro - RJ, 21775-040, Brazil",
-    "latitude": -22.885588,
-    "longitude": -43.441951,
-    "googleMapsUri": "https://maps.google.com/?cid=15187476961406517008",
-    "photos": [
+    "id": "ChIJMVHUFJLZmwARX88pG4tHaFo",
+    "name": "COLETA DE LIXO ELETRÔNICO",
+    "address": "Rua Vale dos Ipês - Jacarepaguá, Rio de Janeiro - RJ, 22710-675, Brazil",
+    "latitude": -22.9476359,
+    "longitude": -43.383663,
+    "googleMapsUri": "https://maps.google.com/?cid=6514535523773173599",
+    "phone": "N/A",
+    "rating": 4,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-04T12:38:55.529Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-31T20:56:36.734Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-17T20:37:07.343Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWFiA7Ya2lFY7NEBFm1UCKiN0vUBoA090VtaxmZXHT0xSd9ewOE9g=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-06-08T20:31:12.849Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 96476-8548",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "id": "ChIJt7AQDS19mQARuWxwqQvij68",
-    "name": "Recicla-RJ",
-    "address": "R. Silva Braga, 43 - Piedade, Rio de Janeiro - RJ, 20740-500, Brazil",
-    "latitude": -22.900550799999998,
-    "longitude": -43.3151406,
-    "googleMapsUri": "https://maps.google.com/?cid=12650578418022247609",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWGpCnm5kkGBcKh55_KMNuosWbLHRo7jJzK3Ae41WL8mCkpwj0=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVAWSq_x92ToxKYFqE6OZuz1bIvLgtNYz9Rovp-pKXX_EPSoOo=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(21) 99297-3547",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "id": "ChIJZ851xBJmmQAR4Hu92VGaO8w",
-    "name": "VIDRO LIMPO",
-    "address": "Estrada Da Prata, 476 - Andrade Araujo, Belford Roxo - RJ, 26135-005, Brazil",
-    "latitude": -22.748355699999998,
-    "longitude": -43.4178183,
-    "googleMapsUri": "https://maps.google.com/?cid=14716525883699330016",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNZwG2Bew6CYtM7JDTYZ_dkDQfzZu0HI9Og8X59AmBanXoCJGeeA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNZwG2Bew6CYtM7JDTYZ_dkDQfzZu0HI9Og8X59AmBanXoCJGeeA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNZwG2Bew6CYtM7JDTYZ_dkDQfzZu0HI9Og8X59AmBanXoCJGeeA=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(21) 3684-2820",
-    "comentarios": [],
-    "rating": 4.5
-  },
-  {
-    "id": "ChIJOeSZJO19mQARjlOYfMmAFnM",
-    "name": "COOPIDEAL - Cooperativa de Trabalho e Produção dos Catadores de Materiais Recicláveis IDEAL",
-    "address": "Rua Miguel Ângelo, 385 Galpão N - Maria da Graça, Rio de Janeiro - RJ, 20785-222, Brazil",
-    "latitude": -22.8865165,
-    "longitude": -43.2645622,
-    "googleMapsUri": "https://maps.google.com/?cid=8292957366716486542",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXdfpdu54D9WAdiJWOWay3awQVs7KQ_KRge0iOyOTKkwXHPyh6U=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(21) 98000-7958",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
     "id": "ChIJl2MVLwSZpgARHl869LQYMr4",
@@ -323,8 +295,219 @@
     "longitude": -43.9345631,
     "googleMapsUri": "https://maps.google.com/?cid=13705043781512486686",
     "phone": "N/A",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-22T21:38:05.307Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-24T19:43:16.966Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJZ851xBJmmQAR4Hu92VGaO8w",
+    "name": "VIDRO LIMPO",
+    "address": "Estrada Da Prata, 476 - Andrade Araujo, Belford Roxo - RJ, 26135-005, Brazil",
+    "latitude": -22.748355699999998,
+    "longitude": -43.4178183,
+    "googleMapsUri": "https://maps.google.com/?cid=14716525883699330016",
+    "phone": "(21) 3684-2820",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-06-02T04:42:29.854Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-05-15T15:32:24.617Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-06-10T02:45:40.040Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-05-27T07:04:38.994Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-28T18:18:31.949Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJt7AQDS19mQARuWxwqQvij68",
+    "name": "Recicla-RJ",
+    "address": "R. Silva Braga, 43 - Piedade, Rio de Janeiro - RJ, 20740-500, Brazil",
+    "latitude": -22.900550799999998,
+    "longitude": -43.3151406,
+    "googleMapsUri": "https://maps.google.com/?cid=12650578418022247609",
+    "phone": "(21) 99297-3547",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-29T20:21:28.590Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-25T03:11:00.689Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-12T09:57:20.912Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-06-03T16:47:42.986Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-04-17T14:25:08.038Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJOeSZJO19mQARjlOYfMmAFnM",
+    "name": "COOPIDEAL - Cooperativa de Trabalho e Produção dos Catadores de Materiais Recicláveis IDEAL",
+    "address": "Rua Miguel Ângelo, 385 Galpão N - Maria da Graça, Rio de Janeiro - RJ, 20785-222, Brazil",
+    "latitude": -22.8865165,
+    "longitude": -43.2645622,
+    "googleMapsUri": "https://maps.google.com/?cid=8292957366716486542",
+    "phone": "(21) 98000-7958",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-11T11:12:46.956Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJnU12fDp8mQARVviiTHF2Zkc",
+    "name": "COOPAMA - Cooperativa Popular Amigos do Meio Ambiente Ltda",
+    "address": "R. Miguel Ângelo, 385 - Maria da Graça, Rio de Janeiro - RJ, 20785-901, Brazil",
+    "latitude": -22.8862123,
+    "longitude": -43.264534399999995,
+    "googleMapsUri": "https://maps.google.com/?cid=5144929853306501206",
+    "phone": "(21) 3215-7030",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-25T14:50:00.997Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-01T05:28:42.925Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-08T18:37:01.882Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-19T12:05:41.877Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-13T00:54:15.735Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJ3znM-95_mQARl6S33xzmHM4",
@@ -333,78 +516,154 @@
     "latitude": -22.9539835,
     "longitude": -43.1969826,
     "googleMapsUri": "https://maps.google.com/?cid=14851998682847880343",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ2r3pOAOEmYnUP5BLi9vFACuQsu41XDjUdlYUvRGidGQmhZa0=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVY5Q_P2wOm_GTy-yLozU6057jyI8RxKRpO_wd4Fkzxe7C59Rs4gw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLqDU7JaNpdA_YjrIhxoYOIEOpZw4fz_EtHWz1Ryk1wUR8P=s100-p-k-no-mo"
-      }
-    ],
     "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.6
+    "rating": 4.6,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-03-16T20:40:01.877Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-28T13:52:17.262Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-01T13:43:23.276Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJ22I-gEd9mQARI26-OtzOgTQ",
-    "name": "BOTAFOGO RECICLAGEM",
-    "address": "R. Francisco Bernardino, 77 - Riachuelo, Rio de Janeiro - RJ, 20961-060, Brazil",
-    "latitude": -22.8997122,
-    "longitude": -43.258443,
-    "googleMapsUri": "https://maps.google.com/?cid=3783532607241612835",
-    "photos": [
+    "id": "ChIJnVOdInffmwAREH8QZ9TBxNI",
+    "name": "Descarte Rápido",
+    "address": "Rua Alianca, 101 - Padre Miguel, Rio de Janeiro - RJ, 21775-040, Brazil",
+    "latitude": -22.885588,
+    "longitude": -43.441951,
+    "googleMapsUri": "https://maps.google.com/?cid=15187476961406517008",
+    "phone": "(21) 96476-8548",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-28T14:03:26.375Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-15T18:59:19.039Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyatZWhfBVHSjFnsBPUiPrw74DBxMj8C_WGXTVX2fvrTjzlg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJ5Ad2FO6TzSz6XZUH0MfgIkFJZZ-rSk-C7WBFPcFBQ3MN2fw=s100-p-k-no-mo"
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-03T07:16:45.595Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 99979-3018",
-    "comentarios": [],
-    "rating": "N/A"
+    ]
+  },
+  {
+    "id": "ChIJOSk6SiF7mQARSJiCgOc7vns",
+    "name": "Coop Ceu Azul",
+    "address": "R. Isidro Rocha, 70 - Vigário Geral, Rio de Janeiro - RJ, 21241-180, Brazil",
+    "latitude": -22.806673099999998,
+    "longitude": -43.3149118,
+    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240",
+    "phone": "(21) 3474-2901",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-31T03:58:31.984Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-05-21T00:01:50.108Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-28T11:43:58.454Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-05-08T19:40:31.657Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJh997zaV7mQARwIqHn5TEWQc",
+    "name": "ARO Coleta de Lixo Eletronico",
+    "address": "R. da Batata, 112 - Penha Circular, Rio de Janeiro - RJ, 21011-020, Brazil",
+    "latitude": -22.820231099999997,
+    "longitude": -43.2782729,
+    "googleMapsUri": "https://maps.google.com/?cid=529670573803408064",
+    "phone": "(21) 97592-8174",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-31T08:09:07.767Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-06-06T15:04:43.745Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJZ_tUUSF7mQARt1YuNzaSxic",
@@ -414,60 +673,45 @@
     "longitude": -43.3123937,
     "googleMapsUri": "https://maps.google.com/?cid=2866138974419572407",
     "phone": "(21) 97085-8896",
-    "comentarios": [],
-    "rating": 4.3
-  },
-  {
-    "id": "ChIJOSk6SiF7mQARSJiCgOc7vns",
-    "name": "Coop Ceu Azul",
-    "address": "R. Isidro Rocha, 70 - Vigário Geral, Rio de Janeiro - RJ, 21241-180, Brazil",
-    "latitude": -22.806673099999998,
-    "longitude": -43.3149118,
-    "googleMapsUri": "https://maps.google.com/?cid=8916630177719687240",
-    "photos": [
+    "rating": 4.3,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-06-04T22:16:24.612Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-01T07:45:21.798Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIKCZSQql4ywKeVCewzszhht6vGaZAq4t71A_bE1o8OjksV-w=s100-p-k-no-mo"
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-02-24T03:22:59.033Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXq5J88j0CuNA6MEgzYP9GFDCUh2abtgiXH7QxvB1j1zf9TkFAv=s100-p-k-no-mo"
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-07T01:49:26.367Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 3474-2901",
-    "comentarios": [],
-    "rating": 3.8
-  },
-  {
-    "id": "ChIJMVHUFJLZmwARX88pG4tHaFo",
-    "name": "COLETA DE LIXO ELETRÔNICO",
-    "address": "Rua Vale dos Ipês - Jacarepaguá, Rio de Janeiro - RJ, 22710-675, Brazil",
-    "latitude": -22.9476359,
-    "longitude": -43.383663,
-    "googleMapsUri": "https://maps.google.com/?cid=6514535523773173599",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWBwlDpN1MBK9SprlBUXjmO9yQoHpyTPZx4mII1XEH3pE6WFJk=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4
-  },
-  {
-    "id": "ChIJ4Z1tPxzVmwARqijDE6lP_tE",
-    "name": "Ecopontos Cabritos",
-    "address": "R. Euclídes da Rocha, 600 - Copacabana, Rio de Janeiro - RJ, 22031-100, Brazil",
-    "latitude": -22.9650155,
-    "longitude": -43.1946392,
-    "googleMapsUri": "https://maps.google.com/?cid=15131619385611069610",
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": "N/A"
+    ]
   },
   {
     "id": "ChIJ__8YueZ_mQARUl6u85Kxog8",
@@ -477,27 +721,114 @@
     "longitude": -43.1902751,
     "googleMapsUri": "https://maps.google.com/?cid=1126658101507677778",
     "phone": "N/A",
-    "comentarios": [],
-    "rating": "N/A"
-  },
-  {
-    "id": "ChIJh997zaV7mQARwIqHn5TEWQc",
-    "name": "ARO Coleta de Lixo Eletronico",
-    "address": "R. da Batata, 112 - Penha Circular, Rio de Janeiro - RJ, 21011-020, Brazil",
-    "latitude": -22.820231099999997,
-    "longitude": -43.2782729,
-    "googleMapsUri": "https://maps.google.com/?cid=529670573803408064",
-    "photos": [
+    "rating": "N/A",
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyj-oM80Y8IlsfBATTtZchGcYxBOSHmy1SENfymyqXlT_pnw=s100-p-k-no-mo"
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-25T22:23:32.430Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKyj-oM80Y8IlsfBATTtZchGcYxBOSHmy1SENfymyqXlT_pnw=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-25T17:54:58.935Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-16T04:14:53.989Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-05-01T00:17:28.692Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(21) 97592-8174",
-    "comentarios": [],
-    "rating": "N/A"
+    ]
+  },
+  {
+    "id": "ChIJYV8ewKqImQARUj-uxvOIrm0",
+    "name": "ABREID - RECICLAGEM DE LIXO ELETRÔNICO",
+    "address": "R. Max Albin, S/Nº, Quadra B, Lote 18 - Itaipu, Niterói - RJ, 24346-056, Brazil",
+    "latitude": -22.968517100000003,
+    "longitude": -43.0443699,
+    "googleMapsUri": "https://maps.google.com/?cid=7903404976673537874",
+    "phone": "(21) 3741-1890",
+    "rating": 4.2,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-26T14:58:16.787Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-22T16:34:33.256Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ4Z1tPxzVmwARqijDE6lP_tE",
+    "name": "Ecopontos Cabritos",
+    "address": "R. Euclídes da Rocha, 600 - Copacabana, Rio de Janeiro - RJ, 22031-100, Brazil",
+    "latitude": -22.9650155,
+    "longitude": -43.1946392,
+    "googleMapsUri": "https://maps.google.com/?cid=15131619385611069610",
+    "phone": "N/A",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-26T20:21:46.118Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-05-17T10:56:53.358Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-27T18:41:27.016Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJGS2nVDh_mQAR0XZ7ERw90o8",
@@ -507,7 +838,35 @@
     "longitude": -43.1926025,
     "googleMapsUri": "https://maps.google.com/?cid=10363412883294615249",
     "phone": "N/A",
-    "comentarios": [],
-    "rating": "N/A"
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-26T11:57:49.568Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-03T06:28:19.086Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-02-25T05:19:35.883Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   }
 ]

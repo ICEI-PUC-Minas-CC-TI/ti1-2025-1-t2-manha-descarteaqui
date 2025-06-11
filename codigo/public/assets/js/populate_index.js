@@ -304,7 +304,6 @@ async function aoSelecionarCidade(evento, mapa) {
   }
 }
 
-
 const modal = document.getElementById("placeModal");
 
 async function openModal(placeData) {
@@ -321,18 +320,40 @@ async function openModal(placeData) {
     document.getElementById("modalPlaceName").textContent = data.name;
     document.getElementById("modalPlaceAddress").textContent = data.address;
     document.getElementById("modalPlaceItems").textContent = placeData.tipo;
-    document.getElementById("modalPlaceImage").src = data.photos[0].uri;
 
     const userData = localStorage.getItem("user_data");
     if (userData) {
-      commentForm.style.display = "block";
+      commentForm.style.display = "flex";
       loginMessage.style.display = "none";
     } else {
       commentForm.style.display = "none";
       loginMessage.style.display = "block";
     }
     loadComments(placeData.id, placeData.cidade, placeData.tipo);
+    document.getElementById("submitComment").onclick = () => {
+      const commentText = document.getElementById("commentText").value;
+      const userData = localStorage.getItem("user_data");
+      if (userData && commentText) {
+        const user = JSON.parse(userData);
+        const commentData = {
+          id: placeData.id,
+          cidade: placeData.cidade,
+          tipo: placeData.tipo,
+          comentario: commentText,
+        };
+        const userComment = {
+          foto: user.user_img,
+          nome: user.nome,
+          email: user.email,
+        }
 
+        const allData = {
+          ...commentData,
+          ...userComment,
+        };
+        addCommentToList(allData);
+      }
+    };
     modal.style.display = "flex";
   } catch (Erro) {
     console.error("Erro ao carregar os dados do local:", Erro);
@@ -351,15 +372,25 @@ async function loadComments(id, cidade, tipo) {
     );
     const data = await response.json();
     data.map((comentario) => {
-      createComment(
+      const brDate = new Date(comentario.data).toLocaleDateString("pt-BR", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+      });
+      console.log(comentario);
+      const comment = createComment(
         comentario.user.foto,
         comentario.user.nome,
         comentario.user.email,
         comentario.comentario,
-        comentario.data || ""
+
+        brDate || ""
       );
+      document.getElementById("commentsList").appendChild(comment);
     });
-  } catch (error) {}
+  } catch (error) {
+    console.error("Erro ao carregar os comentários:", error);
+  }
 }
 
 // Função para criar um elemento de comentário
@@ -426,20 +457,45 @@ function createComment(
 }
 
 // Função para adicionar comentário à lista
-function addCommentToList(commentData) {
-  const commentsList = document.getElementById("commentsList");
-
-  if (commentsList) {
-    const commentElement = createComment(
-      commentData.avatarUrl,
-      commentData.userName,
-      commentData.userEmail,
-      commentData.commentText,
-      commentData.commentDate
+async function addCommentToList(commentData) {
+  try {
+    console.log("Adicionando comentário:", commentData);
+    const response = await fetch(
+      `/lugares/${commentData.cidade}/${commentData.tipo}/${commentData.id}/comentarios`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          comentario: commentData.comentario,
+          userData: {
+            nome: commentData.nome,
+            email: commentData.email,
+            foto: commentData.foto || "/assets/img/user.png",
+          },
+        }),
+      }
     );
-
-    commentsList.appendChild(commentElement);
-  } else {
-    console.error('Elemento com ID "commentsList" não encontrado.');
+    if (!response.ok) {
+      throw new Error("Erro ao adicionar comentário");
+    }
+    const data = await response.json();
+    const brDate = new Date(data.data).toLocaleDateString("pt-BR", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    });
+    const comment = createComment(
+      data.user.user_img,
+      data.user.nome,
+      data.user.email,
+      data.comentario,
+      brDate || ""
+    );
+    document.getElementById("commentsList").appendChild(comment);
+    document.getElementById("commentText").value = ""; // Limpa o campo de comentário
+  } catch (error) {
+    console.error("Erro ao adicionar comentário:", error);
   }
 }

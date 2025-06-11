@@ -1,110 +1,33 @@
 [
   {
-    "id": "ChIJMR9mKYyapgARNRrhkz_0U-E",
-    "name": "Reciclagem de Papel - Horizonte dos Papéis",
-    "address": "R. Ana Horta, 284 - Goiânia, Belo Horizonte - MG, 31960-210, Brazil",
-    "latitude": -19.857993099999998,
-    "longitude": -43.9027092,
-    "googleMapsUri": "https://maps.google.com/?cid=16236589635501890101",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUvIvv-MO-5xB3F360yv353-__glA5ST_d2J5bdX5Lfi5WKfsHB0A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUvIvv-MO-5xB3F360yv353-__glA5ST_d2J5bdX5Lfi5WKfsHB0A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUvIvv-MO-5xB3F360yv353-__glA5ST_d2J5bdX5Lfi5WKfsHB0A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKOWGTSpK-SRqUE12q1dBj6Utm2an3zPikBh3hXWJl8kR4vF2=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 3451-0770",
-    "comentarios": [
-      {
-        "id": 1,
-        "comentario": "test teste",
-        "user": {
-          "nome": "teste",
-          "email": "teste@email.com",
-          "foto": "teste"
-        }
-      }
-    ],
-    "rating": 5
-  },
-  {
-    "id": "ChIJkXt3cfibpgARHQdGrBcrRzk",
-    "name": "Decoferma",
-    "address": "MG-05, 332 - Ipê, Belo Horizonte - MG, 31930-010, Brazil",
-    "latitude": -19.861802400000002,
-    "longitude": -43.905193,
-    "googleMapsUri": "https://maps.google.com/?cid=4127314964182861597",
-    "phone": "(31) 2551-7532",
-    "comentarios": [],
-    "rating": 3
-  },
-  {
     "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
     "name": "MG Recicla Reciclagem de Lixo Eletrônico",
     "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
     "latitude": -19.9408104,
     "longitude": -44.0015892,
     "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWicXIlhB6OH1WXLIRTvFEjWL_d3NlF_TPGxmTA-Hoc_0HwbgM1rw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUw972RTu__mtFcIYuhSvgORu4CA4hQ27KXKa2AF31DrD_R-SfIXg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVHshK-mcGt84_KopDN0uR18pHFtf8tfI5hsCVF7mToSQrW_HP_=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(31) 3565-5294",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-02-19T11:29:55.766Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-19T08:48:43.561Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
@@ -113,52 +36,67 @@
     "latitude": -19.9570892,
     "longitude": -44.034969499999995,
     "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(31) 3063-0688",
-    "comentarios": [],
-    "rating": 5
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-13T03:58:09.047Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-04-29T18:03:13.760Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-02T03:06:07.004Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJcfGXlm-apgARszBRfjKlr7U",
-    "name": "Centro de Reciclagem - SLU GERLU NORDESTE",
-    "address": "R. Princesa Leopoldina, 485 - Ipiranga, Belo Horizonte - MG, 31160-120, Brazil",
-    "latitude": -19.885171,
-    "longitude": -43.9326114,
-    "googleMapsUri": "https://maps.google.com/?cid=13091864278075519155",
-    "phone": "(31) 3277-6092",
-    "comentarios": [],
-    "rating": 4.5
+    "id": "ChIJxQh-RVWXpgARyzcKdvCSKbI",
+    "name": "Reciclagem Horizonte BH",
+    "address": "R. Salomão Camargos, 54 - Jardinópolis, Belo Horizonte - MG, 30532-230, Brazil",
+    "latitude": -19.943107599999998,
+    "longitude": -44.0048183,
+    "googleMapsUri": "https://maps.google.com/?cid=12837953774266496971",
+    "phone": "(31) 3566-2752",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-02-17T12:25:27.261Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-02-23T08:23:31.067Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJ___rE02RpgARsUQZNa0yhGo",
@@ -168,51 +106,27 @@
     "longitude": -44.008953899999995,
     "googleMapsUri": "https://maps.google.com/?cid=7675315384447747249",
     "phone": "(31) 4042-1902",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "id": "ChIJxQh-RVWXpgARyzcKdvCSKbI",
-    "name": "Reciclagem Horizonte BH",
-    "address": "R. Salomão Camargos, 54 - Jardinópolis, Belo Horizonte - MG, 30532-230, Brazil",
-    "latitude": -19.943107599999998,
-    "longitude": -44.0048183,
-    "googleMapsUri": "https://maps.google.com/?cid=12837953774266496971",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-25T11:10:00.732Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J878Mphwf3EZLaZbj81E6IfiNmGsBE6MuDWsUOoCabG_vUiE=s100-p-k-no-mo"
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-11T04:39:38.624Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 3566-2752",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
     "id": "ChIJPch-5VqXpgARp3V5Xx5ASkg",
@@ -221,120 +135,37 @@
     "latitude": -19.9180323,
     "longitude": -43.9505427,
     "googleMapsUri": "https://maps.google.com/?cid=5209046418202391975",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkpPCFzghkgUW0nePPrxH0_JnVr8p1-SWkcvpkU67RXNoL67fc=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(31) 98529-5398",
-    "comentarios": [],
-    "rating": 4.8
-  },
-  {
-    "id": "ChIJGWBitcmbpgARwtqjm5KCMCM",
-    "name": "Centro Mineiro de Referência em Resíduos - CMRR",
-    "address": "Rua Belém, 40 - Pompéia, Belo Horizonte - MG, 30285-010, Brazil",
-    "latitude": -19.9054063,
-    "longitude": -43.8992335,
-    "googleMapsUri": "https://maps.google.com/?cid=2535670156397632194",
-    "photos": [
+    "rating": 4.8,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-sVIlhEp8-OWg4FCqRQkoIk9ZWknETycih5aKiimI5HfvMdL=s100-p-k-no-mo"
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-30T07:47:00.692Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUj6Ct1SlL9uHF7URwFzCE4Layx5K8eyT9eSJ1OuFGw929pYWOR=s100-p-k-no-mo"
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-03-17T10:54:42.866Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXxcOwHgZPCsSGPOgF7VSAcm0bssg0kHABfKCN9R1zuZ9_XPQ4vCQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-sVIlhEp8-OWg4FCqRQkoIk9ZWknETycih5aKiimI5HfvMdL=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-sVIlhEp8-OWg4FCqRQkoIk9ZWknETycih5aKiimI5HfvMdL=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUj6Ct1SlL9uHF7URwFzCE4Layx5K8eyT9eSJ1OuFGw929pYWOR=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXxcOwHgZPCsSGPOgF7VSAcm0bssg0kHABfKCN9R1zuZ9_XPQ4vCQ=s100-p-k-no-mo"
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-29T20:50:23.252Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 3277-7626",
-    "comentarios": [],
-    "rating": 4.5
-  },
-  {
-    "id": "ChIJs_bIRgqRpgARVnQuBQCvJHs",
-    "name": "URPV - Unidade de Recebimento de Pequenos Volumes - Liberdade",
-    "address": "R. Flôr de Índio, 105 - Liberdade, Belo Horizonte - MG, 31270-215, Brazil",
-    "latitude": -19.8656786,
-    "longitude": -43.9556073,
-    "googleMapsUri": "https://maps.google.com/?cid=8873409580448511062",
-    "phone": "(31) 3277-7963",
-    "comentarios": [],
-    "rating": 4.3
-  },
-  {
-    "id": "ChIJAxAw81qXpgAR3SF2_YzziPw",
-    "name": "Asmare",
-    "address": "Av. do Contorno, 10555 - Barro Preto, Belo Horizonte - MG, 30110-072, Brazil",
-    "latitude": -19.9175446,
-    "longitude": -43.9504048,
-    "googleMapsUri": "https://maps.google.com/?cid=18197062081263837661",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWcDniMDgr-LSI0XQsyFs0N_0BkJEiIe5UR6oRTgVghCpkgML2s=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXQnhz2iAZNN-VQFzcn-jzbg4FNvrlhpc4ZzTFo8DAqC7ZMsYpTnw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXQnhz2iAZNN-VQFzcn-jzbg4FNvrlhpc4ZzTFo8DAqC7ZMsYpTnw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3bMaL4xDaXIyybZTr7Q24cjkiOPxgVI_n3BruJVfg3Gqpq3S=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXSC4J2j0CAkIlzdToAJDXIBhZ5V6_Zu5oBfd_pUnC6e7lKMIwmdQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXSC4J2j0CAkIlzdToAJDXIBhZ5V6_Zu5oBfd_pUnC6e7lKMIwmdQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWGlaQOvIxc_cTNM-d9oCXHEa12P0qIgCeakd3BQbabpcIfjTnEdA=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 99350-0099",
-    "comentarios": [],
-    "rating": 4.4
+    ]
   },
   {
     "id": "ChIJ3eqGPTuWpgARMwyZU1jvPWc",
@@ -343,26 +174,28 @@
     "latitude": -19.9579473,
     "longitude": -43.994594299999996,
     "googleMapsUri": "https://maps.google.com/?cid=7439365322124626995",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIitAnIe3w8EEiKavgH1NbuZUmZAH-70Pd652GHPqSedUbK_A=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(31) 3191-6026",
-    "comentarios": [],
-    "rating": 4.6
+    "rating": 4.6,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-31T17:49:31.163Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-11T07:27:49.147Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJg-N7gPO9pgARHFcysmAXZBY",
@@ -371,161 +204,106 @@
     "latitude": -19.9719886,
     "longitude": -44.018167,
     "googleMapsUri": "https://maps.google.com/?cid=1613440270579423004",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJkD1R__JyMmFrL4sGTnKclgm4PYgJOgslLCUeXtB5ha923bQ=s100-p-k-no-mo"
-      }
-    ],
     "phone": "0800 303 0399",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "id": "ChIJF5_CjFmXpgARq1NgtfeQD60",
-    "name": "Associrecicle - Associação Dos Recicladores De Bh",
-    "address": "Jardinópolis, Belo Horizonte - MG, 30532-210, Brazil",
-    "latitude": -19.918289599999998,
-    "longitude": -43.948134599999996,
-    "googleMapsUri": "https://maps.google.com/?cid=12470345286786503595",
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": "N/A"
-  },
-  {
-    "id": "ChIJGfy2hLWQpgARIp2AyAzD7_s",
-    "name": "Reciclar",
-    "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
-    "latitude": -19.900590599999997,
-    "longitude": -43.9621804,
-    "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXhk1RNQuzeSO9hWUJh4vsclmJVLFNRaMregewfA_y7lDK3i2rX=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJHMeZg_KVgDaDe5VHljkdktIYLabwZgvkNnFksOtHaN8jEkQ=s100-p-k-no-mo"
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-10T23:56:40.540Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 98805-8425",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
-    "id": "ChIJoZVg-0qPpgART33k23bgmkk",
-    "name": "Ferro Velho LVC",
-    "address": "Rua Marte, 520 - Juliana, Belo Horizonte - MG, 31748-022, Brazil",
-    "latitude": -19.813084800000002,
-    "longitude": -43.946687,
-    "googleMapsUri": "https://maps.google.com/?cid=5303798312282127695",
-    "photos": [
+    "id": "ChIJAxAw81qXpgAR3SF2_YzziPw",
+    "name": "Asmare",
+    "address": "Av. do Contorno, 10555 - Barro Preto, Belo Horizonte - MG, 30110-072, Brazil",
+    "latitude": -19.9175446,
+    "longitude": -43.9504048,
+    "googleMapsUri": "https://maps.google.com/?cid=18197062081263837661",
+    "phone": "(31) 99350-0099",
+    "rating": 4.4,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-27T02:18:19.312Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-01T11:36:47.125Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnPRTZGhQoK_YlbpBWoi-FyoAhS5AXtEO6OaRRBucbQO3bEgn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUNf7MLME1dLl1X0nc-vQr4EKRUKjNIgpUYMJnapcBVszA9b-z_=s100-p-k-no-mo"
+        "comentario": "Muito bem organizado.",
+        "data": "2025-02-28T11:34:36.924Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 97579-5389",
-    "comentarios": [],
-    "rating": 4.7
+    ]
   },
   {
-    "id": "ChIJ4eJyfnvBpgARgX0ngPyBQSs",
-    "name": "EMILE Reciclagem de Eletroeletrônicos",
-    "address": "Av. Afonso Pena, 4000 - Centro, Belo Horizonte - MG, 30130-009, Brazil",
-    "latitude": -19.9453905,
-    "longitude": -43.9224724,
-    "googleMapsUri": "https://maps.google.com/?cid=3116915338598907265",
-    "photos": [
+    "id": "ChIJtXmO79SVpgARomeG7V3OG8o",
+    "name": "AMBIENTAL MATERIAIS RECICLÁVEIS",
+    "address": "R. Alfa, 455 - Vila Paris, Contagem - MG, 32372-080, Brazil",
+    "latitude": -19.922455700000004,
+    "longitude": -44.0237963,
+    "googleMapsUri": "https://maps.google.com/?cid=14563460722844919714",
+    "phone": "(31) 3393-1718",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-04-27T11:23:36.095Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-28T06:51:35.829Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-04-19T01:39:46.907Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYAx_nVQWinaxqrJvkF_6VtmVbeLZltSrkEwknB_JKa4Lq1Wo=s100-p-k-no-mo"
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-10T15:32:35.454Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 3044-5280",
-    "comentarios": [],
-    "rating": 3.9
-  },
-  {
-    "id": "ChIJe7g-B0-RpgARhnHoItlwglA",
-    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
-    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
-    "latitude": -19.876649699999998,
-    "longitude": -43.9940334,
-    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkKUsbVkZM591dQPh-8xD7CLRhqKgYnBDuEgUKW5qIOkpGig=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 3277-7422",
-    "comentarios": [],
-    "rating": 3.8
+    ]
   },
   {
     "id": "ChIJ8eZDV2uWpgARyYIMu10uErI",
@@ -535,44 +313,416 @@
     "longitude": -44.0054553,
     "googleMapsUri": "https://maps.google.com/?cid=12831369268436959945",
     "phone": "(31) 3321-7517",
-    "comentarios": [],
-    "rating": 4
+    "rating": 4,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-05-04T12:51:47.428Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJ0wH2foeVpgARP2OMZuRC5wo",
-    "name": "Coletar Reciclagem de Eletrônicos",
-    "address": "R. Cel. Docha, 118 - Inconfidentes, Contagem - MG, 32340-260, Brazil",
-    "latitude": -19.9600366,
-    "longitude": -44.03767510000001,
-    "googleMapsUri": "https://maps.google.com/?cid=785670208739894079",
-    "photos": [
+    "id": "ChIJcfGXlm-apgARszBRfjKlr7U",
+    "name": "Centro de Reciclagem - SLU GERLU NORDESTE",
+    "address": "R. Princesa Leopoldina, 485 - Ipiranga, Belo Horizonte - MG, 31160-120, Brazil",
+    "latitude": -19.885171,
+    "longitude": -43.9326114,
+    "googleMapsUri": "https://maps.google.com/?cid=13091864278075519155",
+    "phone": "(31) 3277-6092",
+    "rating": 4.5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-26T17:01:19.197Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKR4pNC2h8bP_5BvDZTb4aP_9fnrJxxPZf8t6-XxPfajd9Ivg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLYQglbdW437UOnhx42riPvS5-s9oVzvBEQAGEu0t7HOi-U=s100-p-k-no-mo"
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-09T12:46:43.957Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(31) 99948-8586",
-    "comentarios": [],
-    "rating": 5
+    ]
+  },
+  {
+    "id": "ChIJMR9mKYyapgARNRrhkz_0U-E",
+    "name": "Reciclagem de Papel - Horizonte dos Papéis",
+    "address": "R. Ana Horta, 284 - Goiânia, Belo Horizonte - MG, 31960-210, Brazil",
+    "latitude": -19.857993099999998,
+    "longitude": -43.9027092,
+    "googleMapsUri": "https://maps.google.com/?cid=16236589635501890101",
+    "phone": "(31) 3451-0770",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-26T19:26:44.596Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-18T23:32:37.567Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-03-01T00:47:32.362Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-26T18:59:28.155Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-13T09:27:42.324Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJe7g-B0-RpgARhnHoItlwglA",
+    "name": "Ponto de Coleta de Lixo Eletrônico - PROPAM",
+    "address": "R. Rad. Ubaldo Ferreira, 20 - Castelo, Belo Horizonte - MG, 31330-294, Brazil",
+    "latitude": -19.876649699999998,
+    "longitude": -43.9940334,
+    "googleMapsUri": "https://maps.google.com/?cid=5801323347902493062",
+    "phone": "(31) 3277-7422",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-04-26T07:15:25.744Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-18T01:59:33.714Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-05-04T03:39:06.243Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJGfy2hLWQpgARIp2AyAzD7_s",
+    "name": "Reciclar",
+    "address": "Rua José Marra Freitas, 980 - Nova Esperança, Belo Horizonte - MG, 31230-290, Brazil",
+    "latitude": -19.900590599999997,
+    "longitude": -43.9621804,
+    "googleMapsUri": "https://maps.google.com/?cid=18153943082624654626",
+    "phone": "(31) 98805-8425",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-05-12T08:34:56.380Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-05-17T23:49:13.425Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-12T11:41:26.900Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-02-17T01:15:03.666Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJGWBitcmbpgARwtqjm5KCMCM",
+    "name": "Centro Mineiro de Referência em Resíduos - CMRR",
+    "address": "Rua Belém, 40 - Pompéia, Belo Horizonte - MG, 30285-010, Brazil",
+    "latitude": -19.9054063,
+    "longitude": -43.8992335,
+    "googleMapsUri": "https://maps.google.com/?cid=2535670156397632194",
+    "phone": "(31) 3277-7626",
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-17T03:22:49.315Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-10T17:47:13.787Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJF5_CjFmXpgARq1NgtfeQD60",
+    "name": "Associrecicle - Associação Dos Recicladores De Bh",
+    "address": "Jardinópolis, Belo Horizonte - MG, 30532-210, Brazil",
+    "latitude": -19.918289599999998,
+    "longitude": -43.948134599999996,
+    "googleMapsUri": "https://maps.google.com/?cid=12470345286786503595",
+    "phone": "N/A",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-18T04:12:59.066Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-12T02:18:29.460Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-15T11:48:20.196Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-06-08T21:01:37.747Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-26T02:32:59.269Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJic7H_nWRpgAR3mi0myKlba4",
+    "name": "Estação Circular",
+    "address": "Av. Santa Terezinha, 389 - Santa Terezinha, Belo Horizonte - MG, 31365-000, Brazil",
+    "latitude": -19.870242899999997,
+    "longitude": -44.0000487,
+    "googleMapsUri": "https://maps.google.com/?cid=12568883703120685278",
+    "phone": "N/A",
+    "rating": 3.3,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-17T15:10:37.145Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-06-04T09:06:57.250Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-13T04:05:13.856Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ6yzGadi_pgARFsBVD44Ui5g",
+    "name": "URPV - Unidade de Recebimento de Pequenos Volumes - Átila de Paiva",
+    "address": "Av. do Canal, 68 - Átila de Paiva, Belo Horizonte - MG, 30640-360, Brazil",
+    "latitude": -19.9762348,
+    "longitude": -44.0288099,
+    "googleMapsUri": "https://maps.google.com/?cid=10991901915903016982",
+    "phone": "(31) 3277-1537",
+    "rating": 3.5,
+    "comentarios": [
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-03-21T11:20:17.382Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-19T21:02:51.833Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJv2MmpdCXpgARSr7-54cdXV4",
+    "name": "Ecoponto E-MILE de Lixo Eletrônico (CTRL+Play)",
+    "address": "R. Bernardo Guimarães, 3000 - Santo Agostinho, Belo Horizonte - MG, 30140-083, Brazil",
+    "latitude": -19.925871,
+    "longitude": -43.9527431,
+    "googleMapsUri": "https://maps.google.com/?cid=6799623481949339210",
+    "phone": "N/A",
+    "rating": "N/A",
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-04-13T14:55:14.857Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-29T23:59:56.158Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-02T07:23:11.680Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-06-09T17:28:18.245Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJkXt3cfibpgARHQdGrBcrRzk",
+    "name": "Decoferma",
+    "address": "MG-05, 332 - Ipê, Belo Horizonte - MG, 31930-010, Brazil",
+    "latitude": -19.861802400000002,
+    "longitude": -43.905193,
+    "googleMapsUri": "https://maps.google.com/?cid=4127314964182861597",
+    "phone": "(31) 2551-7532",
+    "rating": 3,
+    "comentarios": [
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-05-06T04:17:55.806Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   }
 ]

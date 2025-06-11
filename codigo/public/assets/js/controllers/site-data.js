@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { func } = require("joi");
 const path = require("path");
 
 function tiposLixo(callback) {
@@ -207,14 +206,15 @@ function createComentario(cidade, tipo, id, comentario, userData, callback) {
       if (!lugar.comentarios) {
         lugar.comentarios = [];
       }
-
+      console.log("Creating comment:", comentario, userData);
       const newComentario = {
         id: lugar.comentarios.length + 1,
         comentario: comentario,
+        data: new Date().toISOString(),
         user: {
           nome: userData.nome,
           email: userData.email,
-          foto: userData.foto || "/assests/img/user.png",
+          foto: userData.foto || "/assets/images/male-avatar.svg",
         },
       };
       lugar.comentarios.push(newComentario);
@@ -224,7 +224,7 @@ function createComentario(cidade, tipo, id, comentario, userData, callback) {
           callback(writeErr, null);
           return;
         }
-        callback(null, lugar.comentarios || []);
+        callback(null, newComentario || []);
       });
     } catch (parseError) {
       console.error("Error parsing comments file:", parseError);

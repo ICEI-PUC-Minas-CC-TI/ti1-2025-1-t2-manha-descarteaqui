@@ -1,179 +1,33 @@
 [
   {
-    "id": "ChIJx3lwTyxazpQROMFvdTTuhI8",
-    "name": "Ecoponto Vila Mariana",
-    "address": "R. Afonso Celso, 147 - Vila Mariana, São Paulo - SP, 04119-002, Brazil",
-    "latitude": -23.592918299999997,
-    "longitude": -46.6349124,
-    "googleMapsUri": "https://maps.google.com/?cid=10341652553425469752",
-    "photos": [
+    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
+    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
+    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
+    "latitude": -19.9570892,
+    "longitude": -44.034969499999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
+    "phone": "(31) 3063-0688",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW5DOualDmB6qwrLsNxhjUQxB5ImXXFq1dz3P53mbV1K6UxCNo54g=s100-p-k-no-mo"
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-19T01:19:12.382Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLKiP_Dl7abnuzwGF8ykHbvuiG9PU0hqBNIZQC_E9KIfFRASA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOxBjm9JkCpC2IKHkkKjEhIGWRN69m3dc2cKGMKVNXnK36nW2O=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWL4zsOfoGatUTgxAHAdd7ZEEaAuNtxynfDznsWJDZQ00K9lN2keg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUr0cSrR1vnLsVJ5oPq2SFIpIOPa3frnvGINfNAhcBY3DrLutl3=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUr0cSrR1vnLsVJ5oPq2SFIpIOPa3frnvGINfNAhcBY3DrLutl3=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUr0cSrR1vnLsVJ5oPq2SFIpIOPa3frnvGINfNAhcBY3DrLutl3=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW5DOualDmB6qwrLsNxhjUQxB5ImXXFq1dz3P53mbV1K6UxCNo54g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWL4zsOfoGatUTgxAHAdd7ZEEaAuNtxynfDznsWJDZQ00K9lN2keg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVOxBjm9JkCpC2IKHkkKjEhIGWRN69m3dc2cKGMKVNXnK36nW2O=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-04-23T13:34:55.429Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.4
-  },
-  {
-    "id": "ChIJ96pyISRZzpQRkymUSYC95Wo",
-    "name": "Ecoponto Bresser",
-    "address": "Praça Giuseppe Cesari, 54 - Brás, São Paulo - SP, 03053-020, Brazil",
-    "latitude": -23.543787899999998,
-    "longitude": -46.606181299999996,
-    "googleMapsUri": "https://maps.google.com/?cid=7702771096375011731",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIX0dYFojGvnri7eYYOgm6tc9zLKHcMWIymG2RcSwwgfe2HDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWevZ4957Atv5_PTpdEuGVdSEYV5ox531UL2A3AGMJT4AhoczX8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJiB4FjK6CkvZIQBTyHNjsK6DlD22CFuICVZRKBc3ouj0-PRA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIX0dYFojGvnri7eYYOgm6tc9zLKHcMWIymG2RcSwwgfe2HDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIX0dYFojGvnri7eYYOgm6tc9zLKHcMWIymG2RcSwwgfe2HDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIX0dYFojGvnri7eYYOgm6tc9zLKHcMWIymG2RcSwwgfe2HDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWevZ4957Atv5_PTpdEuGVdSEYV5ox531UL2A3AGMJT4AhoczX8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-ElSMHHMpflfRrDV6PRu_uHlWiZgeNgxAku2lA3DO0bmaWMb7=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocIX0dYFojGvnri7eYYOgm6tc9zLKHcMWIymG2RcSwwgfe2HDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJiB4FjK6CkvZIQBTyHNjsK6DlD22CFuICVZRKBc3ouj0-PRA=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.4
-  },
-  {
-    "id": "ChIJ0SUJxoJWzpQRLsVp6eZfsVM",
-    "name": "Ecoponto Jardim Maria do Carmo",
-    "address": "R. Caminho do Engenho, 800 - Ferreira, São Paulo - SP, 05524-000, Brazil",
-    "latitude": -23.5954989,
-    "longitude": -46.7467549,
-    "googleMapsUri": "https://maps.google.com/?cid=6030706821388944686",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUS13TbiCiyXYyMagQbcNrzK7Nq0LX5xrVD1Oq-oVLa6hJIyC1m=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNOV-ZuTA8i5w47F0SrBPc-Uzq_hndrJLcN__wVNbTdFFd1WBZ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUS13TbiCiyXYyMagQbcNrzK7Nq0LX5xrVD1Oq-oVLa6hJIyC1m=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNOV-ZuTA8i5w47F0SrBPc-Uzq_hndrJLcN__wVNbTdFFd1WBZ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNOV-ZuTA8i5w47F0SrBPc-Uzq_hndrJLcN__wVNbTdFFd1WBZ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ7A4c-HEV_5o598_8jNdx2tdcty6L03wJuyOC73yiOTUNfKC5QA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNOV-ZuTA8i5w47F0SrBPc-Uzq_hndrJLcN__wVNbTdFFd1WBZ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXNOV-ZuTA8i5w47F0SrBPc-Uzq_hndrJLcN__wVNbTdFFd1WBZ=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.2
-  },
-  {
-    "id": "ChIJif1-Ea5ZzpQRi8XZhmFx-VI",
-    "name": "Ecoponto - Liberdade",
-    "address": "Rua Jaceguai, 67 - Liberdade, São Paulo - SP, 01315-010, Brazil",
-    "latitude": -23.556593499999998,
-    "longitude": -46.6372422,
-    "googleMapsUri": "https://maps.google.com/?cid=5978934643999229323",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU2GpCpnzolGHMV0_80IrrG3zVbjnmyvoI1HZimbbgeWPuRLCuV=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVhm8YxrD8t-tFxPd1_qkrUvusx6iZi_1tRv5jPY8C6bT21V_TX=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU2GpCpnzolGHMV0_80IrrG3zVbjnmyvoI1HZimbbgeWPuRLCuV=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLgCfhN0SQBr_OrGBFSblRx7--4H7MhPaGrEaFcks_26LF2d4Qq=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXOBpXkCdaCbW7WTBNjW7R1rtrBgQ1okuaaXLLfoypFCCZ3roQCWg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU2GpCpnzolGHMV0_80IrrG3zVbjnmyvoI1HZimbbgeWPuRLCuV=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWg5Ckq9Ifyd5PgDbEUOZZjYV9KDmANG263OeCUvX980HuiMuw=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.4
-  },
-  {
-    "id": "ChIJQ_7IgmJjzpQR0s8szkVSQ3I",
-    "name": "Ecoponto Pesqueiro",
-    "address": "R. Caiuás, 18 - Jardim Camargo Novo, São Paulo - SP, 08120-525, Brazil",
-    "latitude": -23.5011568,
-    "longitude": -46.389311799999994,
-    "googleMapsUri": "https://maps.google.com/?cid=8233515003528662994",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKxuxip8RgGkupTYm0ZWrUHX9JRUrFtVCLkpmUTesHpjCAQhA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVRpb3coIma9rVVltZEPvj784-0MBeE6sQnwDmSDANYljVdqvO_Ug=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.7
+    ]
   },
   {
     "id": "ChIJ4Xe_Mwn3zpQR2i3p3uuBgfk",
@@ -182,294 +36,97 @@
     "latitude": -23.470904500000003,
     "longitude": -46.649077999999996,
     "googleMapsUri": "https://maps.google.com/?cid=17978794037496851930",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUCovgrK8f4zyyfpgzK-9Vlbt_WDyMzMnwGUQkUmILCOgkFwZUK=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(11) 97752-2043",
-    "comentarios": [],
-    "rating": 4.9
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-05-10T12:23:16.498Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJGYeRclxWzpQRPSfOoN7gdZk",
-    "name": "Electronic Waste Disposal",
-    "address": "Av. Corifeu de Azevedo Marques, 1003 - Butantã, São Paulo - SP, 05581-000, Brazil",
-    "latitude": -23.573175799999998,
-    "longitude": -46.7242057,
-    "googleMapsUri": "https://maps.google.com/?cid=11057991706863347517",
-    "photos": [
+    "id": "ChIJb8GB2P29pgARp2IBqEDII_0",
+    "name": "MG Recicla Reciclagem de Lixo Eletrônico",
+    "address": "Rua Sararé, 47 - Jardinópolis, Belo Horizonte - MG, 30512-010, Brazil",
+    "latitude": -19.9408104,
+    "longitude": -44.0015892,
+    "googleMapsUri": "https://maps.google.com/?cid=18240643095802765991",
+    "phone": "(31) 3565-5294",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVEZWoiV4JxOa6wio8NLVnA2L1BMwxp0_PPrHJoTwo_geN1Qw4=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-23T03:05:44.148Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVEZWoiV4JxOa6wio8NLVnA2L1BMwxp0_PPrHJoTwo_geN1Qw4=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-22T10:42:09.133Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVEZWoiV4JxOa6wio8NLVnA2L1BMwxp0_PPrHJoTwo_geN1Qw4=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-22T02:54:50.289Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-02-19T12:14:35.488Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-06-07T18:50:40.464Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(11) 93218-5106",
-    "comentarios": [],
-    "rating": 4.7
+    ]
   },
   {
-    "id": "ChIJM-cf1slYzpQRiTVjQw5XTdM",
-    "name": "Ecoponto Vila Guilherme",
-    "address": "Rua José Bernardo Pinto, 1480 - Vila Guilherme, São Paulo - SP, 02055-001, Brazil",
-    "latitude": -23.517110600000002,
-    "longitude": -46.6004055,
-    "googleMapsUri": "https://maps.google.com/?cid=15225921633981248905",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXXVGBR1GFFdKR2FISQOa02iBvUeWFgiVrH8fU7ieaoCNPpYoyFOA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtiY846xY4k2lJcDfEvrexbg8SNLfUBuz8pZJHpLvuQRhQU4c8Hg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV8GPfRW9ma1dHnaldsMayyJxuM5WORiWrU7aqp6eBoJvY1h-RkDg=s100-p-k-no-mo"
-      }
-    ],
+    "id": "ChIJx3lwTyxazpQROMFvdTTuhI8",
+    "name": "Ecoponto Vila Mariana",
+    "address": "R. Afonso Celso, 147 - Vila Mariana, São Paulo - SP, 04119-002, Brazil",
+    "latitude": -23.592918299999997,
+    "longitude": -46.6349124,
+    "googleMapsUri": "https://maps.google.com/?cid=10341652553425469752",
     "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.1
-  },
-  {
-    "id": "ChIJKTQIDxZnzpQR90zzxzbO-IQ",
-    "name": "Ecoponto Vila Carmosina",
-    "address": "Av. Francisco Tranchesi, 110 - Vila Carmosina, São Paulo - SP, 08270-460, Brazil",
-    "latitude": -23.563014499999998,
-    "longitude": -46.464831100000005,
-    "googleMapsUri": "https://maps.google.com/?cid=9581634941908897015",
-    "photos": [
+    "rating": 4.4,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLeCrS3qT8ON0tYcj5uG9z9L8VpzXE7tUw_aPRsgb5hYXqZ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXsXjUy9ym0VLYP0eelyBN7DbPU7BWrWttcQ-HoBEhixDPeMBxw9g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLeCrS3qT8ON0tYcj5uG9z9L8VpzXE7tUw_aPRsgb5hYXqZ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVRpb3coIma9rVVltZEPvj784-0MBeE6sQnwDmSDANYljVdqvO_Ug=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVRpb3coIma9rVVltZEPvj784-0MBeE6sQnwDmSDANYljVdqvO_Ug=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXsXjUy9ym0VLYP0eelyBN7DbPU7BWrWttcQ-HoBEhixDPeMBxw9g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVRpb3coIma9rVVltZEPvj784-0MBeE6sQnwDmSDANYljVdqvO_Ug=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXsXjUy9ym0VLYP0eelyBN7DbPU7BWrWttcQ-HoBEhixDPeMBxw9g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVRpb3coIma9rVVltZEPvj784-0MBeE6sQnwDmSDANYljVdqvO_Ug=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLumvtfIRKKd0h5GlLRqcoAHzIl8LGJMY4f3ZZdMRWmcRlzAg=s100-p-k-no-mo"
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-20T03:46:16.145Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.4
-  },
-  {
-    "id": "ChIJfWNXNMFVzpQRl-3mdVQRvlI",
-    "name": "Ecoponto Politécnica",
-    "address": "Rua Paulino Baptista Conti - Vila Antonio, São Paulo - SP, 05382-140, Brazil",
-    "latitude": -23.5759364,
-    "longitude": -46.7650934,
-    "googleMapsUri": "https://maps.google.com/?cid=5962222011138108823",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXcsOJ-Qq7TotYMKjKwTIPlvzJS62J_tNzR8HLA1WdHRfDtdOF8OQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUUp_iIogpdjdY-sLge6JOxolOqXO7Qbmi1E5x8bwl4Pl2YfV0C=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjX9aqwHfq2M-VmoVS8eSKrVnOhjuysbyqYqgt3tXx-iPwNuBQrn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUUp_iIogpdjdY-sLge6JOxolOqXO7Qbmi1E5x8bwl4Pl2YfV0C=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXcsOJ-Qq7TotYMKjKwTIPlvzJS62J_tNzR8HLA1WdHRfDtdOF8OQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXcsOJ-Qq7TotYMKjKwTIPlvzJS62J_tNzR8HLA1WdHRfDtdOF8OQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjX9aqwHfq2M-VmoVS8eSKrVnOhjuysbyqYqgt3tXx-iPwNuBQrn=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3FYWunrYJnofjm5OahH5CPQ6QdcRzsktQaREB6t58ja6OAF1S1w=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXcsOJ-Qq7TotYMKjKwTIPlvzJS62J_tNzR8HLA1WdHRfDtdOF8OQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW3FYWunrYJnofjm5OahH5CPQ6QdcRzsktQaREB6t58ja6OAF1S1w=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "0800 777 7156",
-    "comentarios": [],
-    "rating": 4.3
-  },
-  {
-    "id": "ChIJ6-DkZchbzpQRQSXcdOPl1_g",
-    "name": "Ecoponto Santa Cruz",
-    "address": "R. Santa Cruz, 1452 - Vila Mariana, São Paulo - SP, 04122-001, Brazil",
-    "latitude": -23.5996354,
-    "longitude": -46.623348199999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17931053206479840577",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLKiP_Dl7abnuzwGF8ykHbvuiG9PU0hqBNIZQC_E9KIfFRASA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLKiP_Dl7abnuzwGF8ykHbvuiG9PU0hqBNIZQC_E9KIfFRASA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXR0_siiem89L1ZdoWrjRw9Mb76sX627kT8SlmIxpPceH9rWzwfRw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWmd0nznWc9_K8AjgFeZguFzXV5fD4rDncTqBtjc7pceO13q20Y=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJltX_OazoXqeGAMN1dQ6-cE5WRitMmB3SQ3bKm6etY34RWPg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXR0_siiem89L1ZdoWrjRw9Mb76sX627kT8SlmIxpPceH9rWzwfRw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocJY6AkDRO2ORq3lFdtFedBys3_Iop8zZAyVlCHXI8yb88A5gg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXR0_siiem89L1ZdoWrjRw9Mb76sX627kT8SlmIxpPceH9rWzwfRw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUC7mSTtqRkvaSeKgJHhpRj_HcKuWrNthQgb5l6QaCGSkbTmt09gg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLKiP_Dl7abnuzwGF8ykHbvuiG9PU0hqBNIZQC_E9KIfFRASA=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.2
-  },
-  {
-    "id": "ChIJ1S-PU2xYzpQRpdLfCNRobjg",
-    "name": "Ecoponto Barra Funda",
-    "address": "R. Cônego Vicente Miguel Marino, 22 - Barra Funda, São Paulo - SP, 01135-020, Brazil",
-    "latitude": -23.527129499999997,
-    "longitude": -46.6485431,
-    "googleMapsUri": "https://maps.google.com/?cid=4066302773453378213",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUhSn81sYnnw24vGCdBgGV4W-fwJPH5JDG7CBBeksKNHVpVh6v1rw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXgU6urQymA_7WwcxSbgW5SrIcEK2le4TwrCKj0KGn5ubOmx1FN=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUc6r0-uJdxtYa4tn1SbJ2uTk4HPcIhWgU0NVwB38SIfJ1a1eW28Q=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.1
-  },
-  {
-    "id": "ChIJKxVkPcpazpQRf2SS9xLJSqA",
-    "name": "Coleta de Lixo Eletrônico",
-    "address": "Av. Rodrigues Montemor, 565 - Cidade Domitila, São Paulo - SP, 04387-002, Brazil",
-    "latitude": -23.663867099999997,
-    "longitude": -46.6499575,
-    "googleMapsUri": "https://maps.google.com/?cid=11550265277645218943",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXKofV01IOH0KTEatDmKB2jq8usrPB_rKdrQ8G8XhVK7yG0Pmc=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(11) 95344-0293",
-    "comentarios": [],
-    "rating": 4.9
+    ]
   },
   {
     "id": "ChIJAQApntxdzpQRv3ik8_33-EI",
@@ -478,143 +135,94 @@
     "latitude": -23.5654215,
     "longitude": -46.557198799999995,
     "googleMapsUri": "https://maps.google.com/?cid=4825879670813915327",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWQknlIU_hZUUvVEm8gYggjTbpUkZvPwxceVkQHPYg8mGTsgKI=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkAzPbKvCEgOg_j5mgWoi3FOhWwogJNL6UtdNrD38kIF7Sms8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWQknlIU_hZUUvVEm8gYggjTbpUkZvPwxceVkQHPYg8mGTsgKI=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKiDK8v_HOMoqeSlR_ckbrO-dj3TW_FSf7xGR5xuekKtnKV4g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWF3PsTe0ZgyzbgVKvFKSnxWB_t-LdxbROLMXepiYh1fBl3TfYP=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW5TpKgHN9xIc2Lp5Y8avCxRX608fAjHVDHrHPRruxDpeiUZlb0=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWQknlIU_hZUUvVEm8gYggjTbpUkZvPwxceVkQHPYg8mGTsgKI=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWQknlIU_hZUUvVEm8gYggjTbpUkZvPwxceVkQHPYg8mGTsgKI=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(11) 2604-2273",
-    "comentarios": [],
-    "rating": 4.9
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-26T16:56:03.597Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-06-04T07:02:33.509Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-31T23:57:29.895Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJYYq3l1xZzpQR48Ui_kqjxck",
-    "name": "Ecoponto Tereza Cristina",
-    "address": "Av. Teresa Cristina, 10 - Ipiranga, São Paulo - SP, 01552-020, Brazil",
-    "latitude": -23.5691162,
-    "longitude": -46.608418,
-    "googleMapsUri": "https://maps.google.com/?cid=14539206514522113507",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWmd0nznWc9_K8AjgFeZguFzXV5fD4rDncTqBtjc7pceO13q20Y=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWmd0nznWc9_K8AjgFeZguFzXV5fD4rDncTqBtjc7pceO13q20Y=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWmd0nznWc9_K8AjgFeZguFzXV5fD4rDncTqBtjc7pceO13q20Y=s100-p-k-no-mo"
-      }
-    ],
+    "id": "ChIJ96pyISRZzpQRkymUSYC95Wo",
+    "name": "Ecoponto Bresser",
+    "address": "Praça Giuseppe Cesari, 54 - Brás, São Paulo - SP, 03053-020, Brazil",
+    "latitude": -23.543787899999998,
+    "longitude": -46.606181299999996,
+    "googleMapsUri": "https://maps.google.com/?cid=7702771096375011731",
     "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.5
-  },
-  {
-    "id": "ChIJzWmAKBhezpQRBW9RWscNXWQ",
-    "name": "I Ecoponto Peña",
-    "address": "R. Dr. Heládio, 104 - Penha de França, São Paulo - SP, 03650-020, Brazil",
-    "latitude": -23.531341299999998,
-    "longitude": -46.5254127,
-    "googleMapsUri": "https://maps.google.com/?cid=7231951726491823877",
-    "photos": [
+    "rating": 4.4,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXlvyS_i5QeV0L7ia9ZxPUMuX-T2ODtbi78SHeBVmmsFTl-tNke4Q=s100-p-k-no-mo"
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-23T13:24:04.782Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXvMXvaAN0Sx78yk3YUQd-7pRl9W19LBNTYNRELBtJXt2GTGAl__A=s100-p-k-no-mo"
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-05-17T22:28:47.110Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXlvyS_i5QeV0L7ia9ZxPUMuX-T2ODtbi78SHeBVmmsFTl-tNke4Q=s100-p-k-no-mo"
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-04-25T16:15:27.691Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXlvyS_i5QeV0L7ia9ZxPUMuX-T2ODtbi78SHeBVmmsFTl-tNke4Q=s100-p-k-no-mo"
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-28T15:08:14.061Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWLw85PH8xE1QpmOxx5iXv2gLH73Tl3zWxvZrFib0FJs8ZB77U=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXlvyS_i5QeV0L7ia9ZxPUMuX-T2ODtbi78SHeBVmmsFTl-tNke4Q=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUZgRN5xhRdwKkSaJJXukzc4E0PnKibG75fi-XML3FthWmmhdpr=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXlvyS_i5QeV0L7ia9ZxPUMuX-T2ODtbi78SHeBVmmsFTl-tNke4Q=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXfjno1VhL-SOyXDEdAjTSpr6-bqwvXSGOB-_sl86KH-h9naplZRg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUC4ybeX-SJYYBzPakHg9UPUOCM_OjWF8q4YPo1mkpt0VALRfEiyw=s100-p-k-no-mo"
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-23T08:51:30.633Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(11) 3397-1777",
-    "comentarios": [],
-    "rating": 4.3
-  },
-  {
-    "id": "ChIJbVfjVEaWpgARsIMO6Q-gau4",
-    "name": "BH Recycle Electronic Waste Recycling and Other scraps.",
-    "address": "Av. General David Sarnoff, 2690 - Cidade Industrial, Contagem - MG, 32210-110, Brazil",
-    "latitude": -19.9570892,
-    "longitude": -44.034969499999995,
-    "googleMapsUri": "https://maps.google.com/?cid=17179719718753174448",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUkZFR1XcxTyQcCZA0jI9DtdR_fEn1xq1iY2g3hhzAcOvIQCFoQ=s100-p-k-no-mo"
-      }
-    ],
-    "phone": "(31) 3063-0688",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
     "id": "ChIJvd0teKL9YGERs6YBBgQIOgw",
@@ -623,41 +231,172 @@
     "latitude": -23.5598834,
     "longitude": -46.536742499999995,
     "googleMapsUri": "https://maps.google.com/?cid=881025490478016179",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVyIcZO8c-sbhR0I2577x-SIAiPNxn5Cv6rI7RsMSODpO7uyOA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVyIcZO8c-sbhR0I2577x-SIAiPNxn5Cv6rI7RsMSODpO7uyOA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV-tzi_fGg3MR00RH9g2uN2AlfFF5ftj_d3qSd28NFiEnX6how=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMUNLYKmiX15YjF13mqUtHLujUdcW7CHjJyC-kF-wnRYeCIlIt=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKLxEKT-gprCiBa8_A92g5ipaThAO6Mu65kX4D-aOp5V_a5cg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVyIcZO8c-sbhR0I2577x-SIAiPNxn5Cv6rI7RsMSODpO7uyOA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVyIcZO8c-sbhR0I2577x-SIAiPNxn5Cv6rI7RsMSODpO7uyOA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVyIcZO8c-sbhR0I2577x-SIAiPNxn5Cv6rI7RsMSODpO7uyOA=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVMUNLYKmiX15YjF13mqUtHLujUdcW7CHjJyC-kF-wnRYeCIlIt=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVyIcZO8c-sbhR0I2577x-SIAiPNxn5Cv6rI7RsMSODpO7uyOA=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(11) 99187-4137",
-    "comentarios": [],
-    "rating": 4.9
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-17T20:20:38.371Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-05T16:23:06.981Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-05-25T21:44:27.849Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-04-25T17:45:11.698Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ___rE02RpgARsUQZNa0yhGo",
+    "name": "COLETABH",
+    "address": "R. Afluentes, 100 - Serrano, Belo Horizonte - MG, 30882-110, Brazil",
+    "latitude": -19.887330199999997,
+    "longitude": -44.008953899999995,
+    "googleMapsUri": "https://maps.google.com/?cid=7675315384447747249",
+    "phone": "(31) 4042-1902",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-16T06:14:54.031Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-27T08:51:45.533Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJKxVkPcpazpQRf2SS9xLJSqA",
+    "name": "Coleta de Lixo Eletrônico",
+    "address": "Av. Rodrigues Montemor, 565 - Cidade Domitila, São Paulo - SP, 04387-002, Brazil",
+    "latitude": -23.663867099999997,
+    "longitude": -46.6499575,
+    "googleMapsUri": "https://maps.google.com/?cid=11550265277645218943",
+    "phone": "(11) 95344-0293",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-04-24T01:07:05.222Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-01T13:07:50.779Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-16T11:43:16.483Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-10T16:29:08.512Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-06-09T00:06:55.090Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJQ_7IgmJjzpQR0s8szkVSQ3I",
+    "name": "Ecoponto Pesqueiro",
+    "address": "R. Caiuás, 18 - Jardim Camargo Novo, São Paulo - SP, 08120-525, Brazil",
+    "latitude": -23.5011568,
+    "longitude": -46.389311799999994,
+    "googleMapsUri": "https://maps.google.com/?cid=8233515003528662994",
+    "phone": "N/A",
+    "rating": 4.7,
+    "comentarios": [
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-02-25T00:15:49.355Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-16T06:03:00.246Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-03-18T14:25:12.072Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
     "id": "ChIJdWqJf8PKEZURC8ZbZHjLfUw",
@@ -666,59 +405,410 @@
     "latitude": -23.518120399999997,
     "longitude": -46.607723,
     "googleMapsUri": "https://maps.google.com/?cid=5511785236911605259",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXkIJTccRVV6z6U--m2HM1vAsKNfcLWGUZ-PiVUYXyPyOPucxqv=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(11) 2905-3580",
-    "comentarios": [],
-    "rating": 4.5
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-08T04:29:59.401Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-11T03:39:43.668Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-15T23:59:07.087Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
-    "id": "ChIJ1Vfpt_f5zpQRlbqsxYIRnnw",
-    "name": "ECO CEASA - C. A. Beraldo - Ponto de Coleta de Papelão, Ferrosos e Plásticos",
-    "address": "Av. Manuel Bandeira, 141 - Vila Leopoldina, São Paulo - SP, 05317-020, Brazil",
-    "latitude": -23.539071999999997,
-    "longitude": -46.7316898,
-    "googleMapsUri": "https://maps.google.com/?cid=8979633960383199893",
-    "photos": [
+    "id": "ChIJif1-Ea5ZzpQRi8XZhmFx-VI",
+    "name": "Ecoponto - Liberdade",
+    "address": "Rua Jaceguai, 67 - Liberdade, São Paulo - SP, 01315-010, Brazil",
+    "latitude": -23.556593499999998,
+    "longitude": -46.6372422,
+    "googleMapsUri": "https://maps.google.com/?cid=5978934643999229323",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXE2GTFmNKDH5na_Ur1aXW9hg4y9jW9TdtBaMq3zeQcSbqYl9Ag=s100-p-k-no-mo"
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-25T14:19:06.238Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWM3MpsbUQTbxIfWcPrFfnWs52Mjb0Q5nlPgrlM9ZfNs6ljKrsRIw=s100-p-k-no-mo"
+        "id": 2,
+        "comentario": "teste",
+        "user": {
+          "foto": "/assets/img/user.png"
+        }
+      },
+      {
+        "id": 3,
+        "comentario": "teste",
+        "user": {
+          "foto": "/assets/img/user.png"
+        }
+      },
+      {
+        "id": 4,
+        "comentario": "teste",
+        "data": "2025-06-11T01:21:08.197Z",
+        "user": {
+          "foto": "/assets/img/user.png"
+        }
+      },
+      {
+        "id": 5,
+        "comentario": "teste",
+        "data": "2025-06-11T01:28:12.406Z",
+        "user": {
+          "nome": "mateus",
+          "email": "mateus.sousa.santos191@gmail.com",
+          "foto": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "id": 6,
+        "comentario": "teste",
+        "data": "2025-06-11T01:29:36.642Z",
+        "user": {
+          "nome": "mateus",
+          "email": "mateus.sousa.santos191@gmail.com",
+          "foto": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
+    ]
+  },
+  {
+    "id": "ChIJ0SUJxoJWzpQRLsVp6eZfsVM",
+    "name": "Ecoponto Jardim Maria do Carmo",
+    "address": "R. Caminho do Engenho, 800 - Ferreira, São Paulo - SP, 05524-000, Brazil",
+    "latitude": -23.5954989,
+    "longitude": -46.7467549,
+    "googleMapsUri": "https://maps.google.com/?cid=6030706821388944686",
     "phone": "N/A",
-    "comentarios": [],
-    "rating": 5
+    "rating": 4.2,
+    "comentarios": [
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-06-09T10:45:06.071Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-21T07:52:59.023Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-05-24T04:17:46.397Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-02T23:37:26.832Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJhbThXgVVzpQRD8pQAlafbfQ",
+    "name": "Aparas Carvalho",
+    "address": "Rua Paolo Agostini, 480 - Parque Ipe, São Paulo - SP, 05572-190, Brazil",
+    "latitude": -23.5943976,
+    "longitude": -46.795359499999996,
+    "googleMapsUri": "https://maps.google.com/?cid=17612908909470730767",
+    "phone": "(11) 3781-1841",
+    "rating": 4.9,
+    "comentarios": [
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-03-17T19:40:50.680Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-04T00:04:43.557Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-28T00:24:42.373Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJfWNXNMFVzpQRl-3mdVQRvlI",
+    "name": "Ecoponto Politécnica",
+    "address": "Rua Paulino Baptista Conti - Vila Antonio, São Paulo - SP, 05382-140, Brazil",
+    "latitude": -23.5759364,
+    "longitude": -46.7650934,
+    "googleMapsUri": "https://maps.google.com/?cid=5962222011138108823",
+    "phone": "0800 777 7156",
+    "rating": 4.3,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-03T19:08:50.123Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-04-28T23:30:00.019Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-02-25T21:04:29.677Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-03-22T01:14:27.125Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-13T15:30:57.057Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJdSg2oV5ezpQR5xc7PGbdKbs",
+    "name": "Recrie Ambiental",
+    "address": "R. Loanda, 03 - Penha de França, São Paulo - SP, 03630-060, Brazil",
+    "latitude": -23.5342071,
+    "longitude": -46.550236999999996,
+    "googleMapsUri": "https://maps.google.com/?cid=13486553990304569319",
+    "phone": "(11) 2091-8886",
+    "rating": 3.8,
+    "comentarios": [
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-02-20T22:38:07.329Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-06-08T14:42:38.580Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-23T08:09:14.286Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJKTQIDxZnzpQR90zzxzbO-IQ",
+    "name": "Ecoponto Vila Carmosina",
+    "address": "Av. Francisco Tranchesi, 110 - Vila Carmosina, São Paulo - SP, 08270-460, Brazil",
+    "latitude": -23.563014499999998,
+    "longitude": -46.464831100000005,
+    "googleMapsUri": "https://maps.google.com/?cid=9581634941908897015",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-26T15:34:20.206Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-03-03T08:49:27.437Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-04-16T09:50:28.809Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-05-22T02:06:32.811Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-31T15:13:51.038Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJ6-DkZchbzpQRQSXcdOPl1_g",
+    "name": "Ecoponto Santa Cruz",
+    "address": "R. Santa Cruz, 1452 - Vila Mariana, São Paulo - SP, 04122-001, Brazil",
+    "latitude": -23.5996354,
+    "longitude": -46.623348199999995,
+    "googleMapsUri": "https://maps.google.com/?cid=17931053206479840577",
+    "phone": "N/A",
+    "rating": 4.2,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-22T00:39:19.482Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJv5jfA_pezpQR19Vqm9sOaYE",
+    "name": "Eco Computers Ltd.",
+    "address": "Av. Celso Garcia, 5505 - Tatuapé, São Paulo - SP, 03063-000, Brazil",
+    "latitude": -23.531558800000003,
+    "longitude": -46.5597813,
+    "googleMapsUri": "https://maps.google.com/?cid=9325000839815419351",
+    "phone": "(11) 96218-9825",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-27T19:49:22.559Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJM-cf1slYzpQRiTVjQw5XTdM",
+    "name": "Ecoponto Vila Guilherme",
+    "address": "Rua José Bernardo Pinto, 1480 - Vila Guilherme, São Paulo - SP, 02055-001, Brazil",
+    "latitude": -23.517110600000002,
+    "longitude": -46.6004055,
+    "googleMapsUri": "https://maps.google.com/?cid=15225921633981248905",
+    "phone": "N/A",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-28T21:01:48.958Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "id": 2,
+        "comentario": "teste 2",
+        "data": "2025-06-11T01:23:56.802Z",
+        "user": {
+          "foto": "/assets/img/user.png"
+        }
+      }
+    ]
   }
 ]

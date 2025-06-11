@@ -25,7 +25,6 @@
     ></script>
     <script src="./assets/js/header.js" defer></script>
     <link rel="stylesheet" href="assets/css/modal-local.css" />
-    <script src="assets/js/modal-local.js"></script>
   </head>
 
   <body>
@@ -62,13 +61,6 @@
 
         <!-- Cabeçalho com imagem e nome do local -->
         <div class="place-header">
-          <img
-            id="modalPlaceImage"
-            src="images/noIMG.svg"
-            alt="Imagem do local"
-            class="place-image"
-          />
-
           <!-- Detalhes do local -->
           <div class="place-details">
             <h2 id="modalPlaceName" class="title">Nome do Local</h2>
@@ -89,7 +81,7 @@
           <div id="commentsList"></div>
           <div id="comment-form" style="display: none;">
             <textarea
-              id="commentInput"
+              id="commentText"
               placeholder="Escreva seu comentário aqui..."
             ></textarea>
             <button id="submitComment">Enviar</button>

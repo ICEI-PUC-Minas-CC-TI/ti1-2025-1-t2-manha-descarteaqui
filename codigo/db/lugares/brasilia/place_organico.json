@@ -1,219 +1,431 @@
 [
   {
+    "id": "ChIJqYF6UFoxWpMRVC2OClCtSmk",
     "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
     "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
     "latitude": -15.780830799999999,
     "longitude": -47.9845171,
     "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtLqSIL0971B4j7R_rhzegShO3ioUuOqLlx8bIsXg_O28mPcCG=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjX9YVFuCZ22VRhGM6d-JxAaZLS24jJA-Nd4RQw936mHX9HD1e4=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU-BPVedM6Zv94WPqNTGmP9uGbad2CLkWNc58qLIE2osD0Yg_53=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVuALW5LmZnJYnkYg7uqHSL4BGYPBwnBeNZVsjpiSUOWyBc24h_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 3246-6068",
-    "comentarios": [],
-    "rating": 4.5
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-06-09T14:40:59.053Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-09T14:13:23.140Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
+    "id": "ChIJsZRD-ZUzWpMRUYFMrKDF_iU",
     "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
     "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
     "latitude": -15.834466999999998,
     "longitude": -48.043344999999995,
     "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 98417-0802",
-    "comentarios": [],
-    "rating": 2
-  },
-  {
-    "name": "ECO AMBIENTAL FERRO VELHO & RECICLAVEIS",
-    "address": "SHCGN CRN 706/707 bloco f lt 1 - Brasília, DF, 70740-660, Brazil",
-    "latitude": -15.770173599999998,
-    "longitude": -47.890343099999996,
-    "googleMapsUri": "https://maps.google.com/?cid=17627956885845438899",
-    "photos": [
+    "rating": 2,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV4BvBKhgqXC_WhA7R367S_W_-e_KiOPWPyeMpPRAkHeqJS1b1Mww=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-05-17T01:57:04.161Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana0@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-02-21T19:40:20.080Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-06-05T13:02:37.995Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-05-16T12:18:27.200Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-05-07T19:25:12.986Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 99263-6188",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
+    "id": "ChIJz7FNmT-3W5MRD3tOSuLp__I",
+    "name": "Lixo eletrônico Brasília e descarte de informática",
+    "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
+    "latitude": -15.8021241,
+    "longitude": -48.1405691,
+    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791",
+    "phone": "(61) 98513-9817",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-05-22T08:20:42.950Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJzQSj97QxWpMRctm9xwVmELA",
+    "name": "3R Ambiental",
+    "address": "STRC TRECHO 04 CONJUNTO C LOTE 02 - SETOR DE CARGAS Trecho 4 - Guará, Brasília - DF, 71225-543, Brazil",
+    "latitude": -15.7924172,
+    "longitude": -47.9895662,
+    "googleMapsUri": "https://maps.google.com/?cid=12686752325314664818",
+    "phone": "(61) 3361-2037",
+    "rating": 4.8,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-15T09:33:35.001Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-12T01:48:03.586Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-06-03T19:31:26.963Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-13T21:12:22.168Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJIds8-zozWpMRYZVF792arIw",
     "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
     "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
     "latitude": -15.8128383,
     "longitude": -48.013962799999995,
     "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641",
     "phone": "(61) 98563-2239",
-    "comentarios": [],
-    "rating": 2.7
-  },
-  {
-    "name": "3R Ambiental",
-    "address": "STRC TRECHO 04 CONJUNTO C LOTE 02 - SETOR DE CARGAS Trecho 4 - Guará, Brasília - DF, 71225-543, Brazil",
-    "latitude": -15.7924172,
-    "longitude": -47.9895662,
-    "googleMapsUri": "https://maps.google.com/?cid=12686752325314664818",
-    "photos": [
+    "rating": 2.7,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXh4-GnhLVRaGwY7L9Rx8-tPQBpgPVUtoqmMBIbx3bh418wf5k=s100-p-k-no-mo"
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-14T16:24:38.678Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 3361-2037",
-    "comentarios": [],
-    "rating": 4.8
+    ]
   },
   {
-    "name": "Lixo eletrônico Brasília e descarte de informática",
-    "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
-    "latitude": -15.8021241,
-    "longitude": -48.1405691,
-    "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791",
-    "photos": [
+    "id": "ChIJj3M6A7sxWpMRPBHWMP7tEF8",
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
+    "phone": "(61) 99914-1212",
+    "rating": 4.1,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-04-11T19:26:05.648Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-11T00:46:11.280Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 98513-9817",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
+    "id": "ChIJ1Z1vFa47WpMRuCquVjICFeM",
     "name": "Green Ambiental - Ponto de Coleta",
     "address": "SPVP, 024 - Brasília, DF, 70297-400, Brazil",
     "latitude": -15.794808000000002,
     "longitude": -47.844107,
     "googleMapsUri": "https://maps.google.com/?cid=16362987236346440376",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUWKWn3tEref9HwITQgkcaP64vs0j_h1T-IGZLVCiSHNYwXsc86=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocKEEpegzPAlEi8tDm1_9MLBftRCrwsXFBHpZCHdCg7ml9ItIg=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a/ACg8ocLroGJduJuobfId8R549AFLdIyJmRFNBCcBnoHLUF02nboLHw=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUWKWn3tEref9HwITQgkcaP64vs0j_h1T-IGZLVCiSHNYwXsc86=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 99861-7373",
-    "comentarios": [],
-    "rating": 3
+    "rating": 3,
+    "comentarios": [
+      {
+        "comentario": "Muito bom, parabéns!",
+        "data": "2025-03-15T08:20:57.089Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-04-19T03:52:58.623Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-06T11:49:14.238Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-02-24T14:30:04.721Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJeb6FLbstWpMRs_G3CGQVo_Q",
+    "name": "ECO AMBIENTAL FERRO VELHO & RECICLAVEIS",
+    "address": "SHCGN CRN 706/707 bloco f lt 1 - Brasília, DF, 70740-660, Brazil",
+    "latitude": -15.770173599999998,
+    "longitude": -47.890343099999996,
+    "googleMapsUri": "https://maps.google.com/?cid=17627956885845438899",
+    "phone": "(61) 99263-6188",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-05T23:37:38.276Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-05-27T09:52:15.944Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia14@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-04-24T02:13:04.284Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJQxkDmTbLW5MRqiqThLNKRlM",
+    "name": "Ecolimp coleta de óleo vegetal usado",
+    "address": "QD 12 LT 33/35 - Ceilândia, Brasília - DF, 72265-120, Brazil",
+    "latitude": -15.801105100000001,
+    "longitude": -48.1473947,
+    "googleMapsUri": "https://maps.google.com/?cid=6000565688401603242",
+    "phone": "(61) 3333-3591",
+    "rating": 3.9,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-03-30T17:13:34.265Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-04-25T00:14:36.719Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-05-22T16:56:17.035Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJITgbZ0XNW5MRq6ZzaftQVvg",
+    "name": "Usina de Tratamento Mecânico Biológico",
+    "address": "SH Sol Nascente - Ceilândia, Brasília - DF, Brazil",
+    "latitude": -15.844998200000001,
+    "longitude": -48.134635100000004,
+    "googleMapsUri": "https://maps.google.com/?cid=17894579210139444907",
+    "phone": "(61) 3550-6987",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-01T21:35:51.237Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-02-28T14:31:48.320Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-03-22T16:49:18.516Z",
+        "user": {
+          "nome": "João",
+          "email": "joão3@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJi7X1tdeBWZMRHBG-uSSJpKE",
+    "name": "Sustentar Recicláveis",
+    "address": "AC 200 Cj. E, Lote 2 - Santa Maria, Brasília - DF, 72500-100, Brazil",
+    "latitude": -16.046481099999998,
+    "longitude": -48.032987999999996,
+    "googleMapsUri": "https://maps.google.com/?cid=11647585327115014428",
+    "phone": "(61) 99258-4140",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-18T16:10:37.216Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-25T06:00:55.504Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana13@outlook.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-03-18T14:17:08.931Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-03-20T06:21:48.602Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-05-27T08:29:42.281Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   }
 ]

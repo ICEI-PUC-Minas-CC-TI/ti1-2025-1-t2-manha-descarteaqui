@@ -1,240 +1,443 @@
 [
   {
+    "id": "ChIJqYF6UFoxWpMRVC2OClCtSmk",
     "name": "Capital Recicláveis: Reciclagem, Coleta Lixo Orgânico, Resíduos, Brasília DF",
     "address": "SCIA q9, Conjunto 1 L, 1 - Cidade dos Automóveis, Brasília - DF, 71250-810, Brazil",
     "latitude": -15.780830799999999,
     "longitude": -47.9845171,
     "googleMapsUri": "https://maps.google.com/?cid=7587067081545100628",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjXzw5D0I0pH7cZx7BskuK6jEC7bQf_9GLGgM8Bq2niOqsgJTs8=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWtLqSIL0971B4j7R_rhzegShO3ioUuOqLlx8bIsXg_O28mPcCG=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjX9YVFuCZ22VRhGM6d-JxAaZLS24jJA-Nd4RQw936mHX9HD1e4=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjU-BPVedM6Zv94WPqNTGmP9uGbad2CLkWNc58qLIE2osD0Yg_53=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjVuALW5LmZnJYnkYg7uqHSL4BGYPBwnBeNZVsjpiSUOWyBc24h_=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjW0bettLI-sSPSSBqK7zfw3aKckrNWFTh7_dneC7NaKXZ9REwvo1w=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 3246-6068",
-    "comentarios": [],
-    "rating": 4.5
+    "rating": 4.5,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-04-04T01:07:06.164Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-06-04T12:47:28.976Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro16@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-02-23T04:34:10.970Z",
+        "user": {
+          "nome": "Julia",
+          "email": "julia18@gmail.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
+    "id": "ChIJURHJcAQxWpMROSir9uUYhPM",
     "name": "Unidade de Recebimento de Entulho de Estrutural",
     "address": "Guará, Brasília - Federal District, 70297-400, Brazil",
     "latitude": -15.7732291,
     "longitude": -47.9938596,
     "googleMapsUri": "https://maps.google.com/?cid=17547177424107284537",
-    "photos": [
+    "phone": "N/A",
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUMfroRcYoN15h3vryk8lwE5Rw1t18V2Hlm--onnWu-Zji9Lo-6=s100-p-k-no-mo"
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-04-13T09:23:59.324Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUMfroRcYoN15h3vryk8lwE5Rw1t18V2Hlm--onnWu-Zji9Lo-6=s100-p-k-no-mo"
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-05-02T07:46:16.365Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-06T18:23:46.820Z",
+        "user": {
+          "nome": "Lucas",
+          "email": "lucas17@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "N/A",
-    "comentarios": [],
-    "rating": 5
+    ]
   },
   {
+    "id": "ChIJsZRD-ZUzWpMRUYFMrKDF_iU",
     "name": "Coletamos seu lixo eletrônico em casa ou empresa pelo cataki",
     "address": "Águas claras shopping - Águas Claras, Brasília - DF, 71936-250, Brazil",
     "latitude": -15.834466999999998,
     "longitude": -48.043344999999995,
     "googleMapsUri": "https://maps.google.com/?cid=2737842917363974481",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUlps8ooGnDMxWCh1tUpTQ3qTeUGxYOjw8YxTbwtNi18qPGvDW6=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 98417-0802",
-    "comentarios": [],
-    "rating": 2
+    "rating": 2,
+    "comentarios": [
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-05-29T14:48:42.171Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não gostei do horário de funcionamento.",
+        "data": "2025-04-17T20:15:48.222Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-14T18:16:03.126Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
+    "id": "ChIJz7FNmT-3W5MRD3tOSuLp__I",
     "name": "Lixo eletrônico Brasília e descarte de informática",
     "address": "setor qnq 01 conjunto 10 casa 09 Brasil setor qnq - Ceilândia, Brasília - DF, 72270-110, Brazil",
     "latitude": -15.8021241,
     "longitude": -48.1405691,
     "googleMapsUri": "https://maps.google.com/?cid=17509971034358315791",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjV6j5LxYy8QTaoupfi1jNMVd2u56E_-4uuMCgXnEgyQzJfG4Aif=s100-p-k-no-mo"
-      }
-    ],
     "phone": "(61) 98513-9817",
-    "comentarios": [],
-    "rating": 5
-  },
-  {
-    "name": "Sia Recicla",
-    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
-    "latitude": -15.798486199999997,
-    "longitude": -47.9661864,
-    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
-    "photos": [
+    "rating": 5,
+    "comentarios": [
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-05-11T23:44:35.173Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-11T14:43:00.348Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-09T04:57:33.806Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana11@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       },
       {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWyLKZOye6hwEnTPBAzquqpiJcC1eYBYPClOK0oc8TbpcvGrlx-=s100-p-k-no-mo"
+        "comentario": "Muito útil, recomendo!",
+        "data": "2025-02-24T17:44:23.997Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana7@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
       }
-    ],
-    "phone": "(61) 99914-1212",
-    "comentarios": [],
-    "rating": 4.1
+    ]
   },
   {
+    "id": "ChIJIds8-zozWpMRYZVF792arIw",
     "name": "Ecoponto para descarte de lixo eletrônico,informática e celulares",
     "address": "RUA 04 CHÁCARA 09 CONDOMÍNIO TARUMÃ- VICENTE PIRES - St. Hab. Vicente Pires - Taguatinga, Brasília - DF, 72006-290, Brazil",
     "latitude": -15.8128383,
     "longitude": -48.013962799999995,
     "googleMapsUri": "https://maps.google.com/?cid=10136647139296908641",
     "phone": "(61) 98563-2239",
-    "comentarios": [],
-    "rating": 2.7
+    "rating": 2.7,
+    "comentarios": [
+      {
+        "comentario": "Gostei da variedade de materiais aceitos.",
+        "data": "2025-05-01T16:26:15.160Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   },
   {
+    "id": "ChIJj3M6A7sxWpMRPBHWMP7tEF8",
+    "name": "Sia Recicla",
+    "address": "SIA Trecho 17 Rua 3, 860 - Guará, Brasília - DF, 71200-207, Brazil",
+    "latitude": -15.798486199999997,
+    "longitude": -47.9661864,
+    "googleMapsUri": "https://maps.google.com/?cid=6850236709227335996",
+    "phone": "(61) 99914-1212",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Fiquei satisfeito com o atendimento.",
+        "data": "2025-02-19T02:56:58.258Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJT7kyCrklWpMRYw3ZeUzK8Bk",
     "name": "Papa entulho SLU",
     "address": "535Q+5H - Brasília, Federal District, 70200-001, Brazil",
     "latitude": -15.842069999999998,
     "longitude": -47.9110583,
     "googleMapsUri": "https://maps.google.com/?cid=1869216275169348963",
-    "photos": [
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYMiShhKvttWnRVE1ifS2trtPsKVi9sUSh5z4Opzu37Mm4Og2h=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjUt9UuZTc331UisVBAAny7vMPtYhqXf0ie_zKXScUPhM00Kb6rH1g=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWYMiShhKvttWnRVE1ifS2trtPsKVi9sUSh5z4Opzu37Mm4Og2h=s100-p-k-no-mo"
-      },
-      {
-        "uri": "https://lh3.googleusercontent.com/a-/ALV-UjWIs68v8Re_epz7OtnfQF0VOJPcXXqh55tjiOfYNmqpeeUdiRs=s100-p-k-no-mo"
-      }
-    ],
     "phone": "N/A",
-    "comentarios": [],
-    "rating": 4.1
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-17T05:49:37.979Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJxQh-RVWXpgARyzcKdvCSKbI",
+    "name": "Reciclagem Horizonte BH",
+    "address": "R. Salomão Camargos, 54 - Jardinópolis, Belo Horizonte - MG, 30532-230, Brazil",
+    "latitude": -19.943107599999998,
+    "longitude": -44.0048183,
+    "googleMapsUri": "https://maps.google.com/?cid=12837953774266496971",
+    "phone": "(31) 3566-2752",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-04-06T01:00:23.085Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana1@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-06-03T21:18:01.069Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-03-25T07:21:39.822Z",
+        "user": {
+          "nome": "Pedro",
+          "email": "pedro6@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Falta mais informações sobre os serviços.",
+        "data": "2025-03-17T22:27:08.489Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJez91OqHTW5MRkx34mxuUHkQ",
+    "name": "Cooperativa Dos Catadores De Materiais Recicláveis Samambaia Norte",
+    "address": "Qs 433 conjunto: j lote: 02 - Samambaia, Brasília - DF, 72329-580, Brazil",
+    "latitude": -15.8973947,
+    "longitude": -48.1437953,
+    "googleMapsUri": "https://maps.google.com/?cid=4908523490182176147",
+    "phone": "(61) 99262-4936",
+    "rating": 4.6,
+    "comentarios": [
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-06-06T12:39:22.539Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos12@yahoo.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Poderia ter mais opções de descarte.",
+        "data": "2025-03-27T16:36:13.904Z",
+        "user": {
+          "nome": "Carlos",
+          "email": "carlos19@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Não encontrei o que procurava.",
+        "data": "2025-03-16T01:05:08.739Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana9@yahoo.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJd-M4Fz8zWpMRtEgVXier6DM",
+    "name": "Papa Entulho",
+    "address": "47 - St. G Norte - Taguatinga, Brasília - DF, 70297-400, Brazil",
+    "latitude": -15.7992821,
+    "longitude": -48.073582599999995,
+    "googleMapsUri": "https://maps.google.com/?cid=3740427676101724340",
+    "phone": "N/A",
+    "rating": 4.4,
+    "comentarios": [
+      {
+        "comentario": "Agradeço pela ajuda!",
+        "data": "2025-03-13T02:11:36.207Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Funcionários atenciosos.",
+        "data": "2025-04-07T03:58:49.434Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "A limpeza do local deixa a desejar.",
+        "data": "2025-03-19T18:21:23.967Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Localização fácil de achar.",
+        "data": "2025-04-22T10:02:27.331Z",
+        "user": {
+          "nome": "Fernanda",
+          "email": "fernanda10@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJmUP37VtBWpMRTU1uDWEzVsM",
+    "name": "Papa Entulhos SLU Sobradinho",
+    "address": "Av. Contôrno Q 10 Ae - 1, 3 - Sobradinho, Brasília - DF, 73005-100, Brazil",
+    "latitude": -15.639932600000002,
+    "longitude": -47.7966951,
+    "googleMapsUri": "https://maps.google.com/?cid=14075494177323240781",
+    "phone": "N/A",
+    "rating": 5,
+    "comentarios": [
+      {
+        "comentario": "Ótima experiência, voltarei com certeza!",
+        "data": "2025-03-25T16:49:53.664Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Atendimento rápido e eficiente.",
+        "data": "2025-02-22T16:20:53.444Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana4@outlook.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Muito bem organizado.",
+        "data": "2025-04-06T13:36:07.706Z",
+        "user": {
+          "nome": "Ana",
+          "email": "ana5@gmail.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-03-27T21:19:51.713Z",
+        "user": {
+          "nome": "João",
+          "email": "joão15@example.com",
+          "user_img": "/assets/images/female-avatar.svg"
+        }
+      },
+      {
+        "comentario": "Excelente serviço!",
+        "data": "2025-03-04T09:35:17.987Z",
+        "user": {
+          "nome": "Mariana",
+          "email": "mariana8@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ChIJQSRdAmQzWpMR4kQ4YrLMdMw",
+    "name": "Papa entulho - Águas Claras",
+    "address": "Av. Jacarandá, 22 - Águas Claras, Brasília - DF, 71928-720, Brazil",
+    "latitude": -15.847237499999999,
+    "longitude": -48.032505199999996,
+    "googleMapsUri": "https://maps.google.com/?cid=14732625347559834850",
+    "phone": "N/A",
+    "rating": 4.1,
+    "comentarios": [
+      {
+        "comentario": "Achei o local um pouco confuso.",
+        "data": "2025-04-02T13:40:02.290Z",
+        "user": {
+          "nome": "Guilherme",
+          "email": "guilherme2@example.com",
+          "user_img": "/assets/images/male-avatar.svg"
+        }
+      }
+    ]
   }
 ]

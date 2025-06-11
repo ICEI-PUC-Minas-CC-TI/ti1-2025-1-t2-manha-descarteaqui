@@ -121,7 +121,7 @@ body {
   background-color: #00833E;
 }
 
-#commentList {
+#commentsList {
   display: flex;
   flex-direction: column;
   gap: 10px;

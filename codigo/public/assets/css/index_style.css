@@ -240,9 +240,11 @@ footer {
 #comment-form {
   display: flex;
   gap: 10px;
+  align-items: center;
+  justify-content: center;
 }
 #comment-form textarea {
-  width: 100%;
+  width: 75%;
   height: 50px;
   padding: 10px;
   border-radius: 5px;
@@ -256,6 +258,7 @@ footer {
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
+  width: 20%;
   font-size: 1rem;
 }
 
