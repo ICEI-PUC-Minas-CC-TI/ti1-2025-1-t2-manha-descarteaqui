@@ -237,6 +237,28 @@ footer {
   font-size: 1.2rem;
 }
 
+#comment-form {
+  display: flex;
+  gap: 10px;
+}
+#comment-form textarea {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+#comment-form button {
+  background-color: var(--primary-green);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
 @media screen and (max-width: 768px) {
  
   #logo h1 {

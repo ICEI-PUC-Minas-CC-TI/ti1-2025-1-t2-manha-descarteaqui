@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   await carregarTiposDeLixo(mapa);
   await carregarCidades(mapa);
   const userData = localStorage.getItem("user_data");
-  if(userData){
+  if (userData) {
     const user = JSON.parse(userData);
     const response = await fetch(`/conta-usuario/${user.email}`);
     const data = await response.json();
@@ -258,8 +258,10 @@ async function adicionarMarcadoresPorTipoDeLixo(
           style: `margin:0;font-size:1rem;`,
           onclick: () => {
             openModal({
-              cidade: cidadeSelecionada, tipo: lugar.tipo, id: local.id
-            })
+              cidade: cidadeSelecionada,
+              tipo: lugar.tipo,
+              id: local.id,
+            });
           },
         },
         divDetalhes,
@@ -303,99 +305,108 @@ async function aoSelecionarCidade(evento, mapa) {
 }
 
 
-// script.js - Sistema de Comentários com Verificação de Login
+const modal = document.getElementById("placeModal");
 
-// Elementos do DOM
-const modal = document.getElementById('placeModal');
-const commentForm = document.getElementById('commentForm');
-const loginMessage = document.getElementById('loginMessage');
-const commentsList = document.getElementById('commentsList');
-const commentText = document.getElementById('commentText');
-
-// Variáveis globais
-let currentPlaceId = null;
-let currentUser = null;
-
-// Função para abrir o modal (chamada ao clicar em um local)
 async function openModal(placeData) {
+  const commentForm = document.getElementById("comment-form");
+  const loginMessage = document.getElementById("logInForm");
+
   try {
-    const response = await fetch(`/lugares/${placeData.cidade}/${placeData.tipo}/${placeData.id}`)
+    const response = await fetch(
+      `/lugares/${placeData.cidade}/${placeData.tipo}/${placeData.id}`
+    );
     const data = await response.json();
-    console.log(data)
+    console.log(data);
     // Preenche os dados do local
-    document.getElementById('modalPlaceName').textContent = data.name;
-    document.getElementById('modalPlaceAddress').textContent = data.address;
-    document.getElementById('modalPlaceItems').textContent = placeData.tipo;
-    document.getElementById('modalPlaceImage').src = data.photos[0].uri;
+    document.getElementById("modalPlaceName").textContent = data.name;
+    document.getElementById("modalPlaceAddress").textContent = data.address;
+    document.getElementById("modalPlaceItems").textContent = placeData.tipo;
+    document.getElementById("modalPlaceImage").src = data.photos[0].uri;
 
-    // Carrega comentários
-    loadComments(placeData.id,placeData.tipo,placeData.cidade);
+    const userData = localStorage.getItem("user_data");
+    if (userData) {
+      commentForm.style.display = "block";
+      loginMessage.style.display = "none";
+    } else {
+      commentForm.style.display = "none";
+      loginMessage.style.display = "block";
+    }
+    loadComments(placeData.id, placeData.cidade, placeData.tipo);
 
-    // Mostra o modal
-    modal.style.display = 'flex';
+    modal.style.display = "flex";
   } catch (Erro) {
-
+    console.error("Erro ao carregar os dados do local:", Erro);
   }
-
-};
+}
 
 // Fechar modal
-document.querySelector('.close-modal').addEventListener('click', () => {
-  modal.style.display = 'none';
+document.querySelector(".close-modal").addEventListener("click", () => {
+  modal.style.display = "none";
 });
 
 async function loadComments(id, cidade, tipo) {
   try {
-    const response = await fetch(`/lugares/${cidade}/${tipo}/${id}/comentarios`);
+    const response = await fetch(
+      `/lugares/${cidade}/${tipo}/${id}/comentarios`
+    );
     const data = await response.json();
     data.map((comentario) => {
-      createComment(comentario.user.foto, comentario.user.nome, comentario.user.email, comentario.comentario, comentario.data || "")
-
-    })
-  } catch (error) {
-
-  }
+      createComment(
+        comentario.user.foto,
+        comentario.user.nome,
+        comentario.user.email,
+        comentario.comentario,
+        comentario.data || ""
+      );
+    });
+  } catch (error) {}
 }
 
 // Função para criar um elemento de comentário
-function createComment(avatarUrl, userName, userEmail, commentText, commentDate) {
+function createComment(
+  avatarUrl,
+  userName,
+  userEmail,
+  commentText,
+  commentDate
+) {
   // Criar o elemento principal do comentário
-  const commentDiv = document.createElement('div');
-  commentDiv.className = 'comment';
+  const commentDiv = document.createElement("div");
+  commentDiv.className = "comment";
 
   // Criar o cabeçalho do comentário
-  const commentHeader = document.createElement('div');
-  commentHeader.className = 'comment-header';
+  const commentHeader = document.createElement("div");
+  commentHeader.className = "comment-header";
 
   // Criar a imagem do avatar
-  const avatarImg = document.createElement('img');
-  avatarImg.className = 'comment-avatar';
-  avatarImg.src = avatarUrl || 'https://via.placeholder.com/50'; // URL padrão se não for fornecido
-  avatarImg.alt = 'Photo';
+  const avatarImg = document.createElement("img");
+  avatarImg.className = "comment-avatar";
+  avatarImg.src = avatarUrl || "https://via.placeholder.com/50"; // URL padrão se não for fornecido
+  avatarImg.alt = "Photo";
 
   // Criar container de informações do usuário
-  const userInfoDiv = document.createElement('div');
-  userInfoDiv.className = 'comment-user-info';
+  const userInfoDiv = document.createElement("div");
+  userInfoDiv.className = "comment-user-info";
 
   // Criar elementos de nome e email
-  const userNameSpan = document.createElement('span');
-  userNameSpan.className = 'comment-user-name';
-  userNameSpan.textContent = userName || 'Usuário Anônimo';
+  const userNameSpan = document.createElement("span");
+  userNameSpan.className = "comment-user-name";
+  userNameSpan.textContent = userName || "Usuário Anônimo";
 
-  const userEmailSpan = document.createElement('span');
-  userEmailSpan.className = 'comment-user-email';
-  userEmailSpan.textContent = userEmail || '';
+  const userEmailSpan = document.createElement("span");
+  userEmailSpan.className = "comment-user-email";
+  userEmailSpan.textContent = userEmail || "";
 
   // Criar conteúdo do comentário
-  const commentContent = document.createElement('div');
-  commentContent.className = 'comment-content';
+  const commentContent = document.createElement("div");
+  commentContent.className = "comment-content";
 
-  const commentTextP = document.createElement('p');
-  commentTextP.className = 'comment-text';
-  commentTextP.textContent = commentText || 'Sem conteúdo';
+  const commentTextP = document.createElement("p");
+  commentTextP.className = "comment-text";
+  commentTextP.textContent = commentText || "Sem conteúdo";
 
-  const commentDateSmall = document.createElement('small');
-  commentDateSmall.className = 'comment-date';
+  const commentDateSmall = document.createElement("small");
+  commentDateSmall.className = "comment-date";
   commentDateSmall.textContent = commentDate || new Date().toLocaleString();
 
   // Montar a estrutura
@@ -416,7 +427,7 @@ function createComment(avatarUrl, userName, userEmail, commentText, commentDate)
 
 // Função para adicionar comentário à lista
 function addCommentToList(commentData) {
-  const commentsList = document.getElementById('commentsList');
+  const commentsList = document.getElementById("commentsList");
 
   if (commentsList) {
     const commentElement = createComment(
