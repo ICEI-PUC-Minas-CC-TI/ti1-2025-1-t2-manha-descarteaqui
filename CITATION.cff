@@ -1,4 +1,4 @@
-cff-version: 1.0.1
+cff-version: 1.0.0
 message: Please cite this software using these metadata.
 title: Descarte Aqui 
 keywords:
@@ -32,8 +32,8 @@ authors:
     given-names: Wesley
 repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-t2-manha-descarteaqui.git
 license: CC-BY-4.0
-version: 0.0.1
+version: 1.0.0
 date-released: 2025-06-01
 doi: 10.5281/descarte-aqui.2025
-url: https://descarteaqui.org
+url: https://descarteaqui.mateussousa.dev
 contact: contact@descarteaqui.org

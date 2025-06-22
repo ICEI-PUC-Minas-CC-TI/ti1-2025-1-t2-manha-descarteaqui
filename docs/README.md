@@ -154,9 +154,7 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 **✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
 
-✅ [Protótipo Interativo](https://marvelapp.com/prototype/73826jh/screen/97466553)  
-
-
+✅ [Protótipo Interativo (MarvelApp)](https://marvelapp.com/prototype/73826jh/screen/97466553)  
 
 # Metodologia
 
