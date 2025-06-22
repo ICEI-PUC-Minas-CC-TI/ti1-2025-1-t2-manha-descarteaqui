@@ -24,6 +24,7 @@
       crossorigin=""
     ></script>
     <script src="./assets/js/header.js" defer></script>
+    <script src="./assets/js/footer.js" defer></script>
     <link rel="stylesheet" href="assets/css/modal-local.css" />
   </head>
 
@@ -45,11 +46,11 @@
         <div id="filter-bar"></div>
       </div>
       <div id="map-container">
-        <div id="map" style="width: 100%; height: 100%; z-index: 1"></div>
-
-        <div id="info-container">
-          <h2>Informações</h2>
-          <div id="details-div"></div>
+        <div id="map" style="width: 100%; height: 100%; z-index: 1">
+          <div id="info-container">
+            <h2>Informações</h2>
+            <div id="details-div"></div>
+          </div>
         </div>
       </div>
     </section>
@@ -58,10 +59,7 @@
     <div id="placeModal" class="modal">
       <div class="modal-content">
         <span class="close-modal">&times;</span>
-
-        <!-- Cabeçalho com imagem e nome do local -->
         <div class="place-header">
-          <!-- Detalhes do local -->
           <div class="place-details">
             <h2 id="modalPlaceName" class="title">Nome do Local</h2>
             <p>
@@ -74,28 +72,25 @@
             </p>
           </div>
         </div>
-
-        <!-- Seção de comentários -->
         <div class="comments-section">
           <h2 class="title">Comentários</h2>
           <div id="commentsList"></div>
-          <div id="comment-form" style="display: none;">
+          <div id="comment-form" style="display: none">
             <textarea
               id="commentText"
               placeholder="Escreva seu comentário aqui..."
             ></textarea>
             <button id="submitComment">Enviar</button>
           </div>
-          <div id="logInForm" style="display: none;">
+          <div id="logInForm" style="display: none">
             <h3>Você não está logado na sua conta</h3>
-            <p>
-              Para poder comentar você precisa estar logado em uma conta
-            </p>
+            <p>Para poder comentar você precisa estar logado em uma conta</p>
           </div>
         </div>
       </div>
     </div>
+    <footer>
 
-    <footer>mateussousa.dev</footer>
+    </footer>
   </body>
 </html>

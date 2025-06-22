@@ -44,7 +44,6 @@ body {
   height: auto;
 }
 
-
 h1 {
   font-size: 3rem;
   margin: 0;
@@ -91,34 +90,25 @@ label {
   gap: 10px;
 }
 
-footer {
-  height: 20vh;
-  background-color: var(--primary-green);
-  position: relative;
-  z-index: 11;
-}
-
 main {
   width: auto;
-  height: 90vh;
   background-color: #ffffff;
   display: flex;
+  min-height: 80vh;
   align-items: end;
   justify-content: center;
   background-image: url(../../images/quiet-street_v45k.svg);
   background-repeat: no-repeat;
-    background-size:150vh ;
-    background-position: left bottom;
-    
+  background-size: 150vh;
+  background-position: left bottom;
 }
-
-
 
 #container {
   display: flex;
   width: 35%;
+  min-width: 500px;
   flex-direction: column;
-  height: 80vh;
+  height: 80%;
   gap: 5px;
   padding: 2vh 5vh 2vh 5vh;
   background-color: var(--primary-green);
@@ -141,7 +131,8 @@ main {
     padding-top: 2vh;
     background-image: none;
   }
-  h1, #container h2 {
+  h1,
+  #container h2 {
     font-size: 2.2rem;
   }
   #container label {
@@ -173,7 +164,8 @@ main {
     padding: 2vh 1vw;
     border-radius: 0;
   }
-  h1, #container h2 {
+  h1,
+  #container h2 {
     font-size: 1.5rem;
   }
   #container label {
@@ -245,11 +237,11 @@ input[type="password"]:focus {
 }
 
 #entrar-conta {
-    color: white;
-    font-size: 1.5rem;
-    text-decoration: underline;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 button {

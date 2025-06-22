@@ -148,7 +148,7 @@ function mobileToggle() {
   if (!sidebar) {
     return;
   }
-
+  
   const overlay = document.createElement("div");
   overlay.id = "sidebar-overlay";
 
@@ -205,6 +205,7 @@ function mobileToggle() {
     sidebar.classList.remove("open");
     overlay.classList.remove("active");
     toggle.style.display = "block";
+    sidebar.display = "block";
   });
 
   toggle.addEventListener("click", function () {
@@ -226,7 +227,7 @@ function mobileToggle() {
 async function populateSection(userData) {
   const lixosList = document.getElementById("lixos-list");
   const quizesList = document.getElementById("quizes-list");
-  if(!lixosList || !quizesList) { 
+  if (!lixosList || !quizesList) {
     return;
   }
 
@@ -264,8 +265,10 @@ async function populateSection(userData) {
     checkMark.style.display = "none";
     if (userData) {
       const userParsedData = JSON.parse(userData);
-      if (userParsedData && userParsedData.correctQuiz.includes(quiz.id)) {
-        checkMark.style.display = "block";
+      if (userParsedData.correctQuiz) {
+        if (userParsedData && userParsedData.correctQuiz.includes(quiz.id)) {
+          checkMark.style.display = "block";
+        }
       }
     }
     li.appendChild(checkMark);

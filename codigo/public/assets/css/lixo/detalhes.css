@@ -107,13 +107,6 @@ h2 {
   height: auto;
 }
 
-footer {
-  height: 20vh;
-  background-color: var(--primary-green);
-  position: relative;
-  z-index: 11;
-}
-
 main {
   width: auto;
   height: 90vh;
@@ -419,19 +412,7 @@ main {
     font-size: 1rem;
   }
 
-  footer {
-    position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: auto;
-    width: 100vw;
-    max-width: 100vw;
-    border-radius: 0;
-    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
-    z-index: 1001;
-    padding: 12px;
-  }
+
 }
 
 /* ...existing code... */
@@ -520,17 +501,5 @@ main {
     font-size: 1.1rem;
   }
 
-  footer {
-    position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: auto;
-    width: 100vw;
-    max-width: 100vw;
-    border-radius: 0;
-    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
-    z-index: 1001;
-    padding: 12px;
-  }
+
 }

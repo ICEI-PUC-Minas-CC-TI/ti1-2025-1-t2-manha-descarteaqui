@@ -2,27 +2,28 @@ document.addEventListener("DOMContentLoaded", async function () {
   await carregarMembros();
 });
 
-
-
 async function carregarMembros() {
-  const container = document.getElementById("membros-container");
+  const container = document.getElementById("team-members");
 
   try {
     const response = await fetch("/sobre-nos");
     const membros = await response.json();
 
-
     membros.forEach((membro) => {
-      const card = document.createElement("div");
-      card.className = "membro-card";
-      card.innerHTML = `
-       <div> <p><strong>Nome:</strong>${membro.nome}</p>
-        <img src="../../assets/images/logo.png" alt="Foto de Mateus de Sousa" style="width: 150px; height: auto;">
-        <p><strong>Instituição:</strong> Universidade Federal do Meio Ambiente</p>
-        <p><strong>Email:</strong> <a href="mailto:mateus.sousa@example.com">${membro.email}</a></p>
+      const membroDiv = document.createElement("div");
+      membroDiv.className = "team-member";
+
+      //divide the nome into first and last name
+      membro.nome = membro.nome.split(" ");
+      const firstName = membro.nome[0];
+      membroDiv.innerHTML = `
+        <img src="${membro.foto}" alt="${membro.nome}" />
+        <div>
+          <h3>${firstName}</h3>
+          <p>${membro.descricao}</p>
         </div>
       `;
-      container.appendChild(card);
+      container.appendChild(membroDiv);
     });
   } catch (error) {
     console.error("Erro ao carregar os membros:", error);

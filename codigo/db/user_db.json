@@ -17,7 +17,11 @@
       "email": "mateus.sousa.santos191@gmail.com",
       "senha": "123",
       "user_img": "/assets/images/male-avatar.svg",
-      "correctQuiz": [2, 3, 1]
+      "correctQuiz": [
+        2,
+        3,
+        1
+      ]
     },
     {
       "nome": "teste",
@@ -144,6 +148,12 @@
       "email": "carlos19@yahoo.com",
       "senha": "3it1m0",
       "user_img": "/assets/images/female-avatar.svg"
+    },
+    {
+      "nome": "Mateus de Sousa Santos",
+      "email": "teste@email.com",
+      "senha": "123",
+      "user_img": "/assets/images/male-avatar.svg"
     }
   ]
 }

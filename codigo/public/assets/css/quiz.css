@@ -90,12 +90,7 @@ h2 {
   height: auto;
 }
 
-footer {
-  height: 20vh;
-  background-color: var(--primary-green);
-  position: relative;
-  z-index: 11;
-}
+
 
 main {
   width: auto;

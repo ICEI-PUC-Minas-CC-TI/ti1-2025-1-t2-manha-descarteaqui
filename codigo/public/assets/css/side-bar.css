@@ -1,6 +1,6 @@
 #side-bar {
   width: 60vh;
-  height: 90vh;
+  height: 100%;
   background-color: #ffffff;
   overflow-y: auto;
   z-index: 10;
@@ -23,12 +23,5 @@ section {
     z-index: 5000;
     height: 100vh;
   }
-footer {
-    height: 20vh;
-    background-color: var(--primary-green);
-    position: relative;
-    z-index: 11;
-    bottom: 0       ;
-}
   
 }

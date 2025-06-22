@@ -377,7 +377,6 @@ async function loadComments(id, cidade, tipo) {
         month: "2-digit",
         day: "2-digit",
       });
-      console.log(comentario);
       const comment = createComment(
         comentario.user.foto,
         comentario.user.nome,
@@ -412,7 +411,7 @@ function createComment(
   // Criar a imagem do avatar
   const avatarImg = document.createElement("img");
   avatarImg.className = "comment-avatar";
-  avatarImg.src = avatarUrl || "https://via.placeholder.com/50"; // URL padrão se não for fornecido
+  avatarImg.src = avatarUrl || "/assets/images/male-avatar.svg"; // URL padrão se não for fornecido
   avatarImg.alt = "Photo";
 
   // Criar container de informações do usuário
