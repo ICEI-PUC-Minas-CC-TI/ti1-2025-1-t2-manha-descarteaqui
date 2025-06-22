@@ -219,7 +219,7 @@ Exibe informações detalhadas de um ponto de coleta selecionado.
 
 Estrutura de dados: Locais de Coleta
 
-Instruções de acesso:![detalhes](images/Comentdesc.png.png)
+Instruções de acesso:![detalhes](images/Comentdesc.png)
 
 No mapa, clique sobre um ponto de coleta.
 
