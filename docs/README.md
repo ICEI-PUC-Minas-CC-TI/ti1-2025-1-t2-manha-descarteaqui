@@ -143,7 +143,7 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 ### Wireframes
 
-![wireframe](image/Visualhomepage.png)
+![wireframe](images/Visualhomepage.png)
 
 ### User Flow
 
