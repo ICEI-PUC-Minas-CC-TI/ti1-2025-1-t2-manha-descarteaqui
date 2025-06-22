@@ -145,14 +145,6 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 ![wireframe](images\Visualhomepage.jpg)
 
-
-#### TELA XPTO ⚠️ EXEMPLO ⚠️
-
-Descrição para a tela XPTO
-
-![Exemplo de wireframe](images/exemplo-wireframe.png)
-
-
 ### User Flow
 
 **✳️✳️✳️ COLOQUE AQUI O DIAGRAMA DE FLUXO DE TELAS ✳️✳️✳️**
@@ -236,71 +228,265 @@ O vídeo a seguir traz uma apresentação do problema que a equipe está tratand
 
 Esta seção apresenta as funcionalidades da solução.Info
 
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
+##### 🔹 Funcionalidade 1 – Página Principal com Mapa Interativo
+Permite ao usuário visualizar os pontos de coleta disponíveis em sua cidade com base em sua localização ou pesquisa manual.
 
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
+Estrutura de dados: Locais de Coleta
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
+Instruções de acesso:
 
-![Tela de Funcionalidade](images/exemplo-funcionalidade.png)
+Acesse o site e vá para a página principal.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente cada uma das funcionalidades que a aplicação fornece tanto para os usuários quanto aos administradores da solução.
->
-> Inclua, para cada funcionalidade, itens como: (1) titulos e descrição da funcionalidade; (2) Estrutura de dados associada; (3) o detalhe sobre as instruções de acesso e uso.
+Use o mapa para explorar locais próximos.
+
+Utilize a barra lateral para filtrar os pontos por tipo de lixo (reciclável, eletrônico, orgânico, etc.).
+
+Use a barra de pesquisa para encontrar locais por nome, endereço ou tipo.
+
+Tela da funcionalidade:![home](images/HomeMap.png)
+
+🔹 Funcionalidade 2 – Tipos de Lixo
+Informa aos usuários os diferentes tipos de resíduos e orientações sobre o descarte correto.
+
+Estrutura de dados: Tipos de Lixo
+
+Instruções de acesso:
+
+Clique na opção “Tipos de Lixo” no menu superior ou lateral.
+
+Explore a lista com ícones, cores e descrições para entender como separar corretamente o lixo.
+
+Tela da funcionalidade:![Tipos](images/Lixo.png)
+
+🔹 Funcionalidade 3 – Detalhes sobre o Local de Coleta
+Exibe informações detalhadas de um ponto de coleta selecionado.
+
+Estrutura de dados: Locais de Coleta
+
+Instruções de acesso:![detalhes](images/Comentdesc.png.png)
+
+No mapa, clique sobre um ponto de coleta.
+
+Uma página ou popup exibirá nome, endereço, tipos aceitos, horário de funcionamento e imagens.
+
+Tela da funcionalidade:
+
+🔹 Funcionalidade 4 – Login e Cadastro de Usuário
+Permite ao usuário criar uma conta e acessar funcionalidades personalizadas, como comentários e favoritos.
+
+Estrutura de dados: Usuários
+
+Instruções de acesso:
+
+Clique em “Entrar” no canto superior.
+
+Faça login com email e senha ou crie uma nova conta.
+
+Após o login, o sistema exibe o nome do usuário e permite interações adicionais.
+
+Tela da funcionalidade:![Login](images/login.png)
+
+🔹 Funcionalidade 5 – Comentários
+Os usuários podem deixar comentários sobre os locais de coleta, avaliando a experiência.
+
+Estrutura de dados: Comentários
+
+Instruções de acesso:
+
+Acesse os detalhes de um local de coleta.
+
+Role até a seção de comentários.
+
+Escreva e envie sua avaliação (é necessário estar logado).
+
+Tela da funcionalidade:![Coment](images/Comentdesc.png.png)
+
+🔹 Funcionalidade 6 – Quiz Educativo
+Um jogo interativo para ensinar os usuários sobre o descarte correto dos resíduos.
+
+Estrutura de dados: Quiz
+
+Instruções de acesso:
+
+Acesse o menu “Quiz”.
+
+Responda perguntas sobre separação e descarte de lixo.
+
+Ao final, veja sua pontuação e aprenda com as correções.
+
+Tela da funcionalidade:![Quiz](images/Quiz.png)
+🔹 Funcionalidade 7 – Sobre Nós
+Apresenta os integrantes do projeto com suas informações pessoais e descrição.
+
+Estrutura de dados: sobre_nos
+
+Instruções de acesso:
+
+Acesse o menu “Sobre Nós”.
+
+Veja a lista dos integrantes do projeto com nome, foto, descrição e e-mail.
+
+Conheça quem está por trás do desenvolvimento da aplicação.
+
+Tela da funcionalidade:![sobrenos](images/Sobrenos.png)
+
+Exibe dinamicamente os dados dos integrantes usando o JSON para preencher fotos, nomes, descrições e contatos.
+
 
 ## Estruturas de Dados
 
-Descrição das estruturas de dados utilizadas na solução com exemplos no formato JSON.Info
+## Tipos de Lixo (`tiposDeLixo`)
 
-##### Estrutura de Dados - Contatos   ⚠️ EXEMPLO ⚠️
-
-Contatos da aplicação
+Representa os diferentes tipos de lixo, contendo informações sobre cor, descrição, descarte, curiosidades e imagem ilustrativa.
 
 ```json
-  {
-    "id": 1,
-    "nome": "Leanne Graham",
-    "cidade": "Belo Horizonte",
-    "categoria": "amigos",
-    "email": "Sincere@april.biz",
-    "telefone": "1-770-736-8031",
-    "website": "hildegard.org"
-  }
-  
+{
+  "tiposDeLixo": [
+    {
+      "id": "papel",
+      "nome": "Papel",
+      "cor": "#0064CF",
+      "descricao": "Papéis em geral como jornais, cadernos, folhas e embalagens de papel. (Guardanapos e papel higiênico usados, embalagens muito sujas de comida não são recicláveis)",
+      "descarte": "Separar do lixo comum: O papel deve ser separado dos resíduos orgânicos (como restos de comida) e dos recicláveis contaminados (como papel sujo de gordura). Evitar papel sujo: Papéis engordurados (ex: guardanapos usados, embalagens de fast food com óleo) não são recicláveis. Eles devem ir para o lixo comum. Dobrar ou achatar: Para facilitar o transporte e a coleta, caixas e papéis volumosos devem ser dobrados ou achatados. Armazenar seco e limpo: Papéis molhados ou úmidos dificultam o processo de reciclagem. Armazene-os em local seco até o descarte. Descarte em lixeira azul: A cor azul representa o papel no sistema de coleta seletiva.",
+      "curiosidades": "Reciclagem de papel economiza água: Produzir papel reciclado consome até 70% menos água do que produzir papel novo. Evita o desmatamento: A reciclagem de papel ajuda a reduzir a derrubada de árvores, pois reaproveita fibras já existentes. Papel pode ser reciclado várias vezes: Um papel pode ser reciclado de 4 a 7 vezes, até que suas fibras fiquem muito curtas. Brasil recicla muito papel: Cerca de 63% do papel consumido no Brasil é reciclado, segundo a ANAP (Associação Nacional dos Aparistas de Papel).",
+      "imagem": "https://portalresiduossolidos.com/category/tratamento-de-residuos/reciclagem-de-papel/"
+    }
+  ]
+}
 ```
 
-##### Estrutura de Dados - Usuários  ⚠️ EXEMPLO ⚠️
+---
 
-Registro dos usuários do sistema utilizados para login e para o perfil do sistema
+## Cidades (`cidades`)
+
+Contém as cidades cadastradas, com suas identificações e coordenadas geográficas.
 
 ```json
-  {
-    id: "eed55b91-45be-4f2c-81bc-7686135503f9",
-    email: "admin@abc.com",
-    id: "eed55b91-45be-4f2c-81bc-7686135503f9",
-    login: "admin",
-    nome: "Administrador do Sistema",
-    senha: "123"
-  }
+{
+  "cidades": [
+    {
+      "id": "sao_paulo",
+      "nome": "São Paulo",
+      "latitude": -23.5500,
+      "longitude": -46.6333
+    }
+  ]
+}
 ```
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente as estruturas de dados utilizadas na solução tanto para dados utilizados na essência da aplicação quanto outras estruturas que foram criadas para algum tipo de configuração
->
-> Nomeie a estrutura, coloque uma descrição sucinta e apresente um exemplo em formato JSON.
->
-> **Orientações:**
->
-> * [JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)
-> * [Trabalhando com JSON - Aprendendo desenvolvimento web | MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
+---
+
+## Usuários (`usuarios`)
+
+Lista de usuários do sistema, com dados para login e perfil.
+
+```json
+{
+  "usuarios": [
+    {
+      "id": "user-001",
+      "nome": "Ana",
+      "email": "ana0@outlook.com",
+      "senha": "w9x52d",
+      "user_img": "/assets/images/male-avatar.svg"
+    },
+    {
+      "id": "eed55b91-45be-4f2c-81bc-7686135503f9",
+      "login": "admin",
+      "nome": "Administrador do Sistema",
+      "email": "admin@abc.com",
+      "senha": "123"
+    }
+  ]
+}
+```
+
+---
+
+## Sobre Nós (`sobre_nos`)
+
+Informações sobre integrantes da equipe ou pessoas relacionadas ao projeto.
+
+```json
+{
+  "sobre_nos": [
+    {
+      "id": "sobre-001",
+      "nome": "Mateus de Sousa Santos",
+      "foto": "/assets/images/male-avatar.svg",
+      "descricao": "Estudante da PUC com interesse em tecnologia e meio ambiente.",
+      "email": "mateus.sousa.santos191@gmail.com"
+    }
+  ]
+}
+```
+
+---
+
+## Quiz (`quizes`)
+
+Questionários compostos por perguntas e respostas, com indicação da resposta correta.
+
+```json
+{
+  "quizes": [
+    {
+      "id": 1,
+      "nome": "🌱O que é Lixo?",
+      "descricao": "Lixo é tudo aquilo que não tem mais utilidade para o ser humano, mas que pode ser reaproveitado por outros seres vivos ou pela natureza.",
+      "perguntas": [
+        {
+          "id": 1,
+          "texto": "O que é lixo?",
+          "respostas": [
+            { "id": 1, "texto": "Tudo que não tem mais utilidade para o ser humano" },
+            { "id": 2, "texto": "Tudo que é produzido pelo ser humano" },
+            { "id": 3, "texto": "Tudo que é orgânico" },
+            { "id": 4, "texto": "Tudo que é reciclável" }
+          ],
+          "resposta_correta_id": 1
+        }
+      ]
+    }
+  ]
+}
+```
+
+---
+
+## Locais e Comentários (`locais`)
+
+Informações de locais para descarte e comentários dos usuários.
+
+```json
+{
+  "locais": [
+    {
+      "id": "ChIJy2LC53eXpgAR4Z_Mb1vo5tw",
+      "name": "DISK DESCARTE",
+      "address": "R. Bueno do Prado, 72 - João Pinheiro, Belo Horizonte - MG, 30530-430, Brazil",
+      "latitude": -19.9299167,
+      "longitude": -43.99340110000001,
+      "googleMapsUri": "https://maps.google.com/?cid=15917665412402946017",
+      "phone": "(31) 98212-7894",
+      "rating": 5,
+      "comentarios": [
+        {
+          "comentario": "Poderia ter mais opções de descarte.",
+          "data": "2025-05-21T22:29:55.645Z",
+          "user": {
+            "nome": "Ana",
+            "email": "ana7@example.com",
+            "user_img": "/assets/images/female-avatar.svg"
+          }
+        }
+      ]
+    }
+  ]
+}
+```
+
+
 
 ## Módulos e APIs
 
