@@ -255,7 +255,7 @@ Role até a seção de comentários.
 
 Escreva e envie sua avaliação (é necessário estar logado).
 
-Tela da funcionalidade:![Coment](images/Comentdesc.png.png)
+Tela da funcionalidade:![Coment](images/Comentdesc.png)
 
 🔹 Funcionalidade 6 – Quiz Educativo
 Um jogo interativo para ensinar os usuários sobre o descarte correto dos resíduos.
