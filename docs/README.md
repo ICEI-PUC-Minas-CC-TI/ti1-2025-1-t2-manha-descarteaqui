@@ -143,7 +143,7 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 ### Wireframes
 
-![wireframe](images\Visualhomepage.png)
+![wireframe](image/Visualhomepage.png)
 
 ### User Flow
 
@@ -151,8 +151,6 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 ![Fluxo de telas](images/UserFlow.png)
 
 ### Protótipo Interativo
-
-**✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
 
 ✅ [Protótipo Interativo (MarvelApp)](https://marvelapp.com/prototype/73826jh/screen/97466553)  
 
