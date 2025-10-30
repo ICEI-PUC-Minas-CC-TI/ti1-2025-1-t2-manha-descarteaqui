@@ -13,7 +13,13 @@ server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
 server.use((req,res,next) => {
-  if(req.url.startsWith("/tipos-lixo") || req.url.startsWith("/tipos-cidade")) {
+  // Cache static and semi-static data endpoints
+  if(req.url.startsWith("/tipos-lixo") || 
+     req.url.startsWith("/tipos-cidade") ||
+     req.url.startsWith("/lixo-detalhes/") ||
+     req.url.startsWith("/quizzes") ||
+     req.url.startsWith("/sobre-nos") ||
+     req.url.startsWith("/lugares/")) {
     res.set("Cache-Control", "public, max-age=3600");
   } 
   next();

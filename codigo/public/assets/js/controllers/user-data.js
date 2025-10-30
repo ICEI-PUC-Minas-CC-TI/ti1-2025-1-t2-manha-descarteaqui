@@ -2,6 +2,42 @@ const fs = require("fs");
 const crypto = require("crypto");
 const path = require("path");
 
+// Cache for user database to reduce file I/O
+let userDbCache = null;
+let userDbCacheTime = 0;
+const USER_CACHE_TTL = 60 * 1000; // 1 minute cache
+
+// Helper function to get user database with caching for read operations
+function getUserDb(callback) {
+  const now = Date.now();
+  if (userDbCache && (now - userDbCacheTime) < USER_CACHE_TTL) {
+    callback(null, userDbCache);
+    return;
+  }
+
+  const filePath = path.join(__dirname, "../../../../db/user_db.json");
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      callback(err, null);
+      return;
+    }
+    try {
+      const userData = JSON.parse(data);
+      userDbCache = userData;
+      userDbCacheTime = now;
+      callback(null, userData);
+    } catch (e) {
+      callback(e, null);
+    }
+  });
+}
+
+// Helper function to invalidate cache after write operations
+function invalidateUserDbCache() {
+  userDbCache = null;
+  userDbCacheTime = 0;
+}
+
 function criarConta(nome, email, senha, callback) {
   const filePath = path.join(__dirname, "../../../../db/user_db.json");
 
@@ -38,6 +74,7 @@ function criarConta(nome, email, senha, callback) {
       if (err) {
         return callback({ status: 500, message: "Erro ao salvar dados" }, null);
       }
+      invalidateUserDbCache();
       const account_token = crypto.randomBytes(16).toString("hex");
       callback(null, { newUser, account_token });
     });
@@ -45,19 +82,9 @@ function criarConta(nome, email, senha, callback) {
 }
 
 function entrarConta(email, senha, callback) {
-  const filePath = path.join(__dirname, "../../../../db/user_db.json");
-
-  fs.readFile(filePath, "utf8", (err, data) => {
+  getUserDb((err, users_data) => {
     if (err) {
       return callback({ status: 500, message: "Erro ao ler dados" }, null);
-    }
-    let users_data = [];
-    if (data) {
-      try {
-        users_data = JSON.parse(data);
-      } catch (e) {
-        users_data = [];
-      }
     }
 
     const user = users_data.usuarios.find(
@@ -108,6 +135,7 @@ function editarConta(email, senha, nome, callback) {
       if (err) {
         return callback({ status: 500, message: "Erro ao salvar dados" }, null);
       }
+      invalidateUserDbCache();
       callback(null, users[userIndex]);
     });
   });
@@ -148,26 +176,17 @@ function deletarConta( email, callback) {
         callback(err, null);
         return;
       }
+      invalidateUserDbCache();
       callback(null,"Usuário deletado com sucesso");
     });
   });
 }
 
 function getContaUsuario(callback, email) {
-  const filePath = path.join(__dirname, "../../../../db/user_db.json");
-
-  fs.readFile(filePath, "utf8", (err, data) => {
+  getUserDb((err, user_data) => {
     if (err) {
       callback(err, null);
       return;
-    }
-    let user_data = [];
-    if (data) {
-      try {
-        user_data = JSON.parse(data);
-      } catch (e) {
-        user_data = [];
-      }
     }
     const user = user_data.usuarios.find((user) => user.email === email);
     if (!user) {
@@ -211,6 +230,7 @@ function setQuizStatus(email, quizId, callback) {
       if (err) {
         return callback({ status: 500, message: "Erro ao salvar dados" }, null);
       }
+      invalidateUserDbCache();
       callback(null, { message: "Status do quiz atualizado com sucesso" });
     });
   });

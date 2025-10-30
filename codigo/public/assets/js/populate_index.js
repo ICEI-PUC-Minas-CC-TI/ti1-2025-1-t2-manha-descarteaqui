@@ -196,6 +196,9 @@ async function adicionarMarcadoresPorTipoDeLixo(
     return;
   }
 
+  // Batch marker creation to reduce DOM operations
+  const markerBatch = [];
+  
   lugares.forEach((lugar) => {
     const detalhesTipoLixo = detalhesTiposDeLixo.find(
       (tipo) => tipo.id === lugar.tipo
@@ -210,68 +213,78 @@ async function adicionarMarcadoresPorTipoDeLixo(
     });
 
     lugar.lugares.forEach((local) => {
-      const marcador = L.marker([local.latitude, local.longitude], {
+      markerBatch.push({
+        local,
         icon: iconePersonalizado,
-      }).addTo(mapa);
-
-      const div = criarElemento("div", {
-        style: `min-width:250px;gap:15px;`,
+        cor: corDoMarcador,
+        tipo: lugar.tipo
       });
-      criarElemento(
-        "h3",
-        {
-          style: `margin:0;color:${corDoMarcador};font-size:1.5rem`,
-        },
-        div,
-        local.name
-      );
-      criarElemento(
-        "p",
-        {
-          style: `margin:0;font-size:0.9rem`,
-        },
-        div,
-        local.address
-      );
-
-      const divDetalhes = criarElemento(
-        "div",
-        {
-          style: `display:flex;justify-content:space-between;align-items:center;margin-top:10px;`,
-        },
-        div
-      );
-      criarElemento(
-        "a",
-        {
-          style: `margin:0;font-size:1rem`,
-          href: local.googleMapsUri,
-          target: "_blank",
-        },
-        divDetalhes,
-        "Link para o Google Maps"
-      );
-      criarElemento(
-        "button",
-        {
-          className: "details-button",
-          style: `margin:0;font-size:1rem;`,
-          onclick: () => {
-            openModal({
-              cidade: cidadeSelecionada,
-              tipo: lugar.tipo,
-              id: local.id,
-            });
-          },
-        },
-        divDetalhes,
-        "Ver Detalhes"
-      );
-
-      marcador.bindPopup(div);
-
-      marcadoresAtuais.push(marcador);
     });
+  });
+
+  // Add all markers in one go
+  markerBatch.forEach(({ local, icon, cor, tipo }) => {
+    const marcador = L.marker([local.latitude, local.longitude], {
+      icon: icon,
+    }).addTo(mapa);
+
+    const div = criarElemento("div", {
+      style: `min-width:250px;gap:15px;`,
+    });
+    criarElemento(
+      "h3",
+      {
+        style: `margin:0;color:${cor};font-size:1.5rem`,
+      },
+      div,
+      local.name
+    );
+    criarElemento(
+      "p",
+      {
+        style: `margin:0;font-size:0.9rem`,
+      },
+      div,
+      local.address
+    );
+
+    const divDetalhes = criarElemento(
+      "div",
+      {
+        style: `display:flex;justify-content:space-between;align-items:center;margin-top:10px;`,
+      },
+      div
+    );
+    criarElemento(
+      "a",
+      {
+        style: `margin:0;font-size:1rem`,
+        href: local.googleMapsUri,
+        target: "_blank",
+      },
+      divDetalhes,
+      "Link para o Google Maps"
+    );
+    criarElemento(
+      "button",
+      {
+        className: "details-button",
+        style: `margin:0;font-size:1rem;`,
+        onclick: () => {
+          openModal({
+            cidade: cidadeSelecionada,
+            tipo: tipo,
+            id: local.id,
+          });
+        },
+      },
+      divDetalhes,
+      "Ver Detalhes"
+    );
+
+    marcador.bindPopup(div);
+
+    marcadoresAtuais.push(marcador);
   });
 }
 
@@ -329,6 +342,8 @@ async function openModal(placeData) {
       commentForm.style.display = "none";
       loginMessage.style.display = "block";
     }
+    // Clear previous comments before loading new ones
+    document.getElementById("commentsList").innerHTML = "";
     loadComments(placeData.id, placeData.cidade, placeData.tipo);
     document.getElementById("submitComment").onclick = () => {
       const commentText = document.getElementById("commentText").value;
@@ -371,7 +386,10 @@ async function loadComments(id, cidade, tipo) {
       `/lugares/${cidade}/${tipo}/${id}/comentarios`
     );
     const data = await response.json();
-    data.map((comentario) => {
+    
+    // Use DocumentFragment for better performance when adding multiple elements
+    const fragment = document.createDocumentFragment();
+    data.forEach((comentario) => {
       const brDate = new Date(comentario.data).toLocaleDateString("pt-BR", {
         year: "numeric",
         month: "2-digit",
@@ -382,11 +400,11 @@ async function loadComments(id, cidade, tipo) {
         comentario.user.nome,
         comentario.user.email,
         comentario.comentario,
-
         brDate || ""
       );
-      document.getElementById("commentsList").appendChild(comment);
+      fragment.appendChild(comment);
     });
+    document.getElementById("commentsList").appendChild(fragment);
   } catch (error) {
     console.error("Erro ao carregar os comentários:", error);
   }
