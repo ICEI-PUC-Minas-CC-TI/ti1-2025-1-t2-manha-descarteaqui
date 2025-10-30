@@ -225,7 +225,7 @@ async function adicionarMarcadoresPorTipoDeLixo(
   // Add all markers in one go
   markerBatch.forEach(({ local, icon, cor, tipo }) => {
     const marcador = L.marker([local.latitude, local.longitude], {
-      icon: icon,
+      icon,
     }).addTo(mapa);
 
     const div = criarElemento("div", {

@@ -99,11 +99,11 @@ function lugaresDeColeta(tiposLixo, cidade, callback) {
       getLugarData(cidade, tipo, (err, data) => {
         if (err) {
           console.error(`Error reading place data for ${cidade}/${tipo}:`, err);
-          resolve(null);
+          resolve(null); // Resolve with null to continue processing other types
           return;
         }
         lugares.push({ tipo, lugares: data });
-        resolve();
+        resolve(data); // Resolve with data for consistency
       });
     });
   });
